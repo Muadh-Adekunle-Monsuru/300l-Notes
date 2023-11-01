@@ -1,0 +1,12 @@
+# Critical Success Factors  
+
+- Reading recommended textbooks
+	- database system: the complete reference
+	- 12 Chapters pdf material
+- Laptop: 
+	 - Ms Access
+	 - MySQL
+	 - Postgress SQL
+	 - MongoDB
+ - Assignments
+ - Past Questions

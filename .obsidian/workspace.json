@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "b9c3db8a20eff795",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ae004052582919c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34ddf45c438a405a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CPS 309/Critical Success Factors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "145ef58352c0552e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CPS 309/Intro to Database.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e82a9662f13a535",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CPS 303/CPS 303.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d31681ab6e5731dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CPS 303/CPS 303.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e351e7761d48705b",
+    "type": "split",
+    "children": [
+      {
+        "id": "978a210e1dac1976",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f4d13fab84714dc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "94ddfdde725c85c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "68b57b0e33760663",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "caf2c4461deba7aa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "36d06e70a7634354",
+    "type": "split",
+    "children": [
+      {
+        "id": "49dd3dd2d8129c4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2340a7f5ed8364d2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CPS 303/CPS 303.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aec4e86d30bac4b5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CPS 303/CPS 303.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c832d0f8074a7537",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3fa528872dac7513",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CPS 303/CPS 303.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d31681ab6e5731dd",
+  "lastOpenFiles": [
+    "CPS 305/Operating System II.md",
+    "CPS 303/CPS 303.md",
+    "CPS 305",
+    "CPS 303/Documents/vb.net_quick_guide.pdf",
+    "CPS 303/Documents/Unconfirmed 753469.crdownload",
+    "CPS 303/Documents",
+    "CPS 303/New folder",
+    "Untitled.canvas",
+    "2023-10-31.md",
+    "CPS 309/Intro to Database.md",
+    "CPS 303",
+    "CPS 309/Critical Success Factors.md",
+    "CPS 309/Documents/Database Systems the complete guide.pdf",
+    "CPS 309/Documents/Unconfirmed 573332.crdownload",
+    "CPS 309/Documents",
+    "CPS 309/New folder"
+  ]
+}
