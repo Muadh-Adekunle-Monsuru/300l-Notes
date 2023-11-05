@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9ae004052582919c",
+        "id": "b960ad10d6d29340",
         "type": "tabs",
         "children": [
           {
-            "id": "34ddf45c438a405a",
+            "id": "ebd246e92e2d8726",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPS 309/Critical Success Factors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "145ef58352c0552e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPS 309/Intro to Database.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e82a9662f13a535",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPS 303/CPS 303.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d31681ab6e5731dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPS 303/CPS 303.md",
+                "file": "CPS 305/Operating System II.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPS 303/CPS 303.md",
+                "file": "CPS 305/Operating System II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPS 303/CPS 303.md",
+                "file": "CPS 305/Operating System II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPS 303/CPS 303.md"
+                "file": "CPS 305/Operating System II.md"
               }
             }
           }
@@ -191,23 +154,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d31681ab6e5731dd",
+  "active": "ebd246e92e2d8726",
   "lastOpenFiles": [
-    "CPS 305/Operating System II.md",
+    "CPS 301/Assignment 1.md",
+    "Untitled 1.md",
+    "Untitled.md",
     "CPS 303/CPS 303.md",
-    "CPS 305",
+    "CPS 303/Pg 1-20 Summary.md",
     "CPS 303/Documents/vb.net_quick_guide.pdf",
-    "CPS 303/Documents/Unconfirmed 753469.crdownload",
-    "CPS 303/Documents",
-    "CPS 303/New folder",
-    "Untitled.canvas",
-    "2023-10-31.md",
+    "CPS 301/Structured Programming.md",
     "CPS 309/Intro to Database.md",
-    "CPS 303",
+    "CPS 301/Chapter 1.md",
+    "CPS 305/Operating System II.md",
+    "CPS 301",
+    "CPS 309/Assignment 1.md",
+    "CPS 303/Codes/helloWorld/obj/Debug/net8.0/helloWorld.vbproj.FileListAbsolute.txt",
+    "CPS 303/Codes/helloWorld/bin/Debug/net8.0/helloWorld.pdb",
+    "CPS 303/Codes/helloWorld/obj/Debug/net8.0/ref/helloWorld.dll",
+    "CPS 303/Codes/helloWorld/bin/Debug/net8.0/helloWorld.dll",
+    "CPS 303/Codes/helloWorld/bin/Debug/net8.0/helloWorld.runtimeconfig.json",
+    "CPS 303/Codes/helloWorld/obj/Debug/net8.0/helloWorld.genruntimeconfig.cache",
+    "CPS 303/Codes/helloWorld/bin/Debug/net8.0/helloWorld.deps.json",
+    "CPS 303/Codes/helloWorld/bin/Debug/net8.0/helloWorld.exe",
     "CPS 309/Critical Success Factors.md",
-    "CPS 309/Documents/Database Systems the complete guide.pdf",
-    "CPS 309/Documents/Unconfirmed 573332.crdownload",
-    "CPS 309/Documents",
-    "CPS 309/New folder"
+    "CPS 303/Documents/Radioid Consulting_files/logo.png",
+    "CPS 303/Documents/Radioid Consulting_files/logo-small.png",
+    "Untitled.canvas",
+    "2023-10-31.md"
   ]
 }

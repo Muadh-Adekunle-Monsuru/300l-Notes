@@ -1,4 +1,3 @@
-# Critical Success Factors  
 
 - Reading recommended textbooks
 	- database system: the complete reference

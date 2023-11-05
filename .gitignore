@@ -1,2 +1,19 @@
 
 *.pdf
+*.cache
+*.json
+*.targets
+*.props
+*.dll
+CPS 303/Codes/helloWorld/obj/Debug/net8.0/helloWorld.vbproj.FileListAbsolute.txt
+*.json
+*.json
+*.v2
+*.json
+*.vsidx
+CPS 303/Codes/helloWorld/.vs/helloWorld/v17/.suo
+*.bin
+*.pdb
+*.sln
+*.vbproj
+*.exe
