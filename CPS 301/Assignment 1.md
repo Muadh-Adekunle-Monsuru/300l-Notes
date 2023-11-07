@@ -1,4 +1,4 @@
-3/10/23
+3/11/23
 Structured programming is a programming paradigm that aims to improve the clarity, quality, and development time of a computer program by enforcing structured control flow constructs, such as selection (if/the n/else), repetition (while and for), and sequence .  
 
 Structured programming discourages the use of unconditional jumps, such as the GOTO statement, which can make code difficult to read and understand. Instead, it encourages the use of control flow constructs such as IF, ELSE, WHILE, and DO-WHILE loops.

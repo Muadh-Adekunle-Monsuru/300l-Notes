@@ -1,4 +1,4 @@
-
+/.obsidian
 *.pdf
 *.cache
 *.json
@@ -17,3 +17,6 @@ CPS 303/Codes/helloWorld/.vs/helloWorld/v17/.suo
 *.sln
 *.vbproj
 *.exe
+.obsidian/plugins/obsidian-completr/scanned_words.txt
+.obsidian/workspace.json
+.obsidian/workspace.json
