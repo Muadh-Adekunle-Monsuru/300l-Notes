@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b960ad10d6d29340",
+        "id": "8df21026cab498ad",
         "type": "tabs",
         "children": [
           {
-            "id": "f0d40ec484983042",
+            "id": "30b60fcaae8338df",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPS 301/Assignment 1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPS 301/Assignment 1.md",
+                "file": "GNS 201/Class 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPS 301/Assignment 1.md",
+                "file": "GNS 201/Class 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPS 301/Assignment 1.md"
+                "file": "GNS 201/Class 1.md"
               }
             }
           }
@@ -154,31 +150,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f0d40ec484983042",
+  "active": "2f4d13fab84714dc",
   "lastOpenFiles": [
-    "CPS 307/Fundamentals of Data Structures.md",
-    "CPS 307/Types of Linked List.md",
+    "GNS 201/WhatsApp Image 2023-11-08 at 9.40.59 AM.jpeg",
+    "GNS 201/Class 1.md",
+    "GNS 201/WhatsApp Image 2023-11-08 at 9.40.11 AM.jpeg",
     "CPS 323/Algorithm Complexity.md",
-    "CPS 323",
-    "CPS 305/Operating System II.md",
-    "CPS 307",
-    "CPS 301/Assignment 1.md",
-    "Untitled 1.md",
-    "Untitled.md",
     "CPS 303/CPS 303.md",
-    "CPS 303/Pg 1-20 Summary.md",
-    "CPS 303/Documents/vb.net_quick_guide.pdf",
-    "CPS 301/Structured Programming.md",
     "CPS 309/Intro to Database.md",
-    "CPS 301/Chapter 1.md",
-    "CPS 301",
+    "CPS 307/Fundamentals of Data Structures.md",
+    "CPS 303/Pg 1-20 Summary.md",
+    "CPS 301/Objectives.md",
+    "CPS 301/Structured Programming.md",
+    "CPS 301/Assignment 2.md",
+    "CPS 301/Programming Fundamentals.md",
+    "CPS 301/Assignment 1.md",
+    "CPS 315/Errors.md",
+    "CPS 315",
+    "CPS 313/System Design and Analysis.md",
+    "GNS 201/WhatsApp Image 2023-11-08 at 9.40.11 AM.jpeg.crdownload",
+    "GNS 201",
+    "CPS 313/Documents/Intro to UML.pdf",
+    "CPS 313/Documents/Unconfirmed 777954.crdownload",
+    "CPS 313/Documents",
+    "CPS 313/New folder",
+    "CPS 305/Synchronization Cont...md",
+    "CPS 305/Assignment 1.md",
+    "CPS 305/Operating System II.md",
+    "CPS 313/Pasted image 20231108125954.png",
+    "CPS 313",
+    "FUC 301/FIQH BOOK 300 LEVEL 2022.docx",
+    "FUC 301",
+    "CPS 307/Types of Linked List.md",
+    "Untitled 1.md",
     "CPS 309/Assignment 1.md",
-    "CPS 303/Codes/helloWorld/obj/Debug/net8.0/helloWorld.vbproj.FileListAbsolute.txt",
-    "CPS 303/Codes/helloWorld/bin/Debug/net8.0/helloWorld.pdb",
-    "CPS 303/Codes/helloWorld/obj/Debug/net8.0/ref/helloWorld.dll",
-    "CPS 303/Codes/helloWorld/bin/Debug/net8.0/helloWorld.dll",
-    "CPS 303/Codes/helloWorld/bin/Debug/net8.0/helloWorld.runtimeconfig.json",
-    "CPS 303/Codes/helloWorld/obj/Debug/net8.0/helloWorld.genruntimeconfig.cache",
     "CPS 309/Critical Success Factors.md",
     "CPS 303/Documents/Radioid Consulting_files/logo.png",
     "CPS 303/Documents/Radioid Consulting_files/logo-small.png",

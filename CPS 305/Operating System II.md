@@ -51,3 +51,4 @@ However, there are also some drawbacks to process synchronization:
 - Can lead to a permanent degradation of the system
 - Increases the complexity of the system
 - May cause deadlock if not implemented properly
+
