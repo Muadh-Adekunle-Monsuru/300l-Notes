@@ -30,7 +30,64 @@ Data structures can be broadly categorized into two general classifications:
 - **Linked List:** Data elements are managed by a collection of nodes, where each node contains a link or pointer pointing to the next node in the list. [[Types of Linked List]]
 
 #### **Non-Linear Data Structures**
-- **Tree**
-- **Graph**
+- **Tree**: It is a non-linear data structure which is used to represent data elements, having hierarchical relationship between them. 
+- **Graph**: It is a non-linear data structure which is used to represent data having relationship among its elements which are not necessarily hierarchical in nature.
 
 In linear data structures, each element has a fixed next element, whereas in non-linear data structures, each element can have many different next elements.
+
+---
+13/11/23
+Applications of data structure
+
+Data structure such as stack are applied in functions, expression evaluation, undo and redo operation in word processors.
+
+Queue: Operating systems often maintain a queue of processes that are ready to execute or that are waiting for a particular even to occur. 
+
+Graph: Connections in social networking sites, routing, networks of communication, dictionary, library
+
+Tree: mathematical expression 
+
+
+
+---
+# Array 
+Array: A structure that holds multiple values of the same type. An array element can be accessed using an index value. 
+Write a program to calculate the average age among six student 
+An array can be multidimentional
+
+## Classification of Array:
+- Static: The size is fixed an cannot be changed, once their storage has been allocated. 
+- Dynamic: Size can be changed and array can be resized despite storage being allocation
+
+Applications of arrays :
+- Applications which data items needs to be saved in the computer memory for subsequent reprocessing. 
+- Can be implemented in other data structures:
+	- Stack 
+	- Queue
+	- Heaps
+
+# Linked List
+Linked-List: Sequential data structure or collection of items accessible one after the other beginning at the head and ending at the tail. 
+
+Operations performable on list:
+- Add: Items can be added to a list
+	L = A B C
+	Add(1,X,L)
+	<mark style="background: #FFF3A3A6;">	means add X to the index 1 of array L</mark>
+	L = A X B C
+- Set
+	Set (2, Z, L)
+	<mark style="background: #FFF3A3A6;">	means set the value in index 2 to Z in the array L</mark>
+	L = A X Z C
+- Remove
+	Remove(Z,L)
+	<mark style="background: #FFF3A3A6;">	means remove Z from the array L</mark>
+- Get
+	Get(2,L)
+	<mark style="background: #FFF3A3A6;">	means get the value at index 2 of array L</mark>
+	C
+- Index of
+	IndexOf(X,L)
+	<mark style="background: #FFF3A3A6;">	means get the index of X in the array L</mark>
+	1
+-

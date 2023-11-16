@@ -34,3 +34,25 @@ A DBMS is a collection of programs used to control activities related to storing
 - **Complex Design:** Designing databases can be complex, time-consuming, and challenging.
 - **Confidentiality Issues:** Data security and confidentiality can be a concern.
 - **Cost:** Acquiring hardware and software, along with the expenses of training and maintenance.
+- System Crashing
+- Availability of Network
+- Natural disasters
+
+From a program perspective DBMS are applications that are used to manage data:
+- MS-Access
+- MS-SQL
+- Oracle
+- JBASE
+- Universe
+- DB2
+
+
+
+### Database System Environment: 
+- Hardware
+- Operating system
+- Database
+- Application
+
+
+---

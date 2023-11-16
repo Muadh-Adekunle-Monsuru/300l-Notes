@@ -1,5 +1,6 @@
+10/11/23
 ### Write on the types of programming error
-## Difference between compiler, interpreter and translator
+
 In programming, errors can be broadly categorized into three main types: syntax errors, runtime errors, and logical errors.
 
 1. **Syntax Errors:**
@@ -35,3 +36,15 @@ In programming, errors can be broadly categorized into three main types: syntax 
      ```
 
 Dealing with errors is an essential part of programming, and debugging tools and practices are used to identify and fix these errors. Techniques such as unit testing, code reviews, and logging can help prevent and catch errors during development.
+
+
+
+
+## Difference between compiler, interpreter and translator
+
+
+A compiler converts the entire source code into an executable file before running it. This means that the compiler can detect syntax errors and optimize the code before execution, but it also takes more time and memory to compile the code.
+
+An interpreter converts and executes the source code line by line during runtime. This means that the interpreter can run the code faster and with less memory than a compiler, but it also cannot detect syntax errors or optimize the code before execution.
+
+A translator converts the source code from one programming language to another, but does not execute it. This means that the translator can enable cross-platform compatibility and portability of the code, but it also requires another tool (such as a compiler or an interpreter) to run the translated code.

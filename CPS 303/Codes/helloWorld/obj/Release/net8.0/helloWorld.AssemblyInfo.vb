@@ -14,9 +14,9 @@ Option Explicit On
 Imports System
 Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("helloWorld"),  _
- Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
+ Assembly: System.Reflection.AssemblyConfigurationAttribute("Release"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c7fc75409c84278e88289ec9a73ac107ff19749"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("helloWorld"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("helloWorld"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 

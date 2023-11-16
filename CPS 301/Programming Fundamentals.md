@@ -6,15 +6,14 @@ A program is a set of instructions written and compiled in a specific programmin
 - JDK SDK
 
 Steps to develop a program
-- Analyze 
-- Design
-- Implement
-- Test and executing the program
-- Document: README.md
+- Analyze: Understanding the problem to be solved. Trying to understand the input and output data. Looking for the best solution
+- Design: Designing an algorithm
+- Test: After designing the algorithm, test for correctness  and executing the program
+- Implementation: Translate the algorithm to a suitable programming language
+- Compile and execute the program
+- Documentation: how users must use the software, the functions of the system. 
 	1. Writing comments (internal documentation)
 	2. External documentation: Guides and details of how to use the program. 
- - Programming Errors
-	 - Syntax error
 
 
 ---
