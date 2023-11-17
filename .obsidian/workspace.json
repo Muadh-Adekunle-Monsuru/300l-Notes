@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "42e91cf0c9cdcd78",
+        "id": "d347f510b7667865",
         "type": "tabs",
         "children": [
           {
-            "id": "682662bd99f4eac7",
+            "id": "73b3b80865143690",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPS 301/Programming Fundamentals.md",
+                "file": "CPS 309/Assignment 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPS 301/Programming Fundamentals.md",
+                "file": "CPS 309/Assignment 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPS 301/Programming Fundamentals.md",
+                "file": "CPS 309/Assignment 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPS 301/Programming Fundamentals.md"
+                "file": "CPS 309/Assignment 2.md"
               }
             }
           }
@@ -154,50 +154,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "682662bd99f4eac7",
+  "active": "73b3b80865143690",
   "lastOpenFiles": [
+    "CPS 309/Intro to Database.md",
+    "CPS 301/Programming Fundamentals.md",
+    "CPS 301/Functions.canvas",
+    "2023-11-17.md",
+    "Untitled.md",
+    "CPS 323/Asymptotic Analysis.md",
+    "CPS 323/Algorithm Complexity.md",
+    "CPS 301/Assignment 3.md",
+    "CPS 301/Structured Programming.md",
+    "CPS 301/Assignment 2.md",
+    "CPS 307/Non-Linear Data Structure.md",
+    "CPS 307/Fundamentals of Data Structures.md",
+    "CPS 307/attachments/2023_11_13 9_20 AM Office Lens.jpg",
+    "CPS 307/attachments/2023_11_13 9_20 AM Office Lens.bak.jpg",
+    "CPS 307/attachments/2023_11_13 9_20 AM Office Lens (Phone).jpg",
+    "CPS 317/Comparison Assignment.md",
+    "CPS 307/Types of Linked List.md",
+    "CPS 307/Untitled.md",
+    "CPS 317/Analysis.md",
+    "CPS 317/students analysis.spv",
+    "CPS 317/spss_dummy",
+    "CPS 317/attachments/Pasted image 20231116182159.png",
+    "CPS 317/attachments/Pasted image 20231116182042.png",
+    "CPS 317/attachments/Pasted image 20231116181952.png",
+    "CPS 317/attachments/Pasted image 20231116181855.png",
+    "CPS 317/attachments/Pasted image 20231116181812.png",
+    "CPS 317/attachments/Pasted image 20231116181526.png",
+    "CPS 317/attachments/Pasted image 20231116181342.png",
+    "CPS 317/attachments",
+    "CPS 317/Nominal VS Ordinal VS Scale.md",
     "CPS 303/Documents/vb.net_quick_guide.pdf",
     "CPS 303/CPS 303.md",
     "CPS 303/Assignment.md",
     "CPS 313/UML.md",
-    "Untitled.md",
-    "CPS 309/Intro to Database.md",
     "CPS 309/Assignment 2.md",
-    "CPS 307/Non-Linear Data Structure.md",
-    "CPS 307/Fundamentals of Data Structures.md",
-    "CPS 323/Algorithm Complexity.md",
-    "CPS 323/Asymptotic Analysis.md",
     "CPS 317/student.sav",
-    "CPS 317/Untitled.md",
-    "CPS 307/Untitled.md",
     "CPS 317",
     "FUC 301/FUC 301.pdf",
     "CPS 305/Assignment 1.md",
     "CPS 305/Synchronization Cont...md",
     "CPS 305/Operating System II.md",
     "CPS 313/Documents/Intro to UML.pdf",
-    "CPS 301/Programming Fundamentals.md",
-    "CPS 301/Structured Programming.md",
     "CPS 301/Objectives.md",
-    "CPS 301/Assignment 2.md",
     "GNS 203/ISS 203 Islamic Ethics.pdf",
     "GNS 203/GNS 203.md",
-    "GNS 203/Unconfirmed 592061.crdownload",
-    "GNS 203",
-    "New folder",
-    "CPS 313/Pasted image 20231108125954.png",
-    "CPS 309/Assignment 1.md",
-    "CPS 307/attachments/Pasted image 20231111110509.png",
-    "CPS 307/attachments/Pasted image 20231111110133.png",
-    "CPS 307/attachments",
-    "GNS 201/WhatsApp Image 2023-11-08 at 9.40.59 AM.jpeg",
-    "GNS 201/Class 1.md",
-    "GNS 201/WhatsApp Image 2023-11-08 at 9.40.11 AM.jpeg",
-    "CPS 303/Pg 1-20 Summary.md",
-    "CPS 301/Assignment 1.md",
-    "CPS 315/Errors.md",
-    "CPS 303/Documents/Radioid Consulting_files/logo.png",
-    "CPS 303/Documents/Radioid Consulting_files/logo-small.png",
-    "Untitled.canvas"
+    "GNS 203/Unconfirmed 592061.crdownload"
   ]
 }

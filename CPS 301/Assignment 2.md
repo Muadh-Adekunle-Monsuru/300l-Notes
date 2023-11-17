@@ -38,7 +38,15 @@ In programming, errors can be broadly categorized into three main types: syntax 
 Dealing with errors is an essential part of programming, and debugging tools and practices are used to identify and fix these errors. Techniques such as unit testing, code reviews, and logging can help prevent and catch errors during development.
 
 
+A syntax error is a mistake in the grammar or spelling of a programming language. For example, if you forget a semicolon or a parenthesis, you will get a syntax error. 
 
+A semantic error is a mistake in the meaning or logic of a program. For example, if you use the wrong variable name or assign a string to a number, you will get a semantic error. 
+
+A logic error is a mistake in the algorithm or design of a program. For example, if you use the wrong formula or loop condition, you will get a logic error.
+
+A compile time error is an error that occurs when the compiler tries to translate the source code into executable code. For example, if you have a syntax or semantic error, you will get a compile time error.
+
+A runtime error is an error that occurs when the program is running. For example, if you try to divide by zero or access an invalid memory location, you will get a runtime error.
 
 ## Difference between compiler, interpreter and translator
 

@@ -36,58 +36,84 @@ Data structures can be broadly categorized into two general classifications:
 In linear data structures, each element has a fixed next element, whereas in non-linear data structures, each element can have many different next elements.
 
 ---
-13/11/23
-Applications of data structure
 
-Data structure such as stack are applied in functions, expression evaluation, undo and redo operation in word processors.
+[13/11/23]
 
-Queue: Operating systems often maintain a queue of processes that are ready to execute or that are waiting for a particular even to occur. 
+### Applications of Data Structures:
 
-Graph: Connections in social networking sites, routing, networks of communication, dictionary, library
+1. **Stack:**
+   - Functions
+   - Expression evaluation
+   - Undo and redo operations in word processors
 
-Tree: mathematical expression 
+2. **Queue:**
+   - Operating systems maintain queues for processes ready to execute or waiting for specific events.
 
+3. **Graph:**
+   - Social networking site connections
+   - Routing
+   - Communication networks
+   - Dictionary and library structures
 
+4. **Tree:**
+   - Mathematical expressions
+![[2023_11_13 9_20 AM Office Lens.jpg]]
+---
+
+## Array
+
+**Definition:**
+An array is a structure that holds multiple values of the same type. Array elements can be accessed using an index value.
+
+**Program Example:**
+Write a program to calculate the average age among six students.
+
+**Multidimensional Arrays:**
+Arrays can be multidimensional.
+
+### Classification of Array:
+
+1. **Static Array:**
+   - Fixed size; cannot be changed once allocated.
+
+2. **Dynamic Array:**
+   - Size can be changed; array can be resized despite initial allocation.
+
+### Applications of Arrays:
+
+- Saving data items in computer memory for subsequent reprocessing.
+- Implementation in other data structures:
+  - Stack
+  - Queue
+  - Heaps
 
 ---
-# Array 
-Array: A structure that holds multiple values of the same type. An array element can be accessed using an index value. 
-Write a program to calculate the average age among six student 
-An array can be multidimentional
 
-## Classification of Array:
-- Static: The size is fixed an cannot be changed, once their storage has been allocated. 
-- Dynamic: Size can be changed and array can be resized despite storage being allocation
+## Linked List
 
-Applications of arrays :
-- Applications which data items needs to be saved in the computer memory for subsequent reprocessing. 
-- Can be implemented in other data structures:
-	- Stack 
-	- Queue
-	- Heaps
+**Definition:**
+A linked list is a sequential data structure or collection of items accessible one after the other, beginning at the head and ending at the tail.
 
-# Linked List
-Linked-List: Sequential data structure or collection of items accessible one after the other beginning at the head and ending at the tail. 
+### Operations:
 
-Operations performable on list:
-- Add: Items can be added to a list
-	L = A B C
-	Add(1,X,L)
-	<mark style="background: #FFF3A3A6;">	means add X to the index 1 of array L</mark>
-	L = A X B C
-- Set
-	Set (2, Z, L)
-	<mark style="background: #FFF3A3A6;">	means set the value in index 2 to Z in the array L</mark>
-	L = A X Z C
-- Remove
-	Remove(Z,L)
-	<mark style="background: #FFF3A3A6;">	means remove Z from the array L</mark>
-- Get
-	Get(2,L)
-	<mark style="background: #FFF3A3A6;">	means get the value at index 2 of array L</mark>
-	C
-- Index of
-	IndexOf(X,L)
-	<mark style="background: #FFF3A3A6;">	means get the index of X in the array L</mark>
-	1
--
+1. **Add:**
+   - Items can be added to a list.
+     - Example: `L = A B C`, `Add(1, X, L)` means add X to index 1 of array L, resulting in `L = A X B C`.
+
+2. **Set:**
+   - Set the value at a specific index in the array.
+     - Example: `Set(2, Z, L)` means set the value at index 2 to Z in array L, resulting in `L = A X Z C`.
+
+3. **Remove:**
+   - Remove a specified item from the array.
+     - Example: `Remove(Z, L)` means remove Z from array L.
+
+4. **Get:**
+   - Get the value at a specific index in the array.
+     - Example: `Get(2, L)` means get the value at index 2 of array L, resulting in `C`.
+
+5. **Index of:**
+   - Get the index of a specified value in the array.
+     - Example: `IndexOf(X, L)` means get the index of X in array L, resulting in `1`.
+
+
