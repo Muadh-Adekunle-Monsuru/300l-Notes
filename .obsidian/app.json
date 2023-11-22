@@ -4,9 +4,10 @@
   "promptDelete": false,
   "pdfExportSettings": {
     "pageSize": "A4",
-    "landscape": false,
+    "landscape": true,
     "margin": "0",
-    "downscalePercent": 89
+    "downscalePercent": 98
   },
-  "attachmentFolderPath": "./attachments"
+  "attachmentFolderPath": "./attachments",
+  "alwaysUpdateLinks": true
 }

@@ -34,9 +34,48 @@ Suppose X is an algorithm, and M is the size of the input data. The time and spa
 ---
 ## Asymptotic Analysis
 
-The asymptotic analysis of an algorithm refers to defining the mathematical boundation to framing of its runtime performance. Using asymptotic analysis we can conclude  the:
-- Best Case
-- Average Case
-- Worse Case
-scenario of an algorithm. 
+The asymptotic analysis of an algorithm refers to defining the mathematical boundary to framing of its runtime performance. Using asymptotic analysis we can conclude  the:
+- **Best Case**: Minimum time is required for program execution
+- **Average Case:** Average time is required for program execution
+- **Worse Case:** Maximum time is required for program execution
 
+### Asymptotic Notations
+
+Asymptotic notations are used to calculate the running time complexity of an algorithm it could be either of the following:
+- O  - Big-O Notation
+- Ω - Omega Notation
+- Θ - Theta Notation
+
+Big-O Notation: The notation O(n) is a formal way to express the **upper boundary** of an algorithms running time. It measures the worst case time complexity or the longest amount of time an algorithm can possibly take to complete. 
+
+The notation Ω (n) is the formal way to express the **lower boundary** of an algorithm's running time. It measures the base case time complexity or the best amount of time an algorithm can possibly take to complete. 
+
+Theta notation the notation Θ(n) is the formal way to express **both** the lower boundary and the upper boundary of an algorithm's running time.  
+
+| Asymptotic Notation | Symbol      |
+|---------------------|-------------|
+| Constant            | O(1)        |
+| Logarithmic         | O(log(n))   |
+| Linear              | O(n)        |
+| NLog(n)             | O(nlog(n))  |
+| Quadratic           | O(n^2)      |
+| Cubic               | O(n^3)      |
+| Polynomial          | n^(O(1))    |
+| Exponential         | 2^(O(n))    |
+
+
+
+---
+#### Greedy Algorithm
+They are algorithms designed to achieve optimum solution for a give problem. In greedy algorithm approach decisions are made from a given solutions domain as being greedy the closest solution that seems to provide an optimum solution is chosen. Greedy algorithms tried to find a localized optimum solution which may eventually lead to globally optimized solution.
+
+**Examples:**
+
+- Travelling Salesman Problem
+- Prims Minimal Spanning Tree algorithm
+- Kruskal Minimal Spanning Tree Algorithm
+- Dijkstra's Minimal Spanning Tree Algorithm
+- Graph-Map Colouring
+- Graph-Vertex Cover
+- Knapsack Problem
+- Job Scheduling Problem

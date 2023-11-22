@@ -117,3 +117,59 @@ A linked list is a sequential data structure or collection of items accessible o
      - Example: `IndexOf(X, L)` means get the index of X in array L, resulting in `1`.
 
 
+
+---
+Application of stack 
+- Stacks are frequently used in evaluation of arithmetic expression, an expression consists of operands and operators. 
+- Conversions of different notations such as infix, prefix and postfix. 
+- Used in computers when recursive functions are called. 
+[[Additional Operations of Stack]]
+
+---
+**Order of operation**
+Multiplication -> Division -> Addition -> Subtraction
+
+---
+
+ Action         | Content of Stack after operation | Return-Value 
+----------------|---------------------------------|--------------
+ Initialise(S)  | empty                           |              
+push(A,S)      | A                               |              
+ push(B,S)      | A, B                            |             
+ push(C,S)      | A, B, C                         |              
+ pop(S)         | A, B                            | C            
+ push(D,S)      | A, B, D                         |             
+pop(S)         | A, B                            | D            
+
+
+---
+Queue
+
+
+| Action          | Content of Queue after operation | Return-Value |
+|-----------------|----------------------------------|--------------|
+| Initialise(S)   | empty                            | -            |
+| Add(A,Q)        | A                                | -            |
+| Add(B,Q)        | A, B                             | -            |
+| Add(C,Q)        | A, B, C                          | -            |
+| Remove(Q)       | A, B                             | A            |
+| Add(D,Q)        | B, C, D                          | -            |
+| Remove(Q)       | C, D                             | B            |
+
+Storing a queue in a static data structure, this implementation stores the queue in an array, the array indexes at which the head and tail of the queue are currently stored must be maintained. 
+
+If we have a Queue B: 
+
+1 | 2 | 3
+--- | --- | --- 
+
+the index of the Head of B is 0 and the Tail is at 2
+
+If we perform a remove operation on B the b becomes 
+
+__ | 2 | 3
+--- | --- | --- 
+
+ the Head is now at 1 while the Tail remains at 2
+ __ | 2 | 3
+--- | --- | --- 
