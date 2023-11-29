@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c8c6524ba50fcc30",
+        "id": "39049bd9e7000142",
         "type": "tabs",
         "children": [
           {
-            "id": "cbdfaab7575bc088",
+            "id": "2f061b88673f3308",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "image",
               "state": {
-                "file": "CPS 303/Documents/CPS 303 Practical class 1.pdf"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "b1ff2bc51e814bf3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "77ef1db439fbb323",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPS 303/Documents/Practical Assignment.md",
-                "mode": "source",
-                "source": false
+                "file": "CPS 303/attachments/Pasted image 20231128113420.png"
               }
             }
           }
@@ -64,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "composite",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "36d06e70a7634354",
@@ -110,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPS 303/Documents/Practical Assignment.md",
+                "file": "CPS 303/attachments/Pasted image 20231128113420.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPS 303/Documents/Practical Assignment.md",
+                "file": "CPS 303/attachments/Pasted image 20231128113420.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPS 303/Documents/Practical Assignment.md"
+                "file": "CPS 303/attachments/Pasted image 20231128113420.png"
               }
             }
           }
@@ -171,53 +152,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "77ef1db439fbb323",
+  "active": "2f061b88673f3308",
   "lastOpenFiles": [
-    "CPS 303/Documents/CPS 303 Practical class 1.pdf",
-    "CPS 303/Documents/Practical Assignment.md",
-    "CPS 303/Documents/CPS303 Assignment.md",
-    "CPS 303/Documents/attachments/Pasted image 20231121234948.png",
-    "CPS 303/Documents/attachments/Pasted image 20231121234647.png",
-    "CPS 303/Documents/attachments/Pasted image 20231121234344.png",
-    "CPS 303/Documents/attachments/Pasted image 20231121234211.png",
-    "CPS 303/Documents/attachments/Pasted image 20231121233952.png",
-    "CPS 303/Documents/attachments/Pasted image 20231121233709.png",
-    "CPS 303/Documents/attachments",
-    "CPS 303/Codes/WinFormsApp3/obj/Debug/net8.0-windows/WinFormsApp3.assets.cache",
-    "CPS 303/Codes/WinFormsApp3/obj/WinFormsApp3.vbproj.nuget.dgspec.json",
-    "CPS 303/Codes/WinFormsApp3/obj/project.nuget.cache",
-    "CPS 303/Codes/WinFormsApp3/obj/project.assets.json",
-    "CPS 303/Codes/WinFormsApp3/obj/WinFormsApp3.vbproj.nuget.g.targets",
-    "CPS 303/Codes/WinFormsApp3/obj/WinFormsApp3.vbproj.nuget.g.props",
-    "CPS 303/Codes/WinFormsApp3/obj/Debug/net8.0-windows/WinFormsApp3.AssemblyInfo.vb",
-    "CPS 303/Codes/WinFormsApp3/obj/Debug/net8.0-windows/WinFormsApp3.AssemblyInfoInputs.cache",
-    "CPS 309/Assignment 2.md",
-    "CPS 309/Assignment 3.md",
-    "CPS 309/Intro to Database.md",
-    "CPS 309/Untitled.md",
-    "CPS 303/Assignment.md",
-    "CPS 309/Critical Success Factors.md",
+    "CPS 303/attachments/Pasted image 20231128113315.png",
     "CPS 303/CPS 303.md",
-    "CPS 323/Algorithm Complexity.md",
-    "CPS 323/Greedy Algorithm.md",
-    "CPS 323/Asymptotic Analysis.md",
-    "CPS 317/Nominal VS Ordinal VS Scale.md",
-    "CPS 317/Analysis.md",
-    "CPS 317/attachments/Pasted image 20231120102859.png",
-    "CPS 317/attachments/Pasted image 20231120102840.png",
-    "CPS 317/Comparison Assignment.md",
-    "CPS 307/Fundamentals of Data Structures.md",
-    "CPS 307/Stacks.md",
-    "CPS 307/Additional Operations of Stack.md",
-    "CPS 307/Infix Vs PostFix vs Prefix.md",
-    "CPS 307/Types of Linked List.md",
+    "CPS 303/Assignment 2.md",
+    "CPS 303/Assignment 3.md",
+    "CPS 301/Assignments/Assignment 4.md",
     "CPS 307/Non-Linear Data Structure.md",
-    "CPS 301/CPS 301 Assignment 3.md",
-    "CPS 301/Assignment 3.md",
-    "CPS 309/Assignment 1.md",
-    "CPS 301/Programming Fundamentals.md",
-    "CPS 301/Functions.canvas",
-    "CPS 307/attachments/2023_11_13 9_20 AM Office Lens.jpg",
-    "CPS 307/attachments/2023_11_13 9_20 AM Office Lens.bak.jpg"
+    "CPS 307/Fundamentals of Data Structures.md",
+    "CPS 303/Codes/ifelse/obj/Debug/net8.0/refint",
+    "CPS 303/Codes/ifelse/obj/Debug/net8.0/ref",
+    "CPS 303/Codes/ifelse/obj/Debug/net8.0/ifelse.GeneratedMSBuildEditorConfig.editorconfig",
+    "CPS 303/Codes/ifelse/obj/Debug/net8.0/ifelse.assets.cache",
+    "CPS 303/Codes/ifelse/obj/Debug/net8.0/ifelse.AssemblyInfoInputs.cache",
+    "CPS 303/Codes/ifelse/obj/Debug/net8.0/ifelse.AssemblyInfo.vb",
+    "CPS 303/Codes/ifelse/obj/Debug/net8.0",
+    "CPS 303/Codes/ifelse/obj/project.nuget.cache",
+    "CPS 303/Codes/ifelse/obj/project.assets.json",
+    "CPS 303/Codes/ifelse/obj/ifelse.vbproj.nuget.g.targets",
+    "CPS 303/attachments/Pasted image 20231128113646.png",
+    "CPS 303/attachments/Pasted image 20231128113420.png",
+    "CPS 303/Assignment.md",
+    "CPS 309/Assignment 4.md",
+    "CPS 309/Intro to Database.md",
+    "CPS 309/Assignment/Assignment 3.md",
+    "CPS 305/Assignment 2.md",
+    "CPS 305/Cps305.md",
+    "CPS 323/Algorithm Complexity.md",
+    "CPS 323/Asymptotic Analysis.md",
+    "CPS 323/Greedy Algorithm.md",
+    "CPS 317/Analysis.md",
+    "CPS 317/Comparison Assignment.md",
+    "CPS 307/Infix Vs PostFix vs Prefix.md",
+    "CPS 307/attachments/Pasted image 20231127095430.png",
+    "CPS 307/attachments/Pasted image 20231127094725.png",
+    "CPS 307/attachments/Pasted image 20231127093738.png",
+    "CPS 307/attachments/Pasted image 20231127093513.png",
+    "CPS 307/attachments/Pasted image 20231127092944.bak.png",
+    "CPS 307/attachments/Pasted image 20231127092944 (Phone).png",
+    "CPS 307/attachments/Pasted image 20231127092944.png",
+    "CPS 307/Types of Linked List.md",
+    "CPS 307/Stacks.md",
+    "CPS 307/Untitled.md",
+    "GNS 201/Class 1.md",
+    "CPS 301/Structured Programming.md",
+    "CPS 307/Additional Operations of Stack.md",
+    "CPS 301/Assignments/Assignment 3.md",
+    "CPS 301/Canvas/Functions.canvas",
+    "CPS 301/Canvas/POP Functions.canvas"
   ]
 }

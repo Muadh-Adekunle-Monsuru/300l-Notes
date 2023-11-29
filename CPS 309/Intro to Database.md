@@ -80,9 +80,70 @@ Normalization and normal form (NF) are efforts geared towards ensuring removal o
 
 
 ## Rationale behind Database Normalization
-It should be emphasized that unnormalized can be greedy with disk space and eventually cause, integrity and consistency issues. Duplication creates the risk of data corruption. With other attendant problem such as having a particular piece of information in more than one place. Especially when any piece of information is inserted a basic object of 1NF as defined by Edgar Codd in 1970 is to facilitates query of data and its manipulation using a universal data of language SQL. 
+1. **Greedy Disk Space Usage:**
+   - Unnormalized databases can be inefficient in disk space usage.
+   - The uncontrolled duplication of data contributes to increased storage requirements.
+
+2. **Integrity and Consistency Concerns:**
+   - Unnormalized databases may lead to integrity and consistency issues.
+   - Duplicated data increases the risk of data corruption.
+
+3. **Data Duplication Risks:**
+   - The presence of duplicated data in various locations poses a risk.
+   - Having the same piece of information in multiple places can create challenges.
+
+4. **Issues with Information Insertion:**
+   - Particularly problematic during the insertion of new information.
+   - Basic adherence to 1NF (First Normal Form), as defined by Edgar Codd in 1970, helps mitigate these issues.
+
+5. **Facilitation of Querying:**
+   - The primary objective of adhering to 1NF is to facilitate the querying of data.
+   - This includes manipulation using a universal data language like SQL (Structured Query Language).
 
 ### Benefits of Database Normalization
-- Minimizes database redesign when scaling up the database structure. Database can be expanded to accommodate new types of data while preexisiting aspect of the structure remains largely unchanged
-- Makes the database model more informative to the users. Normalized tables and relationships between one table and the other gives a concise view of the database
-- Avoidance of bais towards a any particular type of database. Normalize table are suitable for general purpose query and this then implies that any query against the table including future queries whose details cannot be anticipated can be supported .
+
+1. **Scalability and Minimized Redesign:**
+
+- Minimizes the need for significant database redesign when scaling up.
+- Allows the database to expand to accommodate new data types without major changes to existing structures.
+
+2. **Informative Database Model:**
+
+- Utilizes normalized tables and establishes relationships between tables.
+- Provides users with a concise and informative view of the database structure.
+Avoidance of Bias and General Query Support:
+
+3. **Avoids bias towards any specific type of database**.
+- Normalized tables are suitable for general-purpose queries.
+- Supports a wide range of queries, including future queries with details that cannot be anticipated.
+
+
+
+Composite attribute an attribute that has other attributes attached to it. 
+
+When defining attributes of an object always define the **identifying** attribute first. 
+## Types of Key:
+Write short notes on the following database concepts
+- **Primary Key:** Unique attribute that identifies a record
+- **Foreign Key:** A primary key in one table when used in another table becomes a foreign key
+- **Alternate record keys:** Other unique identifiers in a table that is not the primary key. 
+- **Candidate Key:** 
+- **Super Key**
+---
+
+Schema: A blueprint or templates that are used to create a database. 
+
+| Column          | Data Type   | Constraints| Description                             |
+| --------------- | ----------- | ---------------------------------------- | --------------------------------------- |
+| student_id      | INT         | PRIMARY KEY                              | Unique identifier for each student      |
+| first_name      | VARCHAR(50) | Not Null                                 | First name of the student               |
+| last_name       | VARCHAR(50) | Non Null                                          | Last name of the student                |
+| date_of_birth   | DATE        | Not Null                                          | Date of birth of the student            |
+| email           | VARCHAR(100)| UNIQUE                                   | Unique email address of the student    |
+
+
+Steps in creating a database
+1. CREATE  Database `fuoinfosys`
+2. USE `fuoinfosys`
+3. CREATE Table `stdu_basic_details` 
+	-> 

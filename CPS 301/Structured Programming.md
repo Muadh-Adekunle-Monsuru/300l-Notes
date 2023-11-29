@@ -24,32 +24,72 @@ It makes debugging a program easier, as the lines of code is shortened.
 - **Solvability:** Does it solve the problem efficiently 
 - **Workability:** Ability to accommodate and handle errors. So that the program works under any and all conditions. 
 - **Sufficient Information:** Is the program well documented, both internally and externally. 
-- Logically Written: Is the program broken down into small modules each module handling a different logic. 
+- **Logically Written**: Is the program broken down into small modules each module handling a different logic. 
 
 
-## Paradigms of Structured Programming
-- POP: Procedural/Process Oriented Programming
-- OOP: Object Oriented Programming
+---
+# Paradigms of Structured Programming
 
+Structured programming is categorized into two main paradigms:
 
-POP basically consists of writing a list of instructions for the computer to follow and organizing those instructions into groups (i.e functions). In POP the problem is always considered as a sequence of task to be done and a number of functions are written to accomplish that task.
+## Procedural/Process Oriented Programming (POP)
+In POP, the programming approach involves writing a sequence of instructions for the computer to follow. These instructions are organized into groups, often referred to as functions. The problem is viewed as a sequence of tasks, and functions are created to accomplish these tasks.
 
- The <mark style="background: #FFB86CA6;">emphasis lies on writing instructions</mark> to complete the task little attention is given to the data. 
-Examples  of POP:
-COBOL, FORTRAN, C
+The primary <mark style="background: #FFB86CA6;">emphasis is on writing instructions</mark> to complete the task, with relatively less attention given to the data. Examples of POP languages include COBOL, FORTRAN, and C.
+
+### Characteristics of POP
+- Function-oriented
+- Most functions share global data
+- Data moves openly
+- Functions transform data from one form to another
 
 [[Functions.canvas|Functions]]
 
-### Characteristics of POP
-- Function oriented
-- Most functions share a global data
-- Data moves openly 
-- Functions transform data from one form to another.
+## Object Oriented Programming (OOP)
+OOP is an approach that modularizes programs by creating memory areas for both data and methods, serving as templates for creating copies of such modules on demand. An object, in OOP, is a memory area that stores data and a set of operations to access that data.
+
+The emphasis in OOP is on data, where programs are divided into classes, and data structures characterize the objects. Methods that operate on the data are tied to the object, enabling communication between objects. OOP promotes reusability.
+
+### Key Concepts of OOP
+
+- **Class:** A class serves as a template for an object.
+- **Object:** An object is an instance of a class.
+- **Variables:** Variables defined within a class are referred to as instance variables.
+- Classes can have relationships with other classes.
+
+## Benefits of OOP
+
+- **Modularity:** Source code for an object can be written and maintained independently of other objects. Once created, an object can be easily passed around within the system.
+- **Information Hiding:** Interaction occurs only through methods, keeping the internal implementation details hidden.
+- **Code Reuse:** Existing objects can be utilized in a program.
+- **Ease of Debugging & Pluggability:** Problematic objects can be replaced with different objects, facilitating debugging and modification.
 
 ---
-Object Oriented Programming:
-Is an approach that provides a way of modularizing programs by creating portioned memory area for both data and methods that can be used as templates for creating copies of such module on demand.
-In other words an object is considered to be a partition area of the memory that stores data and a set of operations that can access that data.
 
-Emphasis is on data, program are divided into. Data structures are designed such that they characterize the objects. 
-Methods that operate on the data are tied together to the object. Objects can communicate with each other through methods. OOP allows reusability. 
+
+---
+*24/11/23*
+
+Types of classes in Java
+Executatble: class that will always give results. 
+non-executable
+## Writing Java Programs
+
+starts with `class` or `public class` followed by `className`
+then the `{ }` which begins and ends the scope of the class
+declare and define all instance variables
+declare a method, `public static void main(string args[])`
+
+```Java
+class [classname]
+{
+	instance variable 1;
+	instance variable2;
+	String name = 'Quardi' 
+
+public static void main(string args[]){
+			System.out.printLn("Welcome to Java class"+name) //prints on newline
+					
+}
+}
+```

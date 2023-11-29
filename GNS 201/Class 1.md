@@ -27,3 +27,63 @@ heard and obeyed | سمعا وطاعة |sumiean wataeatan
 my boss | سيدى | sayidi
 Via | عبر| 'abra
 
+---
+## Class 2
+Arabic names and gender
+
+Masculine | Feminine
+---|---
+مذكر | المؤنث
+mudhakhar | muanath
+
+
+Open ta | Closed ta
+--- | ---
+تاء المربوطة| تاء المفتوحة
+Taa Al Marbouta | taa almaftuha
+
+
+Male Names | Female Names
+---|---
+فوزي| فوزية
+كريم | كريمة
+رقيب | رقيبة
+مزيد | مزيدة
+سعيد | سعيدة
+نجيب | نجيبة
+
+---
+## Class 3
+
+Feminine Statements
+
+Phrase | Meaning | Pronounciations
+---|---|---
+هذه امرأة جميلة | this is a beautiful woman | hadhih aimra'at jamila
+هذه سيارة فاخرة | this is a luxurious car | hadhih sayaarat fakhira
+
+Masculine Statement
+
+Phrase | Meaning | Pronounciation
+---|---|---
+هذا رجل كريمان | This is a generous man | hadha rajul kariman
+
+Feminine Dual 
+
+Phrase | Meaning | Pronounciation
+---|---|---
+هاتان المرأتان كريمتان | this two women are generous |hatan almar'atan karimatan
+
+
+Demonstrative Pronouns
+
+**Gender:** Masculine
+**Singular:** هذا
+**Dual:** هذان
+**Plural:** هؤلاء 
+
+**Gender:** Feminine
+**Singular:** هذه
+**Dual:** هتان
+**Plural:** اولات (oolaat)
+

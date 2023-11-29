@@ -171,5 +171,9 @@ __ | 2 | 3
 --- | --- | --- 
 
  the Head is now at 1 while the Tail remains at 2
+ 
  __ | 2 | 3
 --- | --- | --- 
+
+<mark style="background: #ABF7F7A6;">Read about static dynamic and circular queue</mark>
+
