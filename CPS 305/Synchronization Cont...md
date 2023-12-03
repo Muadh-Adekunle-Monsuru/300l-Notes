@@ -37,3 +37,44 @@ Semaphores can be classified into two main types:
 - Can be difficult to debug if synchronization issues occur
 - It is not suitable for all synchronization problems (i.e more than one)
 
+---
+29/11/23
+## Deadlock
+1. **Deadlock:**
+A set of processes are said to be in a deadlock state if every process in the set is waiting for an event that can only be caused by some other processes in the same set. For every resource a process will make request resuse and release the resource. 
+
+## Conditions for deadlock to occur:
+Condition for a deadlock to occur, if and only if the following four conditions hold simultaneously in a system:
+- **Mutual Exclusion:** Only one process at a time can use a resource
+- **Hold and Wait :** A processing holding at least one resource is waiting to acquire another resource held by any other resources
+- **No preemption:** A resource can be released voluntarily by processes that are holding them.
+- **Circular Waiting:** Their exists a set of waiting processes, {P0,P1,P2 .... Pn} such that P0 is waiting for a resource held by P1 and P1 is waiting for a resource held by P2 ..... till Pn-1 is waiting for a resource held by Pn and Pn is waiting for resources held by P0
+
+### Situations deadlock can occur
+- Database
+- Dedicated device allocation
+- Multiple device allocation
+- Spooling
+- Network
+- Shared Disk
+- Making request for file
+
+#### Ways of Handling a deadlock
+1. **Deadlock Prevention:** Ensure system never enters deadlock, by not allowing any of the four conditions to occur.
+	1. **Mutual exclusion**: Must hold for non-sharable resources.
+	2. **Hold and wait**: Protocol must ensure hold and wait never occurs, each process must request for all the resources needed to execute and the resources is gotten before starting execution.  
+	3. **No Preemption**: If a process that is holding some resource and requested a resource and that request is not granted then the process must release that resource it is currently holding. 
+	4. **Circular Waiting**: Rule here is to ensure that circular waiting does not occur by imposing linear ordering of resources, and each process can only request in an increasing order of priority. The process must release previously held resources when new resource is requested. 
+
+2. **Deadlock Avoidance:** Can recover from deadlock if system enters the deadlock
+3. **Deadlock detection and recovery:** System can ignore the problem and prevent deadlock occurrence. Information about resource allocation to processes must be kept and known to the system. Information about outstanding resources that has not been allocated must also be kept. An algorithm is needed which detects when the system has entered a deadlock state. The algorithm then redirects the resources allocated so that the resources are in a safe state. 
+
+
+
+
+   Deadlock: A processing holding at least one resource is waiting to acquire another resource held by any other resources occurs when two or more processes are blocked indefinitely, each waiting for the other to release a resource.
+	 
+ Imagine two processes, A and B. A holds a resource X and is waiting for resource Y, while B holds resource Y and is waiting for resource X. Both processes are stuck, and neither can proceed, leading to a deadlock.
+	 
+Deadlocks typically occur when processes contend for multiple resources and each process holds one resource while waiting for another that is currently held by another process.
+	

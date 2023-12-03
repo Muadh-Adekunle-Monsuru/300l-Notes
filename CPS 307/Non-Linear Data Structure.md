@@ -55,8 +55,9 @@ NLR: Node-Left-Right
 
 ## In-order NLR
 ![[Pasted image 20231127095430.png]]
-
+![[Pasted image 20231201111209.png]]
 ## Post Order LRN
+![[Pasted image 20231201111140.png]]
 ---
 ## Graph
 

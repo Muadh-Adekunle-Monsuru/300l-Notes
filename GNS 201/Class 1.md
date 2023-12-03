@@ -87,3 +87,28 @@ Demonstrative Pronouns
 **Dual:** هتان
 **Plural:** اولات (oolaat)
 
+
+---
+### Class 4
+Demonstrative Pronouns
+
+Gender | Singular | Dual | Plural
+--- | --- | --- | ---
+Male | ذلك - dhalikah|     ذلكما - dhalikumah | ذلكم - dhalikum
+Female | تلك - tilka| تلكما-tilkuma | تلكن - tilkunna
+
+ذلك  الرجل الكريم
+dhalikah rajul alkarim
+That is the generous man
+
+ذلكما الرجلان الكريمان
+dhalikumah alrajulan alkariman
+Those are two generous men
+
+تلك امرأة قوية
+tilka aimra'at qawia
+That is a strong woman
+
+تلكما امرأتان قويتان
+talakuma amra'atan qawiatan
+Those are two strong women
