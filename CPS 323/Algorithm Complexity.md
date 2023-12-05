@@ -79,3 +79,34 @@ They are algorithms designed to achieve optimum solution for a give problem. In 
 - Graph-Vertex Cover
 - Knapsack Problem
 - Job Scheduling Problem
+
+
+---
+04/12/23
+
+## Divide & Conquer Approach
+In divide and conquer approach the problem at hand is divided into smaller sub-problems and then each problem is solved independently. When we keep dividing sub-problems into even smaller sub-problems we may eventually reach a stage where no more division is possible. Those atomic (smallest possible sub-problems) are solved independently. The solutions of all the sub-problems is finally matched in order the obtain the solution of the original problem. 
+
+### Steps in Divide and Conquer:
+- **Divide/Break**: involves breaking the problem into smaller subproblems. Subproblems should represent a part of the original problem. This step generally takes a recursive approach. To divide the problem until no subproblem is further divisible, at this stage sub-problems become atomic in nature. But still represent some part of the actual problem. 
+- **Conquer/Solve**: This steps receives a large number of sub-problems to be solved. Generally at this level the problems are considered solved on their own independently. 
+- **Merge/Combine:** When the smaller sub-problems are solve this stage recursively combines them until they formulate a solution of the original problem. This algorithmic approach works recursively and conquer and merge steps works so close that they appear to be the same
+
+### Examples  of divide & conquer algorithms
+1. Merge sort
+2. Quick sort
+3. Binary Search
+4. Strassen's Matric Multiplication
+5. Closest Pair (Points)
+
+---
+## Dynamic Programming
+It is similar to divide and conquer, in breaking down a problem into smaller and yet smaller possible solved problems. But unlike divide and conquer this sub-problems are not solved independently, rather results of this smaller sub-problems are remembered and used for similar or overlapping sub-problems.  
+
+## Problems Solved using Dynamic Programming
+1. Fibonacci number series
+2. Knapsack Problem
+3. Tower of Hanoi
+4. All pair shortest path by floyd-warshall 
+5. Shortest path by dijkstra
+6. project scheduling

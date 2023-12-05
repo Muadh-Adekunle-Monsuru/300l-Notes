@@ -79,7 +79,7 @@ starts with `class` or `public class` followed by `className`
 then the `{ }` which begins and ends the scope of the class
 declare and define all instance variables
 declare a method, `public static void main(string args[])`
-
+static: means that the method being defined applies to the class itself rather than to the objects of the class.
 ```Java
 class [classname]
 {

@@ -58,6 +58,52 @@ NLR: Node-Left-Right
 ![[Pasted image 20231201111209.png]]
 ## Post Order LRN
 ![[Pasted image 20231201111140.png]]
+
+---
+# Binary Search Tree
+A binary search tree is also know as an ordered binary tree, it is a variant of binary tree in which the nodes are arranged in order. 
+- The left subtree of a node N contains values that are less than N's value
+- The right subtree of node N contains values that are greater than N's value
+- Both Left and Right binary tree also satisfy this properties, and thus are binary search three
+
+- ![[Pasted image 20231204090153.png]]
+
+## Operations on binary search tree
+- **Insertion:** Used to add new node with a given value at the correct position in the binary search tree
+- **Deleting:** Deletes a node from the binary search tree however care should be taken following the properties below. 
+	- Case 1: Node without children
+	- ![[Pasted image 20231204092659.png]]
+	- Case 2: Deleting a node with one child
+	- ![[Pasted image 20231204093424.png]]
+	- Case 3: Deleting a node with two children 
+		![[Pasted image 20231204093253.png]]
+		![[Pasted image 20231204093332.png]]
+
+
+
+# Applications of trees
+- Used to store simple and complex data, simple such as integer value and character values and complex such as structure or record. 
+- Implementing other types of data structure. Such as Hash tables, sets and maps. 
+- Used in database design
+- In file system system directory
+
+
+
+## Expression Tree
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 ## Graph
 

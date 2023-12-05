@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e4a664538ea7c377",
+        "id": "f146a0c0a9fd88dc",
         "type": "tabs",
         "children": [
           {
-            "id": "792d16865b510d74",
+            "id": "e85f20a07b4d3c46",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CPS 305/Assignment 3.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "deadlock",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "36d06e70a7634354",
@@ -90,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CPS 305/Assignment 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CPS 305/Assignment 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CPS 305/Assignment 3.md"
+              }
             }
           }
         ]
@@ -147,53 +154,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "792d16865b510d74",
+  "active": "e85f20a07b4d3c46",
   "lastOpenFiles": [
-    "GNS 201/Class 1.md",
     "CPS 303/Assignment 3.md",
-    "CPS 303/Assignment 2.md",
-    "CPS 303/CPS 303.md",
-    "CPS 301/Assignment.md",
-    "CPS 301/Documents/301_week2..pdf",
-    "CPS 301/Structured Programming.md",
-    "CPS 301/Documents/Control Flow Statement.pdf",
-    "CPS 301/Documents/POP & OOP PARADIGMS.pdf",
-    "CPS 301/Documents/Objectives.md",
-    "CPS 301/Assignments/Assignment 4.md",
-    "CPS 301/Documents/301_week1.pdf",
-    "CPS 303/Codes/ifelse/obj/Debug/net8.0/ifelse.vbproj.FileListAbsolute.txt",
-    "CPS 303/Codes/ifelse/bin/Debug/net8.0/ifelse.pdb",
-    "CPS 303/Codes/ifelse/obj/Debug/net8.0/ref/ifelse.dll",
-    "CPS 303/Codes/ifelse/bin/Debug/net8.0/ifelse.dll",
-    "CPS 303/Codes/ifelse/bin/Debug/net8.0/ifelse.runtimeconfig.json",
-    "CPS 303/Codes/ifelse/obj/Debug/net8.0/ifelse.genruntimeconfig.cache",
-    "CPS 309/Untitled 1.md",
-    "CPS 323/Greedy Algorithm.md",
     "CPS 309/Assignment 4.md",
+    "CPS 323/Algorithm Complexity.md",
+    "CPS 309/Assignment/Assignment 2.md",
+    "CPS 301/Assignments/Assignment 4.md",
+    "CPS 323/Asymptotic Analysis.md",
+    "CPS 323/Greedy Algorithm.md",
     "CPS 323/Hash Table & Inplace Sorting.md",
-    "CPS 307/Non-Linear Data Structure.md",
+    "CPS 307/attachments/2023_11_13 9_20 AM Office Lens.jpg",
+    "CPS 307/attachments/Pasted image 20231111110133.png",
+    "CPS 307/attachments/Pasted image 20231204093424.png",
+    "CPS 307/attachments/Pasted image 20231204093332.png",
+    "CPS 307/attachments/Pasted image 20231204093253.png",
+    "CPS 307/attachments/Pasted image 20231204092659.png",
+    "CPS 307/attachments/Pasted image 20231204092556.png",
+    "CPS 307/attachments/Pasted image 20231204090153.png",
     "CPS 307/attachments/Pasted image 20231201111209.png",
     "CPS 307/attachments/Pasted image 20231201111140.png",
-    "CPS 307/Fundamentals of Data Structures.md",
-    "CPS 307/Additional Operations of Stack.md",
-    "CPS 307/Stacks.md",
-    "CPS 307/Infix Vs PostFix vs Prefix.md",
-    "GNS 203/GNS 203.md",
-    "GNS 203/Untitled.md",
-    "CPS 305/Assignment 3.md",
-    "CPS 313/UML.md",
+    "CPS 307/Non-Linear Data Structure.md",
+    "CPS 307/attachments/tree traversal.pdf",
     "CPS 305/Synchronization Cont...md",
+    "CPS 307/attachments/202003251324427012himanshu_ Binary_Trees.pdf",
+    "CPS 307/attachments/Unconfirmed 443905.crdownload",
+    "CPS 307/attachments/Infix, Prefix and Postfix Expressions — Problem Solving with Algorithms and Data Structures from gatech.pdf",
+    "CPS 301/Structured Programming.md",
+    "CPS 301/Groups.md",
+    "CPS 301/Untitled 1.md",
+    "CPS 301/Untitled.md",
+    "CPS 305/Assignment 3.md",
     "CPS 305/Operating System II.md",
-    "CPS 305/Assignment 1.md",
-    "CPS 303/attachments/Pasted image 20231128113420.png",
-    "CPS 303/attachments/Pasted image 20231128113315.png",
-    "CPS 303/attachments/Pasted image 20231128113646.png",
-    "CPS 303/Assignment.md",
-    "CPS 307/attachments/Pasted image 20231127095430.png",
-    "CPS 307/attachments/Pasted image 20231127094725.png",
-    "CPS 307/attachments/Pasted image 20231127093738.png",
-    "CPS 307/attachments/Pasted image 20231127093513.png",
-    "CPS 307/attachments/Pasted image 20231127092944.bak.png",
+    "CPS 301/Documents/POP & OOP PARADIGMS.pdf",
+    "CPS 301/Documents/Control Flow Statement.pdf",
+    "CPS 301/Documents/301_week2..pdf",
+    "CPS 301/Documents/301_week1.pdf",
+    "CPS 309/Untitled.md",
+    "CPS 309/Critical Success Factors.md",
+    "CPS 301/Assignment 5.md",
+    "CPS 305/Cps305.md",
+    "GNS 201/Class 1.md",
+    "CPS 303/Assignment 2.md",
+    "CPS 303/CPS 303.md",
+    "CPS 301/Documents/Objectives.md",
+    "CPS 303/Codes/ifelse/obj/Debug/net8.0/ifelse.vbproj.FileListAbsolute.txt",
+    "CPS 303/Codes/ifelse/bin/Debug/net8.0/ifelse.pdb",
+    "CPS 309/Untitled 1.md",
+    "CPS 307/Fundamentals of Data Structures.md",
     "CPS 301/Canvas/Functions.canvas",
     "CPS 301/Canvas/POP Functions.canvas"
   ]
