@@ -1,10 +1,16 @@
 1. Write short notes on the following database concepts
-- **Primary Key:** 
-- **Foreign Key:** 
+- **Primary Key:** A column or set of columns used to identify all records uniquely present in that table. All the values of primary key has to be different with no repetition. Any table can consists of only a single primary key construct. 
+- **Foreign Key:** Represents link between tables
 - **Alternate record keys:**  
-- **Candidate Key:** 
-- **Super Key**
+- **Candidate Key:** refers to attributes that identify rows uniquely in a table. In a table we may select the candidate key from primary key. A candidate key has similar properties of that or primary key. But in a table their can be multiple candidate key. 
+- **Super Key**: A column or a set of columns that can be used to identify a row in a table. A key is a minimal super key example 
+- Composite Key: A set of multiple attributes that helps to uniquely identify tuple present in a table. The attribute present in a set may not be unique when ever you consider them separately. If you take then together it ensure total uniqueness. 
+- Unique Key: A column or set of of column that identifies every record uniquely in a table. All the values in this key has to be unique. It is different from a primary key because it is only capable of having only one null value. A primary key on the other hand can not have a null value. 
 
+
+
+
+![[Pasted image 20231205101606.png]]
 1. **Primary Key:**
    - *Definition:* Unique attribute that identifies a record.
    - *Example:*
@@ -60,17 +66,9 @@
      | 102        | 987-65-4321| Bob     | 
      ```
      In this case, {EmployeeID} and {SSN} are super keys as they uniquely identify each record.
-2. What is instance of a database
-An instance of a database refers to a specific occurrence or realization of a database at a particular point in time. It is the actual, operational, and functional database created and running on a database management system (DBMS). Here are a few key points about a database instance:
 
-1. **Operational State:** A database instance is the state of the database system as it is actively being used or operated upon. It includes all the data, relationships, and structures defined in the database schema.
 
-2. **Memory and Processes:** When a database is running, it is loaded into the computer's memory, and various processes are active to handle queries, transactions, and other operations. This active state is often referred to as the database instance.
 
-3. **Data Persistence:** While the database schema defines the structure and relationships of the data, the instance is where the actual data is stored persistently on the storage devices.
-
-4. **Connection Parameters:** A database instance is often associated with specific connection parameters, such as a unique name or identifier, port number, and network address. These parameters are used to connect applications or users to the running database instance.
-
-5. **Isolation:** Each instance of a database is generally isolated from others to prevent interference and ensure data integrity. This isolation is achieved through techniques such as transaction management and concurrency control.
-
-In summary, an instance of a database represents the active, operational state of a database system, including the data, processes, and structures defined in the database schema.
+1. What is instance of a database
+An instance of a database refers to a specific occurrence or realization of a database at a particular point in time. 
+A database instance is the state of the database system as it is actively being used or operated upon. It includes all the data, relationships, and structures defined in the database schema.

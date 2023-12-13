@@ -1,1 +1,0 @@
- Data models are a collection of conceptual tools for describing data, data relationships, data semantics and data constraints. There are three di erent groups: (a) Object-based Logical Mo dels. (b) Record-based Logical Mo dels. (c) Physical Data Mo dels

@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"b6d76e94de6f2aef","x":-125,"y":-30,"width":145,"height":90,"type":"text","text":"1\nSchedule Courses"},
+		{"id":"46abd1a6577a4810","type":"text","text":"Offered courses","x":-197,"y":100,"width":145,"height":60},
+		{"id":"70ce4327861306d0","x":80,"y":100,"width":125,"height":90,"type":"text","text":"2\nEnroll \nStudents\n"},
+		{"id":"59eb5668267db828","type":"text","text":"Procedures \nClass Case","x":-240,"y":300,"width":145,"height":75},
+		{"id":"0baf8bc902c104e5","type":"text","text":"Students","x":-52,"y":300,"width":145,"height":50},
+		{"id":"8363be4c2b6589a1","type":"text","text":"Course\nEnrollment","x":-95,"y":190,"width":145,"height":75}
+	],
+	"edges":[
+		{"id":"a7ec20f6c0bbde70","fromNode":"0baf8bc902c104e5","fromSide":"top","toNode":"70ce4327861306d0","toSide":"bottom"},
+		{"id":"3aa81cc85fcb98e5","fromNode":"8363be4c2b6589a1","fromSide":"top","toNode":"70ce4327861306d0","toSide":"left"},
+		{"id":"4a81fbdf4abd441c","fromNode":"b6d76e94de6f2aef","fromSide":"bottom","toNode":"46abd1a6577a4810","toSide":"top"},
+		{"id":"a09f7ed051228379","fromNode":"46abd1a6577a4810","fromSide":"right","toNode":"70ce4327861306d0","toSide":"left"},
+		{"id":"48291ba706ac4a1a","fromNode":"59eb5668267db828","fromSide":"right","toNode":"0baf8bc902c104e5","toSide":"left"}
+	]
+}

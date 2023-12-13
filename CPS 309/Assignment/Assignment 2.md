@@ -60,6 +60,6 @@ Many-to-many relationships are the most complex type of relationships in databas
 
 ---
 
-Flaws associated with many-to-many relationships are that they can create redundancy and inconsistency in the data. To avoid these problems, many-to-many relationships are usually implemented using an intermediate entity that links the two entities involved. For example, a student-course entity can be used to store the information about which student is enrolled in which course.
+Flaws associated with many-to-many relationships are that they can create redundancy and inconsistency in the data. To -couavoid these problems, many-to-many relationships are usually implemented using an intermediate entity that links the two entities involved. For example, a studentrse entity can be used to store the information about which student is enrolled in which course.
 
 Unique features of relational database model are that it uses tables to store data, where each table has a fixed number of columns and a variable number of rows. Each row represents an instance of an entity, and each column represents an attribute of the entity. The tables are linked by using primary keys and foreign keys, which are unique identifiers that establish the relationships between the tables.

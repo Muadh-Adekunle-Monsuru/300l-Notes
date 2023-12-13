@@ -112,3 +112,24 @@ That is a strong woman
 تلكما امرأتان قويتان
 talakuma amra'atan qawiatan
 Those are two strong women
+
+
+---
+
+## Class 5
+Adjectives in Arabic
+1. الولد الوقور
+The dignified boy
+
+2. قلم طويل
+Long pen
+
+3. ساعة صغيرة
+Short hour
+
+Meaning | Feminine | Masculine
+---| --- | ---
+Small | صغيرة | صغير
+Short | قصيرة | قصير
+New | جديدة | جديد
+Open | مفتوحة | مفتوح

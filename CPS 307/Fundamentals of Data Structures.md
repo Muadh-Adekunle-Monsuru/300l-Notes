@@ -1,9 +1,5 @@
 11/6/23
-https://www.geeksforgeeks.org/what-is-data-structure-types-classifications-and-applications/?ref=roadmap
-
-https://www.geeksforgeeks.org/complete-roadmap-to-learn-dsa-from-scratch/
-
-## **Definition**
+	## **Definition**
 - **Data:** Data is a value or set of values.
 - **Entity:** An entity is any object in a system that we want to model and store information about.
 - **Information:** Processed data.
@@ -57,7 +53,7 @@ In linear data structures, each element has a fixed next element, whereas in non
 
 4. **Tree:**
    - Mathematical expressions
-![[2023_11_13 9_20 AM Office Lens.jpg]]
+
 ---
 
 ## Array

@@ -1,0 +1,1 @@
+You are to work on Memory Management, including Segmentation,  Paging, Swapping

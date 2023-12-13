@@ -1,5 +1,4 @@
-Linked lists are data structures that consist of a sequence of nodes, where each node contains data and a reference (or link) to the next node in the sequence. There are several types of linked lists, each with its own characteristics and use cases. Here are the most common types of linked lists with simple illustrations:
-
+Linked lists are data structures that consist of a sequence of nodes, where each node contains data and a reference (or link) to the next node in the sequence. 
 1. Singly Linked List:
 
    In a singly linked list, each node contains data and a reference to the next node in the sequence. It forms a linear chain where the last node points to null, indicating the end of the list.
