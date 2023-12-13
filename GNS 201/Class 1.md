@@ -133,3 +133,65 @@ Small | صغيرة | صغير
 Short | قصيرة | قصير
 New | جديدة | جديد
 Open | مفتوحة | مفتوح
+
+---
+# Class 6
+
+Singular Detached Pronouns
+
+### Masculine Pronouns
+
+| Person          | Singular    | Dual         | Plural     |
+| --------------- | ----------- | ------------ | ---------- |
+| **1st Person**  | أنا (ana)   |             | نحن (nahnu)|
+| **2nd Person**  | أنتَ (anta) |     أنتما        | أنتم (antum)|
+| **3rd Person**  | هو (huwa)   | هما (huma)  | هم (hum)   |
+
+### Feminine Pronouns
+
+| Person          | Singular    | Dual         | Plural     |
+| --------------- | ----------- | ------------ | ---------- |
+| **1st Person**  | أنا (ana)   |             | نحن (nahnu)|
+| **2nd Person**  | أنتِ (anti) | أنتما            |  أنتن(antunah)|
+| **3rd Person**  | هي (hiya)   | هما (huma)  | هن (hunna) |
+
+
+### Masculine Pronouns
+
+1. **1st Person Singular:**
+   - أنا ذاهب إلى المدرسة. (Ana dhahib ila al-madrasa.) - I am going to school.
+
+2. **2nd Person Singular:**
+   - أنتَ تقرأ الكتاب. (Anta taqra' al-kitab.) - You (masculine) are reading the book.
+
+3. **3rd Person Singular:**
+   - هو يحب الرياضة. (Huwa yuhibu al-riyada.) - He likes sports.
+
+4. **Dual (2nd Person):**
+   - أنتما تأكلان الغداء. (Antuma ta'kulani al-ghada.) - You both are eating lunch.
+
+5. **Dual (3rd Person):**
+   - هما يسكنان في نفس الحي. (Huma yaskanani fi nafs al-hay.) - They (two) live in the same neighborhood.
+
+6. **Plural:**
+   - نحن ندرس اللغة العربية. (Nahnu nadrus al-lughah al-'arabiya.) - We study Arabic.
+
+### Feminine Pronouns
+
+1. **1st Person Singular:**
+   - أنا ذاهبة إلى المكتب. (Ana dhahiba ila al-maktab.) - I am going to the office.
+
+2. **2nd Person Singular:**
+   - أنتِ تقرأين الرواية. (Anti taqra'ina al-riwaya.) - You (feminine) are reading the novel.
+
+3. **3rd Person Singular:**
+   - هي تعمل في المستشفى. (Hiya ta'malu fi al-mustashfa.) - She works at the hospital.
+
+4. **Dual (2nd Person):**
+   - أنتما تنامان في نفس السرير. (Antuma tanamani fi nafs al-sirr.) - You both are sleeping in the same bed.
+
+5. **Dual (3rd Person):**
+   - هما يشربان الشاي. (Huma yashrabani al-shay.) - They (two) are drinking tea.
+
+6. **Plural:**
+   - هن يزورن صديقاتهن. (Hunna yazurna sadiqatihin.) - They (feminine) visit their friends.

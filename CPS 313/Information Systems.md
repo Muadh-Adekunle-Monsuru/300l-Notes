@@ -2,6 +2,9 @@ Title: Restructured Note on System Design and Analysis
 
 Missed Prof Class
 
+
+
+
 Introduction:
 System design is a crucial process involving the implementation and operation of an information system. This note aims to provide a clearer understanding of system design, emphasizing required knowledge, the description of the problem, essential and implementation models, and the transformation from analysis to implementation.
 
@@ -67,3 +70,7 @@ Techniques:
    - Input and output.
    - How functions work together.
    - Utilizes DFD (Data Flow Diagrams) and ERD (Entities Relational Diagrams) for structured flow techniques.
+
+
+## <mark style="background: #FFB86CA6;">SDLC</mark>
+
