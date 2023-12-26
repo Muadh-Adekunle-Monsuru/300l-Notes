@@ -37,7 +37,7 @@ Inheritance is the process of creating new classes from existing ones by reusing
 
 5. **Windows form**: Windows Forms is a UI framework for building desktop applications for Windows using .NET. Windows Forms provides a rich set of controls, such as buttons, text boxes, menus, and dialogs, that can be easily dragged and dropped onto a form designer. Windows Forms also supports data binding, graphics, printing, and localization.
 
-6. **LINQ**: Language Integrated Query (LINQ) is a feature of .NET that enables querying data from various sources using a common syntax. LINQ can query data from arrays, collections, databases, XML, or any other source that implements the IEnumerable interface. LINQ also supports query expressions, which are syntactic sugar for writing complex queries in a declarative way.
+6. **LINQ**: Language Integrated Query (LINQ) is a feature of .NET that enables querying data from various sources using a common syntax. LINQ can query data from arrays, collections, databases, XML, or any other source that implements the Enumerable interface. LINQ also supports query expressions, which are syntactic sugar for writing complex queries in a declarative way.
 
 IS VB.NET Case sensitive
 no it is not case sensitive

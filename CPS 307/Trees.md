@@ -105,12 +105,3 @@ A binary search tree is also know as an ordered binary tree, it is a variant of 
 
 
 ---
-## Graph
-
-A graph is a non-linear data structure that consists of finite set of vertices (or nodes) and edges. It is used to solve challenging and complex programming problems. 
-
-![[Pasted image 20231111110509.png]]
-#### Characteristics of graph:
-- The maximum distance from a vertex to all the other vertices is considered the eccentricity of that vertex. 
-- The vertex having minimum eccentricity is considered the central point of the graph. 
-- The minimum value of eccentricity from all vertices is considered the radius of a connected graph. 

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7581e0d1699694aa",
+        "id": "e9f6e362d81206c0",
         "type": "tabs",
         "children": [
           {
-            "id": "c49e7f491c7912b2",
+            "id": "dc856c905f2fad49",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GNS 201/Class 1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "workab",
+                "query": "stakeho",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "36d06e70a7634354",
@@ -94,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GNS 201/Class 1.md",
+                "file": "Past Question.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GNS 201/Class 1.md",
+                "file": "Past Question.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GNS 201/Class 1.md"
+                "file": "Past Question.pdf"
               }
             }
           }
@@ -155,54 +150,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c49e7f491c7912b2",
+  "active": "2f4d13fab84714dc",
   "lastOpenFiles": [
-    "CPS 313/Documents/Intro to UML.pdf",
-    "CPS 313/Documents/Untitled.md",
-    "CPS 313/Documents/ch01.pdf",
-    "CPS 313/Documents/Unconfirmed 373099.crdownload",
-    "CPS 313/Pasted image 20231108125954.png",
-    "CPS 313/Diagram.canvas",
-    "CPS 313/Information Systems.md",
-    "CPS 305/Memory Management.md",
-    "CPS 305/Assignments",
-    "CPS 305/Untitled 1.md",
-    "CPS 305/Operating System II.md",
-    "CPS 305/Documents/operating-systems-deitel-3rd-edition1pdf.pdf",
-    "CPS 305/Documents/Unconfirmed 77753.crdownload",
-    "CPS 305/Cps305.md",
+    "CPS 303/Assignment.md",
+    "CPS 303/Assignment 2.md",
     "CPS 303/Assignment 3.md",
     "CPS 303/CPS303 Assignment 4.md",
-    "CPS 303/Assignment.md",
-    "CPS 317/Untitled.md",
-    "CPS 309/Intro to Database.md",
-    "CPS 303/Assignment 2.md",
-    "CPS 309/Architecture of a Database System.md",
-    "CPS 309/Documents/Chapter1.pdf",
-    "CPS 309/attachments/Pasted image 20231212094514.png",
-    "CPS 309/Assignment/Assignment 4.md",
-    "CPS 309/Assignment/Assignment 3.md",
-    "CPS 309/Assignment/Assignment 2.md",
-    "CPS 309/Normalization.md",
+    "CPS 305/Memory Management.md",
+    "CPS 305/Documents/Memory Management.pdf",
+    "CPS 301/Control Flow Statement.md",
+    "CPS 305/Documents/Memory Management.pdf.crdownload",
+    "Past Question.pdf",
+    "Past Question.pdf.crdownload",
+    "ENT 301/Assignment.md",
+    "CPS 301/Documents/301_week2..pdf",
+    "CPS 301/Documents/Control Flow Statement.pdf",
+    "CPS 301/Assignment 6.md",
+    "CPS 309/Assignment 5.md",
+    "CPS 309/Creating Database in An Enterprise.md",
     "CPS 309/Library Information System.md",
-    "CPS 317/Analysis.md",
-    "CPS 317/Comparison Assignment.md",
-    "CPS 317/Nominal VS Ordinal VS Scale.md",
-    "CPS 323/Algorithm Complexity.md",
-    "CPS 309/Project/librarysystem.rar",
-    "CPS 309/Project/librarysystem/libraryinfoupdated.sqbpro",
-    "CPS 309/Project/librarysystem/libraryinfo.sqlite-journal",
-    "CPS 307/Non-Linear Data Structure.md",
-    "CPS 307/Fundamentals of Data Structures.md",
-    "CPS 307/Additional Operations of Stack.md",
-    "CPS 309/attachments/Pasted image 20231205101606.png",
-    "CPS 307/attachments/2023_11_13 9_20 AM Office Lens.jpg",
-    "CPS 307/attachments/Pasted image 20231111110133.png",
-    "CPS 307/attachments/Pasted image 20231204093424.png",
-    "CPS 307/attachments/Pasted image 20231204093332.png",
-    "CPS 307/attachments/Pasted image 20231204093253.png",
-    "CPS 307/attachments/Pasted image 20231204092659.png",
-    "CPS 307/attachments/Pasted image 20231204092556.png",
+    "CPS 309/Introduction in SQL`.md",
+    "CPS 313/UML.md",
+    "CPS 313/System Analysis.md",
+    "CPS 313/Information Systems.md",
+    "CPS 313/Diagram.canvas",
+    "CPS 303/CPS 303.md",
+    "CPS 303/Array.md",
+    "CPS 303/Documents/vb.net_quick_guide.pdf",
+    "CPS 303/Documents/VB-Console-Student-Booklet.pdf",
+    "CPS 309/Documents/mysql.pdf",
+    "CPS 309/Documents/Database Systems the complete guide.pdf",
+    "CPS 309/Architecture of a Database System.md",
+    "CPS 309/Intro to Database.md",
+    "CPS 305/Synchronization Cont...md",
+    "CPS 305/Operating System II.md",
+    "CPS 309/Assignment/Assignment 4.md",
+    "CPS 313/attachments/Pasted image 20231108125954.png",
+    "CPS 307/Trees.md",
+    "CPS 313/Untitled.md",
+    "CPS 313/Untitled 1.md",
+    "CPS 313/attachments/Pasted image 20231218192833.png",
+    "CPS 313/attachments/Pasted image 20231218192533.png",
+    "CPS 307/attachments/Pasted image 20231218095102.png",
+    "CPS 307/attachments/Pasted image 20231218094749.png",
+    "CPS 307/attachments/Pasted image 20231218093538.png",
+    "CPS 307/attachments/Pasted image 20231218093424.png",
+    "CPS 307/attachments/Pasted image 20231218091739.png",
+    "CPS 307/attachments/Pasted image 20231218085832.png",
+    "CPS 309/attachments/Pasted image 20231212094514.png",
     "CPS 301/Canvas/Functions.canvas",
     "CPS 301/Canvas/POP Functions.canvas"
   ]
