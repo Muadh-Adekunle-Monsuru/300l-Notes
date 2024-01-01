@@ -1,12 +1,4 @@
-**Learning Objectives:**
-
-1. **Understand the need for systems analysis and design in organizations.**
-2. **Realize the roles of a systems analyst.**
-3. **Comprehend the fundamentals of three development methodologies:**
-   - SDLC
-   - Agile approach
-   - Object-oriented systems analysis and design
-
+ 
 **Information—A Key Resource:**
 
 - Business success hinges on well-managed information.
@@ -27,12 +19,11 @@
    - Agent of change
 
 **Qualities of the Systems Analyst:**
-
 - Problem solver
 - Communicator
 - Strong ethics
 - Self-disciplined and self-motivated
-
+---
 **Systems Development Life Cycle (SDLC):**
 
 - Phased approach to solving business problems.
@@ -121,11 +112,14 @@
    - Removing software errors
    - Enhancing existing software
 
+---
+
 **Approaches to Structured Analysis and Design:**
 
 - Traditional SDLC
-- CASE SDLC
-- Object-oriented systems analysis and design
+- CASE system development life cycle
+- Object oriented  
+
 
 **Case Tools:**
 
@@ -164,7 +158,7 @@
 3. Iterations to the first release
 4. Productionizing
 5. Maintenance
-
+---
 **Object-Oriented (O-O) Systems Analysis and Design:**
 
 - Alternate to structured SDLC.
@@ -182,7 +176,7 @@
 4. Draw statechart diagrams
 5. Modify UML diagrams
 6. Develop and document the system
-
+![[Pasted image 20231229100440.png]]
 **Choosing a Method:**
 
 - Choose SDLC, Agile, or Object-oriented methodologies.
@@ -210,6 +204,8 @@
 - Gradual addition of subsystems.
 - Possibility of reusing software.
 - Willingness to tackle difficult problems first.
+
+---
 
 **Open Source Software:**
 
@@ -251,14 +247,5 @@
    - Curiosity about software benefits
    - Achieve collective design
    - Incorporate open source design into proprietary products, processes, knowledge, and IT artifacts.
+---
 
-**Summary:**
-
-- Information is a key resource.
-- Integration of traditional systems with new technologies.
-- Roles and qualities of the systems analyst.
-- The systems development life cycle.
-- CASE tools.
-- Agile systems development.
-- Object-oriented systems development.
-- Open source systems.

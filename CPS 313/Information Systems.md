@@ -1,10 +1,3 @@
-Title: Restructured Note on System Design and Analysis
-
-Missed Prof Class
-
-
-
-
 Introduction:
 System design is a crucial process involving the implementation and operation of an information system. This note aims to provide a clearer understanding of system design, emphasizing required knowledge, the description of the problem, essential and implementation models, and the transformation from analysis to implementation.
 

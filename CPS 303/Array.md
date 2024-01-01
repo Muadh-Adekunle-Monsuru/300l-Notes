@@ -23,6 +23,5 @@ Declare and array called names and give it the names of your classmates
 Two dimentional array of type integer
 
 ```vb.net
-
-Dim ages(5,4) As Integer = {{1,2,3,4,5},{4,5,6,7}};
+Dim ages(5,4) As Integer = {{1,2,3,4},{1,2,3,4},{1,2,3,4},{1,2,3,4},{1,2,3,4}};
 ```

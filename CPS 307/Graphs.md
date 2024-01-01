@@ -11,19 +11,30 @@ An abstract data structure that is used to implement the mathematical concept of
 - **Degree of a n**ode: The degree of a node U `deg(U)` is the total number of edges containing the node. If the degree of a node is 0 it means U does not belong to any edge and such a node is known as an isolated node.  
 - Path: A path P is written as `P = {V0,V1,V2...Vn}` of length n from  a node u to v is defined as a sequence of `n+1` nodes. Here $U = V_0$ , $V = V_n$ and $V_{i-1}$ is adjacent to $V_i$ for i = 1,2, 3 .... path.   
 ## Read about
-- Regular graph
-- Closed path
-- Simple path
-- Cycle
-- Connected graph 
-- Complete graph
-- Labeled graph 
-- Weighted graph
-- Multi-edges
-- Loop
-- Multi graph
-- Size of a graph
 
+1. **Regular graph:** A graph in which all vertices have the same degree.
+
+2. **Closed path:** A path in a graph that starts and ends at the same vertex, without retracing any edge.
+
+3. **Simple path:** A path in a graph that does not visit any vertex more than once.
+
+4. **Cycle:** A closed path in a graph, where no vertices (except the first and last) are repeated.
+
+5. **Connected graph:** A graph in which there is a path between every pair of vertices.
+
+6. **Complete graph:** A graph in which there is an edge between every pair of distinct vertices.
+
+7. **Labeled graph:** A graph where each edge or vertex is assigned a unique label.
+
+8. **Weighted graph:** A graph in which each edge has an associated numerical weight.
+
+9. **Multi-edges:** Multiple edges between the same pair of vertices in a graph.
+
+10. **Loop:** An edge in a graph that connects a vertex to itself.
+
+11. **Multi graph:** A graph that allows multiple edges between the same pair of vertices, including loops.
+
+12. **Size of a graph:** The number of edges in a graph, indicating its cardinality.
 
 # Representation of Graph
 A graph can be represented in three ways:

@@ -147,3 +147,6 @@ Steps in creating a database
 2. USE `fuoinfosys`
 3. CREATE Table `stdu_basic_details` 
 	-> 
+
+
+<mark style="background: #FFB8EBA6;">What is a database model</mark>

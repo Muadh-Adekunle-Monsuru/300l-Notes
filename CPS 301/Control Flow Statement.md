@@ -1,8 +1,3 @@
-
----
-
-# Control Flow Statements in Java
-
 ## Types of Control Structure:
 
 1. **Sequential Control:**
@@ -77,8 +72,6 @@
          count++;
      }
      ```
-     Explanation:
-     - Initialization, Condition, Update.
 
    - **`do-while` loop:**
      ```java
@@ -88,8 +81,6 @@
          num++;
      } while (num < 5);
      ```
-     Explanation:
-     - Body, Condition, Update.
 
 4. **Usage of Control Flow Statements:**
    - Conditional execution of statements.

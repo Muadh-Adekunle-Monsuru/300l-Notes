@@ -34,7 +34,7 @@ Suppose X is an algorithm, and M is the size of the input data. The time and spa
 ---
 ## Asymptotic Analysis
 
-The asymptotic analysis of an algorithm refers to defining the mathematical boundary to framing of its runtime performance. Using asymptotic analysis we can conclude  the:
+The asymptotic analysis of an algorithm refers to defining the mathematical foundation to framing of its runtime performance. Using asymptotic analysis we can conclude  the:
 - **Best Case**: Minimum time is required for program execution
 - **Average Case:** Average time is required for program execution
 - **Worse Case:** Maximum time is required for program execution

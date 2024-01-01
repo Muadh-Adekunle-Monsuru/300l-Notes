@@ -21,3 +21,44 @@ INSERT INTO pet VALUES ('Fluffy','Harold','cat','f', '1999-02-04',NULL);
  10. Performance Optimization
 	 1. If the volume of data increase is there a degradation in the performance of the system. 
   11. Deployment & Maintenance: Handing over the system to the users. 
+
+
+---
+
+- **Requirement Engineering:**
+  - Define the goals of the database.
+  - Observe existing manual processes if applicable.
+
+- **Compile Data:**
+  - Interact with stakeholders to gather necessary information.
+
+- **Select Database Model:**
+  - Choose model (e.g., relational, entity relational).
+
+- **Design Schema:**
+  - Develop database schema.
+
+- **Select DBMS:**
+  - Choose suitable DBMS (e.g., MySQL, Oracle, MongoDB).
+  - Consider factors like Volume, Velocity, Veracity.
+
+- **Infrastructure Setup:**
+  - Deploy hardware, software, and networking components.
+
+- **Implement Database Schema:**
+  - Use SQL for schema implementation.
+  - Example: `INSERT INTO pet VALUES ('Fluffy','Harold','cat','f', '1999-02-04',NULL);`
+
+- **Security Implementation:**
+  - Establish role-based access control.
+  - Ensure a secure data environment.
+
+- **Test Database:**
+  - Verify functionality.
+  - Validate data accuracy.
+
+- **Performance Optimization:**
+  - Evaluate system performance with increasing data volume.
+
+- **Deployment & Maintenance:**
+  - Hand over the system to users.

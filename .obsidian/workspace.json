@@ -4,18 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "e9f6e362d81206c0",
+        "id": "29f99c1e8c351600",
         "type": "tabs",
         "children": [
           {
-            "id": "dc856c905f2fad49",
+            "id": "bc3738d006124455",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Past Question.pdf"
+              }
+            }
+          },
+          {
+            "id": "1d248bef334cc442",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CPS 307/Additional Operations of Stack.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "309b23d0653ab394",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CPS 305/Memory Management.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -44,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stakeho",
+                "query": "additi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +96,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -89,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Past Question.pdf",
+                "file": "CPS 305/Memory Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Past Question.pdf",
+                "file": "CPS 305/Memory Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Past Question.pdf"
+                "file": "CPS 305/Memory Management.md"
               }
             }
           }
@@ -150,45 +178,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f4d13fab84714dc",
+  "active": "309b23d0653ab394",
   "lastOpenFiles": [
-    "CPS 303/Assignment.md",
-    "CPS 303/Assignment 2.md",
-    "CPS 303/Assignment 3.md",
-    "CPS 303/CPS303 Assignment 4.md",
-    "CPS 305/Memory Management.md",
-    "CPS 305/Documents/Memory Management.pdf",
-    "CPS 301/Control Flow Statement.md",
-    "CPS 305/Documents/Memory Management.pdf.crdownload",
+    "CPS 307/Additional Operations of Stack.md",
+    "CPS 307/Fundamentals of Data Structures.md",
     "Past Question.pdf",
-    "Past Question.pdf.crdownload",
-    "ENT 301/Assignment.md",
-    "CPS 301/Documents/301_week2..pdf",
-    "CPS 301/Documents/Control Flow Statement.pdf",
-    "CPS 301/Assignment 6.md",
-    "CPS 309/Assignment 5.md",
-    "CPS 309/Creating Database in An Enterprise.md",
-    "CPS 309/Library Information System.md",
-    "CPS 309/Introduction in SQL`.md",
-    "CPS 313/UML.md",
-    "CPS 313/System Analysis.md",
-    "CPS 313/Information Systems.md",
-    "CPS 313/Diagram.canvas",
-    "CPS 303/CPS 303.md",
-    "CPS 303/Array.md",
-    "CPS 303/Documents/vb.net_quick_guide.pdf",
-    "CPS 303/Documents/VB-Console-Student-Booklet.pdf",
-    "CPS 309/Documents/mysql.pdf",
-    "CPS 309/Documents/Database Systems the complete guide.pdf",
-    "CPS 309/Architecture of a Database System.md",
-    "CPS 309/Intro to Database.md",
+    "CPS 305/CPS 305 Past Question.md",
+    "CPS 305/Memory Management.md",
     "CPS 305/Synchronization Cont...md",
-    "CPS 305/Operating System II.md",
+    "CPS 309/CPS309 Past Question Answers.md",
+    "CPS 309/Documents/Chapter1.pdf",
+    "CPS 309/Intro to Database.md",
+    "CPS 309/Architecture of a Database System.md",
+    "CPS 309/Assignment/Assignment 3.md",
+    "CPS 309/Assignment/Assignment 2.md",
+    "CPS 309/attachments/Pasted image 20231212094514.png",
+    "CPS 309/Assignment/Assignment 1.md",
+    "CPS 309/Introduction in SQL.md",
     "CPS 309/Assignment/Assignment 4.md",
-    "CPS 313/attachments/Pasted image 20231108125954.png",
+    "CPS 309/Assignment/Assignment 5.md",
+    "CPS 309/Documents/3.1.intro_to_mysql.pdf",
+    "CPS 309/Normalization.md",
+    "FUC 301/FUC 301.pdf",
+    "CPS 305/Logical And Physical Address.md",
+    "CPS 305/Documents/OS_slides.pdf",
+    "CPS 305/Documents/Memory Management.pdf",
+    "CPS 307/Graphs.md",
+    "CPS 313/Information Systems.md",
+    "CPS 313/System Analysis.md",
+    "CPS 313/UML.md",
+    "CPS 313/Documents/ch01.pdf",
+    "CPS 313/attachments/Pasted image 20231229100440.png",
+    "CPS 317/Analysis.md",
+    "CPS 309/Creating Database in An Enterprise.md",
     "CPS 307/Trees.md",
-    "CPS 313/Untitled.md",
-    "CPS 313/Untitled 1.md",
+    "CPS 307/Potential Test Questions.md",
+    "ENT 301/Assignment.md",
+    "CPS 301/Assignment 6.md",
+    "CPS 313/Diagram.canvas",
+    "CPS 303/Assignment",
+    "CPS 303/Codes/ConsoleApp3/obj/Debug/net8.0/ConsoleApp3.vbproj.FileListAbsolute.txt",
+    "CPS 303/Codes/ConsoleApp3/bin/Debug/net8.0/ConsoleApp3.pdb",
+    "CPS 313/attachments/Pasted image 20231108125954.png",
     "CPS 313/attachments/Pasted image 20231218192833.png",
     "CPS 313/attachments/Pasted image 20231218192533.png",
     "CPS 307/attachments/Pasted image 20231218095102.png",
@@ -196,8 +227,6 @@
     "CPS 307/attachments/Pasted image 20231218093538.png",
     "CPS 307/attachments/Pasted image 20231218093424.png",
     "CPS 307/attachments/Pasted image 20231218091739.png",
-    "CPS 307/attachments/Pasted image 20231218085832.png",
-    "CPS 309/attachments/Pasted image 20231212094514.png",
     "CPS 301/Canvas/Functions.canvas",
     "CPS 301/Canvas/POP Functions.canvas"
   ]
