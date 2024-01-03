@@ -12,7 +12,7 @@ Segmentation is a memory management technique where the physical memory is divid
 
 **Paging** 
 In paging, the physical memory is divided into fixed sized blocks called frames or pages. When a process executes, its memory is also divided into pages of the same size. When a process needs to access a page that is not in physical memory, a page fault occurs and the required page is loaded from disk. This allows more processes to be loaded into physical memory through swapping. However, it can cause high latency if there are many page faults.
-
+A page is a fixed sized portion of a process that is stored into a memory frame. A page is within the frame.  
 **Swapping**
 Swapping refers to temporarily copying all the pages belonging to a process from physical memory to disk. This is done when the process is not actively executing to free up physical memory for other processes. When the process needs to execute again, its pages are copied back to physical memory from disk. The advantage of swapping is that it allows more processes to be loaded than can fit in physical memory. The disadvantage is high latency when a swapped out process needs its pages copied back to memory.
 
