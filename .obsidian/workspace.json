@@ -8,28 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "29e8c43eb1574f32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPS 305/Logical And Physical Address.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67a08fda70905f6b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CPS 305/Documents/OS_slides.pdf"
-              }
-            }
-          },
-          {
             "id": "7ec1568b49d2a891",
             "type": "leaf",
             "state": {
@@ -42,17 +20,57 @@
             }
           },
           {
-            "id": "057a53cbea88e250",
+            "id": "dcc4164771b9ec09",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "CPS 303/Documents/vb.net_quick_guide.pdf"
+                "file": "CPS 303/Assignment/CPS303 Assignment 1.md",
+                "mode": "source",
+                "source": false
               }
+            }
+          },
+          {
+            "id": "108888d9328b51eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CPS 303/Assignment/CPS303 Assignment 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "053c4551ce69ddac",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "3c7b941eef80f696",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78faef22053223f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CPS 303/Assignment/Test Answer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "36d06e70a7634354",
@@ -126,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPS 303/CPS 303 Past Question.md",
+                "file": "CPS 303/Assignment/Test Answer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPS 303/CPS 303 Past Question.md",
+                "file": "CPS 303/Assignment/Test Answer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPS 303/CPS 303 Past Question.md"
+                "file": "CPS 303/Assignment/Test Answer.md"
               }
             }
           }
@@ -187,29 +206,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ec1568b49d2a891",
+  "active": "78faef22053223f5",
   "lastOpenFiles": [
-    "CPS 303/Documents/vb.net_quick_guide.pdf",
-    "CPS 305/Documents/OS_slides.pdf",
+    "CPS 303/Codes/WindowsApp1/WindowsApp1.sln",
+    "CPS 303/Codes/WindowsApp1/obj/Debug/TempPE/My Project.Resources.Designer.vb.dll",
+    "CPS 303/Codes/WindowsApp1/obj/Debug/DesignTimeResolveAssemblyReferences.cache",
+    "CPS 303/Codes/WindowsApp1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache",
+    "CPS 303/Codes/WindowsApp1/obj/Debug/WindowsApp1.vbproj.AssemblyReference.cache",
+    "CPS 303/Codes/WindowsApp1/obj/Debug/TempPE",
+    "CPS 303/Codes/WindowsApp1/Form1.Designer.vb",
+    "CPS 303/Codes/WindowsApp1/Form1.vb",
+    "CPS 303/Codes/WindowsApp1/My Project/Settings.Designer.vb",
+    "CPS 303/Codes/WindowsApp1/My Project/Resources.Designer.vb",
+    "CPS 303/Codes/WindowsApp1/obj/Debug",
+    "CPS 303/Assignment/CPS303 Assignment 3.md",
+    "CPS 303/Assignment/CPS303 Assignment 1.md",
     "CPS 303/CPS 303 Past Question.md",
-    "CPS 305/Memory Management.md",
-    "CPS 305/Documents/Memory Management.pdf",
-    "CPS 305/Logical And Physical Address.md",
-    "CPS 305/CPS 305 Past Question Answers.md",
     "CPS 303/Array.md",
-    "Past Question.pdf",
-    "CPS 303/Assignment/Assignment.md",
-    "CPS 303/Assignment/Assignment 5.md",
+    "CPS 303/Assignment/Test Answer.md",
+    "CPS 303/Assignment/Test Past Question.md",
+    "CPS 303/Assignment/CPS303 Assignment 2.md",
+    "CPS 303/Assignment/CPS303 Assignment 5.md",
     "CPS 303/Assignment/CPS303 Assignment 4.md",
-    "CPS 303/Codes/salary calculator/bin/Debug/salary calculator.xml",
-    "CPS 303/Codes/salary calculator/bin/Debug/vs57FB.tmp",
-    "CPS 303/Codes/salary calculator/obj/Debug/DesignTimeResolveAssemblyReferences.cache",
-    "CPS 303/Codes/sumofarray/bin/Debug/sumofarray.xml",
-    "CPS 303/Codes/sumofarray/bin/Debug/vsC72B.tmp",
-    "CPS 303/Codes/sumofarray/bin/Debug/vs3CAD.tmp",
-    "CPS 303/Assignment/Assignment 2.md",
-    "CPS 303/Assignment/Assignment 3.md",
+    "CPS 303/Descending.md",
     "CPS 303/Untitled.md",
+    "CPS 303/CPS 303 Note.md",
+    "CPS 305/Logical And Physical Address.md",
+    "CPS 305/Memory Management.md",
+    "CPS 305/CPS 305 Past Question Answers.md",
     "CPS 323/Algorithm Complexity.md",
     "CPS 305/attachments/Pasted image 20240102093447.png",
     "CPS 307/Additional Operations of Stack.md",
@@ -222,10 +246,6 @@
     "CPS 309/Assignment/Assignment 3.md",
     "CPS 309/Assignment/Assignment 2.md",
     "CPS 309/attachments/Pasted image 20231212094514.png",
-    "CPS 309/Assignment/Assignment 1.md",
-    "CPS 309/Introduction in SQL.md",
-    "CPS 309/Assignment/Assignment 4.md",
-    "CPS 309/Assignment/Assignment 5.md",
     "CPS 313/attachments/Pasted image 20231229100440.png",
     "CPS 313/Diagram.canvas",
     "CPS 313/attachments/Pasted image 20231108125954.png",
