@@ -1,78 +1,64 @@
-10/11/23
 
-<mark style="background: #ABF7F7A6;"> "What is structured programming"</mark>
+**10/11/23**
 
-
-Breaks a program into different logical sections called modules, in such a way to minimize the complexity of the programs. It is also called modular programming. It's essence is to reduce the complexity of the program.
-
-It makes debugging a program easier, as the lines of code is shortened. 
+*Definition of Structured Programming:*
+Structured programming, also known as modular programming, involves breaking a program into distinct logical sections called modules. The primary objective is to minimize overall complexity and enhance code clarity. This approach makes debugging easier by shortening the lines of code.
 
 ---
-17/11/23
-## Characteristic of Structured Program Modules
+
+**17/11/23**
+
+*Characteristics of Structured Program Modules:*
 - A structured program module must have a label or a name.
 - Each program module must perform only one specific task.
 - It must be able to complete that task before continuing.
-- The program should have one entry point and exit point  (Pipeline Structure)
-- Must be independent, from other modules. 
+- The program should have one entry point and exit point (Pipeline Structure).
+- Modules must be independent of other modules.
 
-## Ways of Designing Computer Program (Assignment)
+*Ways of Designing Computer Program (Assignment):*
 - Top-down Approach
-- Bottom-up Approach 
+- Bottom-up Approach
 
-## Criteria of Judging a Computer Program
-- **Solvability:** Does it solve the problem efficiently 
-- **Workability:** Ability to accommodate and handle errors. So that the program works under any and all conditions. 
-- **Sufficient Information:** Is the program well documented, both internally and externally. 
-- **Logically Written**: Is the program broken down into small modules each module handling a different logic. 
-
+*Criteria of Judging a Computer Program:*
+- **Solvability:** Efficient problem-solving.
+- **Workability:** Ability to handle errors under any conditions.
+- **Sufficient Information:** Well-documented program, both internally and externally.
+- **Logically Written:** Program broken down into small modules, each handling different logic.
 
 ---
-# Paradigms of Structured Programming
+
+**Paradigms of Structured Programming**
 
 Structured programming is categorized into two main paradigms:
+1. *Procedural Oriented Programming (POP):*
+   - In POP, the emphasis is on writing instructions to complete tasks.
+   - Examples of POP languages include COBOL, FORTRAN, and C.
 
-## Procedural/Process Oriented Programming (POP)
-In POP, the programming approach involves writing a sequence of instructions for the computer to follow. These instructions are organized into groups, often referred to as functions. The problem is viewed as a sequence of tasks, and functions are created to accomplish these tasks.
+   *Characteristics of POP:*
+   - Function-oriented.
+   - Most functions share global data.
+   - Data moves openly.
+   - Functions transform data from one form to another.
 
-The primary <mark style="background: #FFB86CA6;">emphasis is on writing instructions</mark> to complete the task, with relatively less attention given to the data. Examples of POP languages include COBOL, FORTRAN, and C.
+2. *Object Oriented Programming (OOP):*
+   - OOP modularizes programs by creating memory areas for both data and methods.
+   - An object is a memory area storing data and operations to access that data.
+   - OOP promotes reusability.
 
-### Characteristics of POP
-- Function-oriented
-- Most functions share global data
-- Data moves openly
-- Functions transform data from one form to another
+   *Key Concepts of OOP:*
+   - **Class:** A template for an object.
+   - **Object:** An instance of a class.
+   - **Variables:** Variables within a class are instance variables.
+   - Classes can have relationships with other classes.
 
-[[Functions.canvas|Functions]]
+   *Benefits of OOP:*
+   - **Modularity:** Source code for an object can be written and maintained independently.
+   - **Information Hiding:** Internal details are hidden, interaction through methods.
+   - **Code Reuse:** Existing objects can be utilized.
+   - **Ease of Debugging & Pluggability:** Problematic objects can be replaced, facilitating debugging and modification.
 
-## Object Oriented Programming (OOP)
-OOP is an approach that modularizes programs by creating memory areas for both data and methods, serving as templates for creating copies of such modules on demand. An object, in OOP, is a memory area that stores data and a set of operations to access that data.
-
-The emphasis in OOP is on data, where programs are divided into classes, and data structures characterize the objects. Methods that operate on the data are tied to the object, enabling communication between objects. OOP promotes reusability.
-
-### Key Concepts of OOP
-
-- **Class:** A class serves as a template for an object.
-- **Object:** An object is an instance of a class.
-- **Variables:** Variables defined within a class are referred to as instance variables.
-- Classes can have relationships with other classes.
-
-## Benefits of OOP
-
-- **Modularity:** Source code for an object can be written and maintained independently of other objects. Once created, an object can be easily passed around within the system.
-- **Information Hiding:** Interaction occurs only through methods, keeping the internal implementation details hidden.
-- **Code Reuse:** Existing objects can be utilized in a program.
-- **Ease of Debugging & Pluggability:** Problematic objects can be replaced with different objects, facilitating debugging and modification.
-
----
-
-
----
-*24/11/23*
-
-Types of classes in Java
+*Types of Classes in Java:*
 - User-defined
 - Pre-defined
-- Executable: class that will always give results. 
-- non-executable
-
+- Executable: A class that always gives results.
+- Non-executable

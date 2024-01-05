@@ -6,13 +6,13 @@ Imports System
 
 Module Program
     Sub Main(args As String())
-        Dim myArray(,) As Integer = {{1, 2, 3, 4, 5}, {6, 7, 8, 9, 10}}
+        Dim myArray(,) As Integer = {{1,2},{3,4},{5,6},{7,8},{9,10}}
         Dim i, j As Integer
         i = 0
         Dim sum As Integer = 0
-        Do While i <= 1
+        Do While i < 5
             j = 0
-            Do While j <= 4
+            Do While j <= 1
                 Console.WriteLine("For i: " & i & " & j: " & j & " = " & myArray(i, j))
                 sum += myArray(i, j)
                 j += 1
