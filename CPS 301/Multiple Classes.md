@@ -48,3 +48,40 @@ public class AlternateClass {
 }
 
 ```
+
+A variable declared as private means it is private to that particular class. It cant be used outside that class. 
+
+
+Methods to set the name, set the name,  and display the name;
+
+```Java
+
+import java.util.Scanner;
+public class otherclass{
+
+	public static void main(String[] args){
+    Scanner input  = new Scanner(System.in);
+    System.out.println("What is the name of the most outstanding studetn");
+    String name = input.nextLine();
+    input.close();
+    Name nameObj = new Name();
+    nameObj.setName(name);
+    nameObj.displayName();
+	}
+  
+
+}
+//New file called Name.java
+public class Name{
+	private String goodStudent;
+	public void setName(String name){
+		goodStudent = name;
+	}
+	public String getName(){
+		return goodStudent;
+	}
+	public void displayName(){
+		System.out.println("The name of the most outstanding student is: %s",getName());	
+	}
+}
+```

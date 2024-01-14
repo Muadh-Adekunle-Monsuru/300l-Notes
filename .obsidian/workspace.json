@@ -23,26 +23,16 @@
             "id": "a6f22c76644a7443",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CPS 317/CamScanner 12-12-2023 23.11.pdf"
-              }
-            }
-          },
-          {
-            "id": "f4dbd5b9002e2a8b",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "CPS 301/Multiple Classes.md",
+                "file": "CPS 303/Assignment/Assignment 6.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -117,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPS 301/Multiple Classes.md",
+                "file": "CPS 303/Assignment/Assignment 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPS 301/Multiple Classes.md",
+                "file": "CPS 303/Assignment/Assignment 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPS 301/Multiple Classes.md"
+                "file": "CPS 303/Assignment/Assignment 6.md"
               }
             }
           }
@@ -178,12 +167,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94ddfdde725c85c0",
+  "active": "a6f22c76644a7443",
   "lastOpenFiles": [
-    "CPS 317/Facts from the data.md",
-    "CPS 301/Multiple Classes.md",
-    "CPS 317/spss_dummy",
+    "CPS 303/Classes.md",
+    "CPS 303/Assignment/Assignment 6.md",
     "CPS 317/CamScanner 12-12-2023 23.11.pdf",
+    "CPS 301/Multiple Classes.md",
+    "CPS 317/Facts from the data.md",
+    "CPS 317/spss_dummy",
     "CPS 317/Result Computation Analysis_1.sav",
     "CPS 317/Backup7141193616315604175",
     "CPS 317/Nominal VS Ordinal VS Scale.md",
@@ -225,8 +216,6 @@
     "CPS 307/attachments/2023_11_13 9_20 AM Office Lens.jpg",
     "CPS 309/Intro to Database.md",
     "CPS 305/Memory Management.md",
-    "CPS 305/Logical And Physical Address.md",
-    "CPS 305/CPS 305 Past Question Answers.md",
     "CPS 301/Canvas/Functions.canvas",
     "CPS 301/Canvas/POP Functions.canvas",
     "CPS 313/Diagram.canvas"
