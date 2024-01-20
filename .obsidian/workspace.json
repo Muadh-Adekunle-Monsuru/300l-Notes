@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPS 305/Assignment.md",
+                "file": "CPS 305/Assignment 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 227.5,
+    "collapsed": true
   },
   "right": {
     "id": "36d06e70a7634354",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPS 305/Assignment.md",
+                "file": "CPS 305/Assignment 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPS 305/Assignment.md",
+                "file": "CPS 305/Assignment 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPS 305/Assignment.md"
+                "file": "CPS 305/Assignment 4.md"
               }
             }
           }
@@ -154,8 +155,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f4d13fab84714dc",
+  "active": "ec767b40178fb9b7",
   "lastOpenFiles": [
+    "CPS 315/assignment.pdf",
     "CPS 305/CPS 305 Past Question Answers.md",
     "GNS 201/Class 1.md",
     "CPS 301/Learning Java.md",
@@ -185,7 +187,7 @@
     "CPS 317/R.md",
     "CPS 317/attachments/Pasted image 20240117175957.png",
     "CPS 317/attachments/Pasted image 20240117175942.png",
-    "CPS 305/Assignment.md",
+    "CPS 305/Assignment 4.md",
     "CPS 305/Logical And Physical Address.md",
     "CPS 305/Memory Management.md",
     "CPS 305/Operating System II.md",
