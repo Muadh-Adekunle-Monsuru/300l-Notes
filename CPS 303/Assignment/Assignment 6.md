@@ -1,5 +1,3 @@
-Certainly! Let's delve into creating classes and methods in VB.NET, covering both function and subroutine types. I'll provide examples for each part.
-
 ### Classes and Methods in VB.NET:
 
 #### 1. Creating Classes:
@@ -42,7 +40,6 @@ End Class
 ```
 
 #### 3. Referencing Methods:
-
 ##### Creating Instances:
 ```vb.net
 Dim myClassInstance As New MyClassExample()

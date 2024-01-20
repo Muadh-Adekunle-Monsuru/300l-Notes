@@ -195,3 +195,25 @@ Singular Detached Pronouns
 
 6. **Plural:**
    - هن يزورن صديقاتهن. (Hunna yazurna sadiqatihin.) - They (feminine) visit their friends.
+
+
+---
+# Class 7
+
+Important Components of any sentence in Arabic
+
+| Verb | الفعل |
+| ---- | ---- |
+| Noun | اسم |
+| Preposition | حرف  |
+
+
+| Preposition | Translation | Sentence | Transliteration | Translation |
+| ---- | ---- | ---- | ---- | ---- |
+| في | in | رأيت موسى في البيت | ra'ayt musaa fi bayt | I saw Musa in the house |
+| تحت | under | قلمي تحت السرير | qalami taht alsarir | my pen is under the bed |
+| فوق | on top/ on | قلمي فوق السرير | qalami fawq alsarir | my pen is on top of the bed |
+| بين | Between | ورأيت موسى بين الصفا والمروة | wara'ayt musaa bayn alsafa walmarwa | I saw Musa between Safa and Marwa |
+| خلف | Behind | رأيتك خلف المسجد | ra'aytuk khalf almasjid | I saw you behind the masjid |
+| أمام | In front of | رأيتك أمام المسجد | ra'aytuk 'amam almasjid | I saw you in front of the masjid |
+

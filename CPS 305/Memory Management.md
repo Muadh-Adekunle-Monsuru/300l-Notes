@@ -95,3 +95,6 @@ Base and limit registers are hardware components used in memory management to de
    - **Isolation:** Each process has its own set of base and limit registers, providing isolation and ensuring that one process cannot accidentally or maliciously interfere with the memory of another process.
 
 In modern computer systems, the concept of base and limit registers has evolved, and mechanisms like segmentation and paging are often used for more flexible memory management. However, the fundamental idea of controlling memory access through a defined range remains essential for ensuring system stability and security.
+
+
+# Paging
