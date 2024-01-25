@@ -1,0 +1,1 @@
+Compiler directives give instructions to compiler to preprocess the information before actual compilation starts. All these directives begin with # and only white space characters may appear before a directiveson a line. These directives are not statements. The compiler directives used to help in conditional compilation. 

@@ -127,15 +127,15 @@ Multiplication -> Division -> Addition -> Subtraction
 
 ---
 
- Action         | Content of Stack after operation | Return-Value 
-----------------|---------------------------------|--------------
- Initialise(S)  | empty                           |              
-push(A,S)      | A                               |              
- push(B,S)      | A, B                            |             
- push(C,S)      | A, B, C                         |              
- pop(S)         | A, B                            | C            
- push(D,S)      | A, B, D                         |             
-pop(S)         | A, B                            | D            
+| Action | Content of Stack after operation | Return-Value |
+| ---- | ---- | ---- |
+| Initialise(S) | empty |  |
+| push(A,S) | A |  |
+| push(B,S) | A, B |  |
+| push(C,S) | A, B, C |  |
+| pop(S) | A, B | C |
+| push(D,S) | A, B, D |  |
+| pop(S) | A, B | D |
 
 
 ---
@@ -148,7 +148,7 @@ Queue
 | Add(A,Q)        | A                                | -            |
 | Add(B,Q)        | A, B                             | -            |
 | Add(C,Q)        | A, B, C                          | -            |
-| Remove(Q)       | A, B                             | A            |
+| Remove(Q)       | B, C                             | A            |
 | Add(D,Q)        | B, C, D                          | -            |
 | Remove(Q)       | C, D                             | B            |
 

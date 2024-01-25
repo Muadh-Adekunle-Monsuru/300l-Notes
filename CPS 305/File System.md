@@ -17,9 +17,9 @@ Different OS uses different ways of storing and indexing files:
 	- **exFAT**: Lightweight FS which is used primarily in flash storage application and SD card. It has large file size and partition size limit. It can store files over 4gb
 - MAC:
 	- **HFS+**: Sometime known as Binary Tree, It uses B-Tree to index the files on the hard disk. Which means there would be fast access times. 
-- LINUX: all uses B-Tree
+- LINUX: all uses B-Tree https://www.javatpoint.com/linux-file-system
 	- exFS
-	- jFS
+	- jFS [[Linux file system]]
 
 ---
 # Basic Operations on File System

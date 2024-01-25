@@ -1,5 +1,5 @@
 1. List out 20 HTML Tags
-	1. `<p>` - Defines a paragraph.
+	1. `<link>` - Used to link external resources or define relationships between the current document and external resources
 	2. `<a>` - Defines a hyperlink.
 	3. `<img>` - Embeds an image.
 	4. `<div>` - Defines a division or a section in an HTML document.
@@ -33,13 +33,13 @@
     <h1>Uses of media tags </h1>
 
     <!-- Image Tag -->
-    <img src="https://placekitten.com/300/200" alt="Cute Kitten">
+    <img src="../images/cutekitten.jpg" alt="Cute Kitten">
 
     <br>
 
     <!-- Video Tag -->
     <video width="400" height="300" controls>
-        <source src="https://www.sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4" type="video/mp4">
+        <source src="../video/longvideo.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 
@@ -52,3 +52,15 @@
 </body>
 </html>
 ```
+3. Define the following: web server, web page, web client and web.
+1. **Web Server:**
+	 A web server is a computer that stores and shares website files. It responds to requests from web browsers (like Chrome or Firefox) and sends back the web pages you see.
+
+2. **Web Page:**
+	 A web page is a digital document displayed on the internet. It can have text, images, videos, and interactive elements. When you visit a website, you are looking at one or more web pages.
+
+3. **Web Client:**
+    A web client is like your web browser (Chrome, Firefox, Safari, etc.). It's the program you use to access the internet and view web pages. The client sends requests to web servers to get the information needed to display web pages.
+
+4. **Web:**
+    The web, short for World Wide Web, is a vast network of connected computers. It's like a big library where information is stored and shared. When you browse the web, you are exploring this interconnected collection of websites and web pages.

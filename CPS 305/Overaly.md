@@ -1,0 +1,2 @@
+It is a technique that is used to increase the apparent size of the main memory. This is accompanied by keeping in main memory only the program/data that are currently active. The rest are kept in the secondary storage. This usually happens when segments of a program are transferred from the secondary storage to the main memory for execution. 
+Overlay is when their is segement in 

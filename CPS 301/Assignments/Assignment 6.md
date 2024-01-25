@@ -1,7 +1,7 @@
 
 1. Quadratic formula
 ```Java
-import System.utils.Scanner;
+import java.util.Scanner;
 public class quadratic{
 public static main(String args[]){
 	Scanner input = new Scanner(System.in);
@@ -19,7 +19,7 @@ public static main(String args[]){
 	c = input.nextInt();
 	input.close();
 	//calculating the discriminat
-	discriminant = Math.sqrt(Math.exp(b)-4*a*c);
+	discriminant = Math.sqrt(Math.pow(b,2)-4*a*c);
 	//if the discriminant is less than 0 then the equation has no real roots
 	if(discriminant < 0){
 		System.out.println("Complex Root");

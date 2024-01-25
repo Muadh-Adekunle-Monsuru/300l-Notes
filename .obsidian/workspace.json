@@ -4,22 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "53d40f90d36c8d49",
+        "id": "48417517dc9d9299",
         "type": "tabs",
         "children": [
           {
-            "id": "ec767b40178fb9b7",
+            "id": "cd7d89367807586d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPS 305/Assignment 4.md",
+                "file": "CPS 317/R.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "cc76a4202e2e7c90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CPS 317/R Assignment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06e5577865fff61f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CPS 317/Documents/r-begginers.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "context sw",
+                "query": "status",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "36d06e70a7634354",
@@ -94,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPS 305/Assignment 4.md",
+                "file": "CPS 317/R Assignment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPS 305/Assignment 4.md",
+                "file": "CPS 317/R Assignment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPS 305/Assignment 4.md"
+                "file": "CPS 317/R Assignment.md"
               }
             }
           }
@@ -155,57 +177,56 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec767b40178fb9b7",
+  "active": "cc76a4202e2e7c90",
   "lastOpenFiles": [
-    "CPS 315/assignment.pdf",
-    "CPS 305/CPS 305 Past Question Answers.md",
-    "GNS 201/Class 1.md",
-    "CPS 301/Learning Java.md",
-    "CPS 301/Assignment 7.md",
-    "CPS 301/Arrays In Java.md",
-    "CPS 301/Multiple Classes.md",
-    "CPS 313/Documents/chap02.pdf",
-    "CPS 313/CPS 313 Past Question Repeated Question.md",
-    "CPS 313/System Analysis.md",
-    "CPS 313/UML.md",
-    "CPS 313/Documents/gantt and pert.pdf",
-    "CPS 313/Documents/ch01.pdf",
+    "CPS 317/Documents/r-begginers.pdf",
+    "CPS 317/R Assignment.md",
+    "CPS 317/R.md",
+    "CPS 309/Assignment 6.md",
+    "CPS 317/Comparison Assignment.md",
+    "CPS 317/Nominal VS Ordinal VS Scale.md",
+    "CPS 317/Documents/Functions in R.pdf",
+    "CPS 317/Documents/RJournal_2012-2_Baaaath.pdf",
+    "CPS 317/Facts from the data.md",
+    "CPS 317/Analysis.md",
+    "CPS 317/Documents/R-intro.pdf",
+    "CPS 317/Documents/Questionnaire design.pdf",
+    "CPS 317/Documents",
+    "CPS 317/WhatsApp Image 2024-01-18 at 15.51.55_df31c812.jpg",
+    "CPS 317/Untitled 1.md",
+    "ENT 301/ENT 301 Assignment.md",
+    "CPS 315/Errors.md",
+    "CPS 323/Algorithm Complexity.md",
     "Past Question.pdf",
-    "CPS 313/Information Systems.md",
-    "CPS 313/Documents/PQ5.jpg",
-    "CPS 313/Documents/PQ4.jpg",
+    "CPS 303/CPS 303 Past Question.md",
+    "CPS 303/CPS 303 Note.md",
+    "CPS 303/Classes.md",
+    "CPS 303/Untitled.md",
+    "CPS 303/VB error handling.md",
+    "CPS 303/Codes/databaseconnection/bin/Debug/libraryinfo.sqbpro",
+    "CPS 303/Array.md",
+    "CPS 303/Compiler Directives.md",
+    "CPS 303/Documents/Practical Assignment.md",
+    "CPS 303/Documents/CPS303 Assignment.md",
+    "CPS 305/CPS 305 Past Question Answers.md",
+    "CPS 305/Assignments/Assignment 3.md",
+    "CPS 305/Assignments/Assignment 2.md",
+    "CPS 305/Assignments/Assignment 1.md",
+    "CPS 305/Overaly.md",
+    "CPS 313/Documents/pg53-80.pdf",
+    "CPS 313/Documents/chap03.pdf",
+    "attachments/Pasted image 20240123104349.png",
+    "attachments/Pasted image 20240123104334.png",
+    "attachments/Pasted image 20240123104325.png",
     "CPS 313/Documents/PQ3.jpg",
     "CPS 313/Documents/PQ2.jpg",
     "CPS 313/Documents/PQ1.jpg",
-    "CPS 313/Documents/kendall and kendal text book.pdf",
-    "CPS 313/Documents/kendall and kendal text book.pdf.crdownload",
-    "CPS 313/Documents/pg53-80.pdf",
-    "CPS 313/Documents/pg1-50.pdf",
-    "CPS 305/File System.md",
-    "CPS 313/Documents/chap03.ppt",
-    "CPS 313/Documents/Unconfirmed 786280.crdownload",
-    "CPS 317/R.md",
-    "CPS 317/attachments/Pasted image 20240117175957.png",
-    "CPS 317/attachments/Pasted image 20240117175942.png",
-    "CPS 305/Assignment 4.md",
-    "CPS 305/Logical And Physical Address.md",
-    "CPS 305/Memory Management.md",
-    "CPS 305/Operating System II.md",
-    "CPS 305/Synchronization Cont...md",
-    "CPS 303/Assignment/Assignment 6.md",
-    "CPS 303/Classes.md",
-    "CPS 317/Nominal VS Ordinal VS Scale.md",
-    "CPS 303/CPS 303 Note.md",
-    "CPS 303/CPS 303 Past Question.md",
-    "CPS 323/Expression Parsing.md",
-    "CPS 317/Facts from the data.md",
-    "CPS 317/Untitled.md",
-    "CPS 305/Documents/attachments/Pasted image 20240109181915.png",
-    "CPS 305/Documents/attachments/Pasted image 20240109181102.png",
-    "CPS 305/Documents/attachments/Pasted image 20240109181024.png",
+    "CPS 313/attachments/Pasted image 20231108125954.png",
+    "CPS 313/Diagram.canvas",
+    "CPS 313/Documents/PQ5.jpg",
+    "CPS 313/Documents/PQ4.jpg",
     "Untitled.canvas",
     "CPS 301/Canvas/Functions.canvas",
-    "CPS 301/Canvas/POP Functions.canvas",
-    "CPS 313/Diagram.canvas"
+    "CPS 301/Canvas/POP Functions.canvas"
   ]
 }

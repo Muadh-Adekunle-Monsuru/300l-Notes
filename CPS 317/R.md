@@ -4,11 +4,19 @@ R is case sensitive.
 
 `ls()`: get list of the variables that has been defined, if no characters has been defined it gives `character(0)`
 `getwd()`: used to get the working directory:
+`setwd(dir = "C:/Users/Downaload`: This sets working directory
 `rm(list = ls())` = removes all variables defined. 
 `#` is used for comments
 `summary(x)`: generates the summary
 `mean(x)`: finds the mean of the data
 `median(x)`: finds the median
+`read.table('mydata.txt',hearder=TRUE)`: load text file
+myData = read.table('mydata.txt',hearder=TRUE) 
+fix(myData) : shows editable table
+x = seq(1,10,length=10): generates a sequence of x: function is used to generate sequences of numbers. It creates a sequence of numbers with a specified start, end, and interval. The basic syntax of the `seq()` function is as follows:
+
+cor(x) correlation matrix of x if it is a matrix or a data frame (1 if x is a vector)
+
 
 function in R using the following syntax
 ```R
@@ -112,7 +120,7 @@ w = x + y
 
 print(w)
 
-all.equal(w)
+all.equal(w,z)
 ```
 
 nested for loop
@@ -168,3 +176,40 @@ geometric(y)
 geometric(x)
 
 ```
+
+sum(x)
+prod (x)
+max(x)
+min(x)
+which. max (x)
+which. min (x)
+range (x)
+length (x)
+mean (x)
+median (x)
+var(x) or cov(x)
+cor(x)
+var(x,
+cor (x ,
+y) or cov(x,
+y)
+y)
+sum of thc elements of x
+product of thc elements of x
+maximum of thc elements of x
+minimum of thc elements of x
+returns thc index of thc greatest clement of x
+returns thc index of thc smallest clement of x
+id. than c (min(x), max(x))
+number of elements in x
+mean of the elements of x
+median of thc elements of x
+variance of the elements of x calculated on n — 1); if x is
+a matrix or a data frame, thc variance-covariance matrix is
+calculated
+correlation matrix of x if it is a matrix or a data frame (1 if x
+is a vector)
+covariance between x and y, or between thc columns of x and
+those of y if they arc matrices or data frames
+linear correlation between x and y, or correlation matrix if they
+are matrices or data frames

@@ -1,8 +1,12 @@
 1. Explain the three fundamentals of development methodologies
 	Development methodologies are frameworks that guide the process of software development. The three fundamentals of development methodologies are:
-	a. **Process:** This involves the specific set of activities, actions, and tasks that are performed during the development process. It defines the order in which these activities are carried out.
-	b. **People:** The individuals involved in the development process, including analysts, developers, testers, and stakeholders. Effective communication and collaboration among team members are crucial.
-	c. **Technology:** The tools, techniques, and resources used in the development process. This includes programming languages, databases, and other technologies that support the creation of software.
+
+	
+	Models: Models are representations or abstractions of a system. They help in visualizing and understanding complex processes, structures, or interactions. For example, flowcharts, data models, and UML diagrams are types of models.
+
+	Techniques: Techniques refer to specific methods or procedures used to accomplish a task or solve a problem. In the context of software development or system analysis, techniques can include specific approaches for requirements gathering, design, testing, etc. For instance, prototyping, structured analysis, and use case analysis are techniques.
+
+	Tools: Tools are the software or physical instruments that aid in the development, analysis, or maintenance of information systems. These can include programming languages, integrated development environments (IDEs), testing tools, and project management software.
 
 1. Use principle of seven phases of the SDLC to execute a campus-wide project for digitization of office documents
 	   1. Identifying problems, opportunities, and objectives
