@@ -4,40 +4,60 @@
     "type": "split",
     "children": [
       {
-        "id": "48417517dc9d9299",
+        "id": "e252c635a13c470a",
         "type": "tabs",
         "children": [
           {
-            "id": "cd7d89367807586d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPS 317/R.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc76a4202e2e7c90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPS 317/R Assignment.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06e5577865fff61f",
+            "id": "c56922462bacffa9",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "CPS 317/Documents/r-begginers.pdf"
+                "file": "CPS 307/Documents/Infix, Prefix and Postfix Expressions — Problem Solving with Algorithms and Data Structures from gatech.pdf"
+              }
+            }
+          },
+          {
+            "id": "1059f0318d21f618",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CPS 307/Trees.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f9edbf47df7c740",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CPS 323/expression parsing.pdf"
+              }
+            }
+          },
+          {
+            "id": "db66dc57496884a3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CPS 307/Documents/lecture8.pdf"
+              }
+            }
+          },
+          {
+            "id": "e0429b31905e1773",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CPS 307/Trees.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -116,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPS 317/R Assignment.md",
+                "file": "CPS 307/Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPS 317/R Assignment.md",
+                "file": "CPS 307/Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPS 317/R Assignment.md"
+                "file": "CPS 307/Trees.md"
               }
             }
           }
@@ -177,11 +197,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc76a4202e2e7c90",
+  "active": "1059f0318d21f618",
   "lastOpenFiles": [
-    "CPS 317/Documents/r-begginers.pdf",
+    "CPS 307/Documents/COP3502_22_BinaryTrees1.pdf.crdownload",
+    "CPS 307/attachments/Pasted image 20240127214046.png",
+    "CPS 307/Documents/Database Connection.md",
+    "CPS 307/Documents/TreeTraversal-QA.pdf",
+    "CPS 307/Documents/TreeTraversal-QA.pdf.crdownload",
+    "CPS 307/Documents/E9-trees.pdf",
+    "CPS 307/Documents/Infix, Prefix and Postfix Expressions — Problem Solving with Algorithms and Data Structures from gatech.pdf",
+    "CPS 323/expression parsing.pdf",
+    "CPS 307/Trees.md",
+    "CPS 307/Graphs.md",
+    "CPS 307/Documents/202003251324427012himanshu_ Binary_Trees.pdf",
+    "CPS 307/Documents/lecture8.pdf",
     "CPS 317/R Assignment.md",
     "CPS 317/R.md",
+    "CPS 301/Multiple Classes.md",
+    "CPS 301/Arrays In Java.md",
+    "CPS 301/Overloading Methods.md",
+    "CPS 301/Swing Facility in Java.md",
+    "CPS 301/Assignment 7.md",
+    "CPS 317/Matrix in R.md",
+    "CPS 317/Documents/r-begginers.pdf",
     "CPS 309/Assignment 6.md",
     "CPS 317/Comparison Assignment.md",
     "CPS 317/Nominal VS Ordinal VS Scale.md",
@@ -189,32 +227,16 @@
     "CPS 317/Documents/RJournal_2012-2_Baaaath.pdf",
     "CPS 317/Facts from the data.md",
     "CPS 317/Analysis.md",
-    "CPS 317/Documents/R-intro.pdf",
-    "CPS 317/Documents/Questionnaire design.pdf",
-    "CPS 317/Documents",
     "CPS 317/WhatsApp Image 2024-01-18 at 15.51.55_df31c812.jpg",
     "CPS 317/Untitled 1.md",
     "ENT 301/ENT 301 Assignment.md",
     "CPS 315/Errors.md",
     "CPS 323/Algorithm Complexity.md",
-    "Past Question.pdf",
     "CPS 303/CPS 303 Past Question.md",
     "CPS 303/CPS 303 Note.md",
     "CPS 303/Classes.md",
     "CPS 303/Untitled.md",
     "CPS 303/VB error handling.md",
-    "CPS 303/Codes/databaseconnection/bin/Debug/libraryinfo.sqbpro",
-    "CPS 303/Array.md",
-    "CPS 303/Compiler Directives.md",
-    "CPS 303/Documents/Practical Assignment.md",
-    "CPS 303/Documents/CPS303 Assignment.md",
-    "CPS 305/CPS 305 Past Question Answers.md",
-    "CPS 305/Assignments/Assignment 3.md",
-    "CPS 305/Assignments/Assignment 2.md",
-    "CPS 305/Assignments/Assignment 1.md",
-    "CPS 305/Overaly.md",
-    "CPS 313/Documents/pg53-80.pdf",
-    "CPS 313/Documents/chap03.pdf",
     "attachments/Pasted image 20240123104349.png",
     "attachments/Pasted image 20240123104334.png",
     "attachments/Pasted image 20240123104325.png",
@@ -224,7 +246,6 @@
     "CPS 313/attachments/Pasted image 20231108125954.png",
     "CPS 313/Diagram.canvas",
     "CPS 313/Documents/PQ5.jpg",
-    "CPS 313/Documents/PQ4.jpg",
     "Untitled.canvas",
     "CPS 301/Canvas/Functions.canvas",
     "CPS 301/Canvas/POP Functions.canvas"

@@ -58,7 +58,7 @@ NLR: Node-Left-Right
 ![[Pasted image 20231201111209.png]]
 ## Post Order LRN
 ![[Pasted image 20231201111140.png]]
-
+![[Pasted image 20240127214046.png]]
 ---
 # Binary Search Tree
 A binary search tree is also know as an ordered binary tree, it is a variant of binary tree in which the nodes are arranged in order. 

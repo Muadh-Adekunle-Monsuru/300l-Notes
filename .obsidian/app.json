@@ -7,7 +7,7 @@
     "pageSize": "A4",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 92
+    "downscalePercent": 99
   },
   "attachmentFolderPath": "./attachments",
   "alwaysUpdateLinks": true

@@ -1,215 +1,297 @@
-R is free.
-R is open source. 
-R is case sensitive. 
+### Basic Information about R:
 
-`ls()`: get list of the variables that has been defined, if no characters has been defined it gives `character(0)`
-`getwd()`: used to get the working directory:
-`setwd(dir = "C:/Users/Downaload`: This sets working directory
-`rm(list = ls())` = removes all variables defined. 
-`#` is used for comments
-`summary(x)`: generates the summary
-`mean(x)`: finds the mean of the data
-`median(x)`: finds the median
-`read.table('mydata.txt',hearder=TRUE)`: load text file
-myData = read.table('mydata.txt',hearder=TRUE) 
-fix(myData) : shows editable table
-x = seq(1,10,length=10): generates a sequence of x: function is used to generate sequences of numbers. It creates a sequence of numbers with a specified start, end, and interval. The basic syntax of the `seq()` function is as follows:
+- R is free and open source.
+- R is case-sensitive.
 
-cor(x) correlation matrix of x if it is a matrix or a data frame (1 if x is a vector)
+### Common Commands:
 
+#### Workspace and Variables:
 
-function in R using the following syntax
+- `ls()`: Get a list of defined variables. Returns `character(0)` if no variables are defined.
+- `getwd()`: Get the working directory.
+- `setwd(dir = "C:/Users/Download")`: Set the working directory.
+- `rm(list = ls())`: Remove all defined variables.
+- `#`: Used for comments.
+
+#### Summary Statistics:
+
+- `summary(x)`: Generate a summary of variable x.
+- `mean(x)`: Find the mean of data x.
+- `median(x)`: Find the median of data x.
+
+#### Reading and Manipulating Data:
+
+- `read.table('mydata.txt', header=TRUE)`: Load a text file.
+- `myData = read.table('mydata.txt', header=TRUE)`: Assign loaded data to a variable.
+- `fix(myData)`: Show an editable table.
+
+#### Generating Sequences:
+
+- `x = seq(1, 10, length=10)`: Generate a sequence of 10 numbers from 1 to 10.
+
+### Statistical Functions:
+
+- `sum(x)`: `sum` of the elements of x
+- `prod(x):` `product` of the elements of x
+- `max(x)`: `maximum` of the elements of x
+- `min(x)`: `minimum` of the elements of x
+- `length(x)`: `length` of x
+- `mean(x)`: `mean` of the elements of x
+- `median(x)`: `median` of the elements of x
+- `var(x)` or `cov(x)`: `variance` of the elements of x calculated on n-1 (if x is a matrix or data frame, the variance-covariance matrix is calculated)
+- `cor(x)`: `correlation` matrix of x if it is a matrix or a data frame (1 if x is a vector)
+- `var(x, y)` or `cov(x, y)`: `covariance` between x and y, or between the columns of x and those of y if they are matrices or data frames
+- `cor(x,y):` linear correlation` between x and y, or correlation matrix if they are matrices or data frames
+#### Descriptive Statistics:
+
+- `cor(x)`: Correlation matrix of x if it's a matrix or data frame.
+- `cor(x, y)`: Correlation between x and y.
+- `cov(x, y)`: Covariance between x and y.
+
+#### Quantiles:
+
 ```R
-functionname = function(argument1,argument2) {equation}
-f = function(x,y) {x+y}
-f(2,3);f(1.5,-.0.7);f(4,10)
-#semi-colon can be used as separator between equations
+# Calculate quartiles
+q1 <- quantile(data, 0.25)
+q2 <- quantile(data, 0.5)  # Median
+q3 <- quantile(data, 0.75)
+
+# Print the results
+cat("Q1 (25th percentile):", q1, "\n")
+cat("Q2 (50th percentile - Median):", q2, "\n")
+cat("Q3 (75th percentile):", q3, "\n")
 ```
 
-You can specify the default value for an argument, then the argument is considered optional
-```R
-g = function(x,y=10){x+y}
-g(1) 
-#11
+#### Z-Scores:
 
+```R
+# Calculate z-scores
+z_scores <- scale(data)
+
+# Print the z-scores
+cat("Z-Scores:\n")
+print(z_scores)
 ```
 
-In a function, you may use the `return` keyword to specify the value returned by the function. Though it is common to omit it since R will simply return the last evaluated expression by default. 
+#### T-Test:
 
 ```R
-q = function(x){return(x^2 + 3)}
+# Perform a t-test
+t_test_result <- t.test(data)
+
+# Print the t-test result
+cat("T-Test Result:\n")
+print(t_test_result)
+
+# Extract the t-value 
+t_value <- t_test_result$statistic
 ```
 
-`length`: To find the length of a vector
-`sum`: To find the sum of all elements in the vector
+#### Shapiro-Wilk Test:
 
 ```R
-#finding mean:
-x = c(1,2,3,4,5)
-vectorMean = function(x) {sum(x) / length(x)}
+#Used to test for normality
 
-vectorMean(x)
 
-#using built-in function
-mean(x)
+# Example with a dataset named 'data'
+data <- c(2, 3, 5, 7, 11, 13, 17, 19, 23)
+
+# Shapiro-Wilk test
+shapiro.test(data)
 ```
 
-`all.equal(value1,value2)`: is used to compare between two values. Returns `True` if they are the same and `False` if they arent
+### Functions in R:
+
+#### Basic Function:
 
 ```R
-# This function takes in x(a set of data) and y (another set of data) as input, returns the mean of x minus mean of y
-x = c(1,2,4,5,6)
-y = c(2,4,6,7,8)
-meanDiff = function(x,y){a = mean(x) - mean(y); return(a)}
-meanDiff(x,y)
-
+f = function(x, y) {x + y}
+f(2, 3); f(1.5, -0.7); f(4, 10)
 ```
 
-To return concatenated text, replace return with `cat()`
+#### Function with Default Argument:
+
 ```R
-mx = function(x){
-x = x + 5
-cat("The new x is:", x)
-}
+g = function(x, y = 10) {x + y}
+g(1) # Outputs 11
 ```
 
+#### Function with Return Statement:
 
-Geometric Mean can be calculated using this formula
-![[Pasted image 20240117175942.png]]
-or
-![[Pasted image 20240117175957.png]]
 ```R
-geometric = function(x){exp(mean(log(x)))}
+q = function(x) {return(x^2 + 3)}
+```
+
+### Common Built-in Functions:
+
+- `length(x)`: Find the length of a vector.
+- `sum(x)`: Find the sum of all elements in the vector.
+
+#### Comparison Function:
+
+- `all.equal(value1, value2)`: Compare two values. Returns `TRUE` if they are the same and `FALSE` if they aren't.
+
+### Geometric Mean:
+
+```R
+geometric = function(x) {exp(mean(log(x)))}
 geometric(x)
 ```
-to generate random number:
+
+### Random Number Generation:
+
 ```R
-z = runif(count,minimum,maximum)
-z = runif(50,0,3)
+runif(count, minimum value, maximum value)
+z = runif(50, 0, 3)
 ```
 
---- 
-Loops in R
+### Loops in R:
 
-for loop
+#### For Loop:
+
 ```R
-for(i in 1:10){
-print(i+1)
+for(i in 1:10) {
+  print(i + 1)
 }
 ```
 
-`rep(number,count)`: repeats the number a given amount of time
+#### Repetition with `rep`:
 
 ```R
-rep(0,100) #repeats 0 100 time
+rep(0, 100) # Repeats 0 100 times
 ```
 
+#### Nested For Loop:
+
 ```R
-x = 1:10
-y = 30:40
-z= rep(0,10)
-print(x)
-print(y)
-print(z)
-for(i in 1:10){
-	z[i] = x[i] + y[i]
-}
-print(z)
-
-w = x + y
-
-print(w)
-
-all.equal(w,z)
-```
-
-nested for loop
-```R
-for(i in 1:10){
-	for(j in 1:5){
-	cat("i: ",i," j: ",j)
-	}
+for(i in 1:10) {
+  for(j in 1:5) {
+    cat("i:", i, " j:", j)
+  }
 }
 ```
 
-if statements
+#### If Statements:
+
 ```R
-for(i in 1:10){
-	if(i == 4){
-	print(i)
-	}
+for(i in 1:10) {
+  if(i == 4) {
+    print(i)
+  }
 }
 ```
 
-
-While loop:
-While is similar to for loop, but it executes continuously until the condition is no longer met
+#### While Loop:
 
 ```R
 i = 1
-while(i<10){
-	print(i)
-	i = i + 1
-}
-
----
-
-i = 1
-if(i<10){
-print(i)
-i = i + 1
+while(i < 10) {
+  print(i)
+  i = i + 1
 }
 ```
 
----
+### Error Handling:
 
 ```R
 geometric = function(x) {
-  if(!is.numeric(x)) stop ("Input must all be numeric")
-  if(min(x) <= 0 ) stop ("Input must be greater than zero")
+  if (!is.numeric(x)) stop("Input must all be numeric")
+  if (min(x) <= 0) stop("Input must be greater than zero")
   
   exp(mean(log(x)))
 }
-x = c("a","b","c")
-y = c(1,2,3,4)
-geometric(y)
-geometric(x)
+```
+---
+```R
+# Initialize vector x
+x = c(1,2,3,4,5,6,7,8,9)
+# Assign values from vector y to x where x is less than 5
+x[x < 5] = y[x < 5]
+# Print vector x
+print(x)
+```
+Explanation:
+- `x` is initialized as a vector with values from 1 to 9.
+- Values in `x` less than 5 are replaced with corresponding values from vector `y`.
+- The modified `x` is then printed.
+```R
+# Sort vector y (Note: Sorting does not modify the original vector)
+sort(y)
+# Rank vector y
+rank(y)
+# Order vector y and store the order in 'o'
+o = order(y)
+# Access vector y using the order 'o'
+y[o]
+```
+Explanation:
+- Sorting `y` does not modify the original vector; it just returns a sorted version.
+- `rank(y)` calculates the rank of each element in `y`.
+- `order(y)` returns the order of elements in `y`, and this order is stored in vector `o`.
+- `y[o]` retrieves the values of `y` in the order specified by `o`.
 
+## Matrix
+
+```R
+# Create a matrix 'm' from the vector 'junk'
+m = matrix(junk, ncol=3, byrow = TRUE)
+# Print the matrix 'm'
+print(m)
+# Get the dimensions of the matrix 'm'
+dim(m)
+```
+Explanation:
+- A matrix `m` is created from the vector `junk` with 3 columns (`ncol=3`) and filled by rows (`byrow = TRUE`).
+- The matrix `m` is printed.
+- `dim(m)` returns the dimensions of the matrix `m`.
+```R
+# Extract column 1 of matrix 'm' into vector 'y'
+y = m[,1]
+# Extract row 2 of matrix 'm' into vector 'x'
+x = m[2,]
+# Extract element at row 1, column 2 of matrix 'm' into scalar 'z'
+z = m[1,2]
+# Print 'z'
+print(z)
 ```
 
-sum(x)
-prod (x)
-max(x)
-min(x)
-which. max (x)
-which. min (x)
-range (x)
-length (x)
-mean (x)
-median (x)
-var(x) or cov(x)
-cor(x)
-var(x,
-cor (x ,
-y) or cov(x,
-y)
-y)
-sum of thc elements of x
-product of thc elements of x
-maximum of thc elements of x
-minimum of thc elements of x
-returns thc index of thc greatest clement of x
-returns thc index of thc smallest clement of x
-id. than c (min(x), max(x))
-number of elements in x
-mean of the elements of x
-median of thc elements of x
-variance of the elements of x calculated on n — 1); if x is
-a matrix or a data frame, thc variance-covariance matrix is
-calculated
-correlation matrix of x if it is a matrix or a data frame (1 if x
-is a vector)
-covariance between x and y, or between thc columns of x and
-those of y if they arc matrices or data frames
-linear correlation between x and y, or correlation matrix if they
-are matrices or data frames
+```R
+# Create a new matrix 'new' with values 1 to 9 arranged in a 3x3 matrix
+new = matrix(1:9,3,3)
+# Print matrix 'new'
+print(new)
+```
+Explanation:
+- A new matrix `new` is created with values 1 to 9 arranged in a 3x3 matrix.
+- The matrix `new` is printed.
+```R
+# Add scalar 'z' to matrix 'new'
+hello = z + new
+# Print the result
+print(hello)
+```
+Explanation:
+- `z + new` adds the scalar `z` to each element of the matrix `new`.
+- The result is stored in the matrix `hello`, and it is printed.
+```R
+# Access element at row 1, column 3 of matrix 'm'
+m[1,3]
+# Extract the first column of matrix 'm'
+m[,1]
+# Access element at row 2, column 3 of matrix 'm'
+m[2,3]
+# Modify element at row 2, column 3 of matrix 'm' to be 7
+m[2,3] = 7
+# Extract columns 2 and 3 of matrix 'm'
+m[,c(2,3)]
+# Remove the second row from matrix 'm'
+m[-2]
+```
+
+```R
+# Create a vector 'x1' with values 1 to 3
+x1 = 1:3
+```
+Explanation:
+- A new vector 'x1' is created with values 1 to 3.
+Please note that in the original code, there's a typo in the line `m = matric(junk, ncol=3, byrow = T)`. It should be corrected to `m = matrix(junk, ncol=3, byrow = T)`.

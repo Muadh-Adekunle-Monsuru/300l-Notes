@@ -94,3 +94,6 @@ x = c(0,1,1,2,3,4,5,8,13,21,34); summary(x); sd(x); var(x); y = numeric(length(x
 
 1. Using the following scores obtained from a test 26, 20, 22, 19,22,15,21,20,25,26,17,24,16,23,29. Write a single R code compute the following, summary statics, quartiles q1,q2,q3,q4. (z or t) standard score. test that the mean score is different from 0. test that the mean score is different from the mean of the data. Test that the mean score is the same as the mean of the data. Test that the score is normal -3 and +3 .  
 
+```R
+	x = c(26, 20, 22, 19,22,15,21,20,25,26,17,24,16,23,29);summary(x);q1 = quantile(x,0.25); q2 = quantile(x,0.5); q3 = quantile(x,0.75) ; q4 = q3 - q1 ; t_score = t.test(data)$statistic; all.equal(mean(x),0);shapiro.test(x);
+```
