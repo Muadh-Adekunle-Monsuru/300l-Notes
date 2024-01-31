@@ -2,7 +2,7 @@
 
 | Question | True/False | Justification |
 | ---- | ---- | ---- |
-| a)The title bar of the IDE displays the IDE's mode. | True | Design, Run, Break |
+| a)The title bar of the IDE displays the IDE's mode. | True | Design, Code |
 | b)Both Form and Labels have a title bar.<br> | False | Labels do not have a title bar, they are instead used as descriptive names for form control  |
 | c)The toolbar contains icons that represent controls that can be drag and drop onto a Form. | True |  |
 | d)VB.Net is backward compatible with VB 6. | False | Different Underlying architecture.<br>Changes in syntax |
@@ -61,10 +61,12 @@ End Module
 Section B
 1.  **Briefly describe each of the following terms**:
 	1. **Menu Bar** - The Menu Bar contains drop-down menus that provide access to many commands in Visual Studio. For example - File menu, Edit menu, etc. It is located at the top of the Visual Studio window.
-	2. **Toolbar -** The Toolbar provides quick access buttons for common commands and actions in Visual Studio like opening/saving files, building a project, debugging etc. It is located below the Menu Bar by default.
+	2. **Toolbar -** The Toolbar provides quick access buttons for common commands and actions in Visual Studio like opening/saving files, building a project, debugging etc. It is located below the Menu Bar by default. Contains Icons that allows users to have quick access to various functionanlities
 	3. **Solution Explorer** - The Solution Explorer displays the structure and contents of your project, solution or code file currently open in Visual Studio. It shows all files, references, dependencies etc. in a tree format.
 	4. **Property Window** - The Property Window allows you to view and modify configurable properties and settings of any file, control or object currently selected in the Visual Studio designer or editor. For example, changing properties of a Button or Textbox on a Windows Form.
-
+	5. **Toolbox**: Contains tools that user drag and drop to create user interfaces. Tools are grouped into general
+	6. Error Pane: At the bottom of the window, shows the error that occurs during the execution of the program 
+		1. Output: 
 
 2. Differentiate between the Do While......Loop and Do.....Loop While Statement. 
 	1. **Do While...Loop:**

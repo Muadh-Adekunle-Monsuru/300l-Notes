@@ -173,3 +173,4 @@ __ | 2 | 3
 
 <mark style="background: #ABF7F7A6;">Read about static dynamic and circular queue</mark>
 
+![[Pasted image 20240128124255.png]]
