@@ -4,30 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "7350e41823f99fa5",
+        "id": "ed691612163b51cb",
         "type": "tabs",
         "children": [
           {
-            "id": "79e6d6a026da0056",
+            "id": "d1ecba288ef72382",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPS 307/Searching & Sorting.md",
+                "file": "CPS 307/CPS 307 2022-2023 Solved.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5e07db9e59fee9ae",
+            "id": "7ef4ca0a6c19d65e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "CPS 301/Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "CPS 307/Documents/number system operations.pdf"
               }
             }
           }
@@ -105,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPS 307/Searching & Sorting.md",
+                "file": "CPS 307/CPS 307 2022-2023 Solved.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPS 307/Searching & Sorting.md",
+                "file": "CPS 307/CPS 307 2022-2023 Solved.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPS 307/Searching & Sorting.md"
+                "file": "CPS 307/CPS 307 2022-2023 Solved.md"
               }
             }
           }
@@ -166,54 +164,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "79e6d6a026da0056",
+  "active": "2f4d13fab84714dc",
   "lastOpenFiles": [
-    "CPS 307/Trees.md",
-    "CPS 301/Control Flow Statement.md",
-    "CPS 301/Untitled.md",
-    "CPS 323/past question/p1.jpg",
-    "CPS 309/Documents/past question/q13.jpg.~tmp",
-    "CPS 309/Documents/past question/2013-2014 p3.jpg",
-    "CPS 309/Documents/past question/2015-2016 p2.jpg",
-    "CPS 309/Documents/past question/2016-2017.jpg",
-    "CPS 309/Documents/past question/2013-2014 p2.jpg",
-    "CPS 309/Documents/past question/2013-2014.jpg",
-    "CPS 309/Documents/past question/q8.jpg.~tmp",
-    "CPS 309/Documents/past question/q7.jpg.~tmp",
-    "CPS 309/Documents/past question/2015-2016.jpg",
-    "CPS 309/Documents/past question/q4.jpg.~tmp",
-    "CPS 309/Documents/past question/q3.jpg.~tmp",
-    "CPS 309/Documents/past question/2022-2023 p2.jpg",
-    "CPS 309/Documents/past question/2022-2023.jpg",
-    "CPS 309/Documents/past question/q22.jpg",
-    "CPS 309/Documents/past question",
-    "CPS 309/Documents/New folder",
-    "CPS 307/Documents/cps 307past question",
-    "CPS 307/Documents/past question/q5.jpg.~tmp",
-    "CPS 307/Documents/past question/q4.jpg.~tmp",
+    "Past Questions/cps 307past question/CPS 307 2022-2023 Solved.pdf",
+    "CPS 307/Fundamentals of Data Structures.md",
+    "CPS 307/attachments/2024_02_02 2_23 AM Office Lens (3).jpg",
+    "CPS 307/CPS 307 2022-2023 Solved.md",
+    "CPS 307/attachments/2024_02_02 2_23 AM Office Lens (2).jpg",
+    "CPS 307/attachments/2024_02_02 2_23 AM Office Lens (1).jpg",
+    "CPS 307/attachments/2024_01_08 9_39 AM Office Lens (3).jpg",
+    "CPS 307/attachments/2024_01_08 9_39 AM Office Lens (2).jpg",
+    "CPS 307/attachments/2024_01_08 9_39 AM Office Lens (1).jpg",
+    "CPS 307/attachments/2024_01_08 9_05 AM Office Lens.jpg",
+    "CPS 307/attachments/2023_11_13 9_20 AM Office Lens.jpg",
+    "CPS 307/Graphs.md",
+    "Past Questions/cps 307past question/q3.jpg.~tmp",
+    "Past Questions/cps 307past question/2022-2023 p2.jpg",
+    "CPS 307/Additional Operations of Stack.md",
+    "CPS 307/Documents/2s complement.pdf",
+    "Past Questions/cps 307past question/2018-2019 p2 .jpg",
+    "CPS 307/Decimal Number System.md",
+    "CPS 307/Documents/number system operations.pdf",
+    "CPS 307/Documents/search & sort.pdf",
+    "CPS 307/Documents/SCSA1206.pdf",
+    "CPS 307/Searching & Sorting.md",
+    "CPS 309/Assignment/Assignment 5.md",
+    "CPS 309/Assignment/Assignment 4.md",
+    "CPS 309/Assignment/Assignment 1.md",
+    "CPS 309/Assignment/Assignment 3.md",
+    "CPS 309/Assignment/Assignment 2.md",
+    "CPS 309/Assignment 6.md",
     "CPS 301/Assignment 7.md",
+    "CPS 301/Assignments/Assignment 6.md",
+    "CPS 307/Documents/Untitled.md",
+    "CPS 307/Documents/202003251324427012himanshu_ Binary_Trees.pdf",
+    "CPS 307/Trees.md",
+    "CPS 307/Documents/E9-trees.pdf",
+    "CPS 307/Documents/TreeTraversal-QA.pdf",
+    "CPS 307/Documents/lecture8.pdf",
+    "CPS 307/Documents/Infix, Prefix and Postfix Expressions — Problem Solving with Algorithms and Data Structures from gatech.pdf",
+    "CPS 307/Documents/Database Connection.md",
+    "CPS 301/Swing Facility in Java.md",
+    "CPS 301/Untitled.md",
+    "CPS 301/Control Flow Statement.md",
     "CPS 301/Arrays In Java.md",
     "CPS 301/Learning Java.md",
     "CPS 301/Structured Programming.md",
     "CPS 303/Errors and Exception Handling.md",
     "CPS 303/CPS 303 Past Question.md",
-    "CPS 301/Assignments/Assignment 2.md",
-    "CPS 303/Untitled 1.md",
-    "CPS 301/Assignments/Assignment 3.md",
-    "CPS 301/Assignments/Assignment 4.md",
-    "CPS 301/Assignments/Assignment 5.md",
-    "CPS 309/Assignment 6.md",
-    "CPS 317/Facts from the data.md",
-    "CPS 317/Untitled 1.md",
-    "CPS 317/Untitled.md",
-    "CPS 317/R.md",
-    "CPS 317/Nominal VS Ordinal VS Scale.md",
-    "CPS 317/Matrix in R.md",
-    "CPS 317/Comparison Assignment.md",
-    "CPS 323/Expression Parsing.md",
-    "CPS 323/Algorithm Complexity.md",
-    "CPS 323/Queue Operation.md",
-    "CPS 317/R Assignment.md",
     "CPS 313/Diagram.canvas",
     "Untitled.canvas",
     "CPS 301/Canvas/Functions.canvas",

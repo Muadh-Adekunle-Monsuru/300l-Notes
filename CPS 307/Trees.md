@@ -76,11 +76,12 @@ A binary search tree is also know as an ordered binary tree, it is a variant of 
 	- Case 2: Deleting a node with one child
 	- ![[Pasted image 20231204093424.png]]
 	- Case 3: Deleting a node with two children 
+	- First off, we we need to find a suitable replacement node, whose key/value will fill the hole left by deletion. We can either take the largest key from p’s left subtree (its inorder predecessor) or the smallest key from its right subtree (its inorder successor)
 		![[Pasted image 20231204093253.png]]
 		![[Pasted image 20231204093332.png]]
 
 
-
+![[Pasted image 20240131195657.png]]
 # Applications of trees
 - Used to store simple and complex data, simple such as integer value and character values and complex such as structure or record. 
 - Implementing other types of data structure. Such as Hash tables, sets and maps. 
@@ -91,7 +92,11 @@ A binary search tree is also know as an ordered binary tree, it is a variant of 
 
 ## Expression Tree
 
-
+![[Pasted image 20240131194024.png]]
+![[Pasted image 20240131194057.png]]
+![[Pasted image 20240131194115.png]]
+![[Pasted image 20240131194127.png]]
+![[Pasted image 20240131194242.png]]
 
 
 
