@@ -69,7 +69,7 @@ public class scores{
 ```
 ## Question 2
 1. The major motivating factor in the invention of OOP is to remove some of the flaws encountered in the procedural approach. Explain:
-	 The procedural approach had limitations in managing complexity as programs grew in size. OOP addressed these flaws by introducing concepts like encapsulation, inheritance, and polymorphism. Encapsulation allows bundling of data and methods into a single unit, providing better control over data access. Inheritance facilitates code reuse by allowing the creation of new classes based on existing ones. Polymorphism enables a single interface for different data types, enhancing flexibility and reducing complexity. OOP provides a more intuitive and modular way of organizing code, making it easier to understand, maintain, and scale.
+	 The procedural approach had limitations in managing complexity as programs grew in size.
 2. Create a non-executable class that has a private instance variable that can hold the names and matric number of a Student. Your class should contain methods to assign values to and retrieve values from the instance variable.
 ```Java
 public class Student{

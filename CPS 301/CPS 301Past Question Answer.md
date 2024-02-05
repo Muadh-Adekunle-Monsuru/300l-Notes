@@ -215,3 +215,23 @@ switch (grade) {
 }
 
 ```
+4. Identify the incorrect variables in the following list of variables with reason
+	1. -345
+	2. &ABD
+	3. Num1
+	4. a-num
+	5. a_num
+	6. AB12
+	7. AB12_
+	8. C4_8
+1. **&ABD:** This is not a valid variable name in Java. Variable names cannot start with an ampersand.
+2. **a-num:** This is not a valid variable name in Java. Variable names cannot contain hyphens; use underscores instead.
+3. Suppose the initial values of x,y, and z are 15, 3, and 15 respectively, what is the output 
+for(int j = x; j>= 0 ; j -=5){
+	System.out.println("j=" + j);
+}
+
+do{
+++x;
+	Sytem.out.println("x="+x);
+}while(x<m);
