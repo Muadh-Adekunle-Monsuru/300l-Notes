@@ -4,20 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "0c78bf758780c55f",
+        "id": "9dd7431302b86917",
         "type": "tabs",
         "children": [
           {
-            "id": "fd933a2f613e1b6e",
+            "id": "7418a372bf74c760",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Past Questions/cps 301 past question/2021-2022 p2.png"
+                "file": "CPS 301/2022-2023 Solved Question.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -75,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 263.5,
+    "collapsed": true
   },
   "right": {
     "id": "36d06e70a7634354",
@@ -91,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Past Questions/cps 301 past question/2021-2022 p2.png",
+                "file": "CPS 301/2022-2023 Solved Question.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Past Questions/cps 301 past question/2021-2022 p2.png",
+                "file": "CPS 301/2022-2023 Solved Question.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Past Questions/cps 301 past question/2021-2022 p2.png"
+                "file": "CPS 301/2022-2023 Solved Question.md"
               }
             }
           }
@@ -152,53 +156,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f4d13fab84714dc",
+  "active": "7418a372bf74c760",
   "lastOpenFiles": [
-    "Past Questions/cps 301 past question/Untitled.md",
-    "Past Questions/cps 301 past question/2021-2022 p2.png",
-    "Past Questions/cps 301 past question/2021-2022.png",
-    "Past Questions/cps 301 past question/attachments",
-    "Past Questions/cps 301 past question/2020-2021 Test.jpg",
+    "CPS 301/Arrays In Java.md",
     "Past Questions/cps 301 past question/2022-2023 P2.jpg",
-    "Past Questions/cps 301 past question/2023-2024 Test.jpg",
+    "CPS 301/2022-2023 Solved Question.md",
+    "FUC 301/~WRL0004.tmp",
+    "FUC 301/~WRD0003.tmp",
+    "FUC 301/~WRD0002.tmp",
+    "CPS 301/Overloading Methods.md",
+    "CPS 301/CPS 301Past Question Answer.md",
+    "CPS 301/Assignment 7.md",
+    "CPS 301/attachments/Pasted image 20240205064841.png",
     "Past Questions/cps 301 past question/2022-2023.jpg",
+    "Past Questions/cps 305 Past Question/2021-2022 Test.jpg",
+    "CPS 305/CPS 305 Past Question Answers.md",
+    "CPS 305/Test Question Solved.md",
+    "Past Questions/cps 305 Past Question/2022-2023.jpg",
+    "Past Questions/cps 305 Past Question/2020-2021 Test.jpg",
+    "Past Questions/cps 305 Past Question/2020-2021.jpg",
+    "Past Questions/cps 305 Past Question/2019-2020.jpg",
+    "Past Questions/cps 305 Past Question/2018-2019.jpg",
+    "CPS 305/Documents/test question.pdf",
+    "Past Questions/cps 305 Past Question/2020-2021 p2.jpg",
+    "CPS 301/Swing Facility in Java.md",
+    "CPS 307/Graphs.md",
+    "CPS 307/Decimal Number System.md",
+    "CPS 307/Trees.md",
+    "FUC 301/FUC 301 NOTE.pdf",
+    "CPS 301/Control Flow Statement.md",
+    "FUC 301/~$QH BOOK 300 LEVEL 2022.docx",
+    "Past Questions/cps 301 past question/Untitled.md",
+    "Past Questions/cps 301 past question/attachments",
     "CPS 307/2021-2022.md",
-    "Past Questions/cps 307past question/2021-2022 p2.jpg",
-    "Past Questions/cps 307past question/2022-2023.jpg",
     "CPS 307/2018-2019 Past Question.md",
-    "Past Questions/cps 307past question/2021-2022.jpg",
     "CPS 307/CPS 307 2022-2023 Solved.md",
     "CPS 307/Fundamentals of Data Structures.md",
     "CPS 307/2017-2018 Past Question.md",
-    "Past Questions/cps 307past question/2017-2018 p2.jpg",
     "CPS 307/Documents/search & sort.pdf",
     "CPS 307/Documents/SCSA1206.pdf",
     "CPS 301/Programming Fundamentals.md",
-    "CPS 301/Control Flow Statement.md",
-    "CPS 301/CPS 301Past Question Answer.md",
     "CPS 301/Learning Java.md",
     "CPS 307/Documents/complement-operation.pdf",
-    "CPS 307/Documents/2s complement.pdf",
     "CPS 323/Queue Operation.md",
     "GNS 203/GNS 203.md",
-    "GNS 203/ISS 203 Islamic Ethics.pdf",
-    "CPS 301/Arrays In Java.md",
-    "CPS 307/Documents/number system operations.pdf",
     "CPS 301/Switch Case.md",
     "CPS 301/Multiple Classes.md",
-    "FUC 301/FUC 301 NOTE.pdf",
-    "FUC 301/FUC Note.pdf",
-    "Past Questions/FUC/Solved Past Question.pdf",
-    "CPS 307/Graphs.md",
     "CPS 307/Additional Operations of Stack.md",
-    "CPS 307/Decimal Number System.md",
-    "CPS 307/Searching & Sorting.md",
-    "CPS 309/Assignment/Assignment 5.md",
-    "CPS 309/Assignment/Assignment 4.md",
-    "CPS 309/Assignment/Assignment 1.md",
-    "CPS 309/Assignment/Assignment 3.md",
-    "CPS 309/Assignment/Assignment 2.md",
-    "CPS 309/Assignment 6.md",
     "CPS 313/Diagram.canvas",
     "Untitled.canvas",
     "CPS 301/Canvas/Functions.canvas",
