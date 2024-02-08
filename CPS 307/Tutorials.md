@@ -39,3 +39,7 @@
 		`Add(value,queueName)`
 2. Remove
 		`Initialize(value,queueNameS)`
+
+
+
+Express this equation inform of an expression tree $-b+(n^2-4ac)^{1/2}$ 

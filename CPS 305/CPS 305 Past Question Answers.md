@@ -1,3 +1,5 @@
+1. In practice why is it preferred that the number of frames in the memory is a power of two
+		It is preferred to have a number of frames in memory as a power of two because it simplifies the mapping of logical addresses to physical addresses. When the number of frames is a power of two, the mapping can be done using bitwise operations, making it more efficient in terms of hardware implementation.
 i. **Difference between Fixed Partitioning and Dynamic Partitioning:**
    - **Fixed Partitioning:** In fixed partitioning, memory is divided into fixed-sized partitions, and each partition can accommodate a single process. This method can lead to inefficient use of memory and fragmentation.
    - **Dynamic Partitioning:** Dynamic partitioning allows processes to be allocated memory dynamically, with each process receiving exactly the amount of memory it requires. This helps in utilizing memory more efficiently, but it may suffer from fragmentation issues.
@@ -102,7 +104,17 @@ v. **Terminologies:**
 	   - Aging is a concept used to prevent indefinite postponement by gradually increasing the priority of a process if it waits for a resource for an extended period.
 	   - Similarly, in Dekker's algorithm, the turn variable ensures fairness, preventing a process from being indefinitely postponed from entering its critical section.
    
-9) Using a tabular form, differentiate between the following terms:
+9) Given the memory partitions of 100kb, 500kb, 200kb, 300kb, and 600kb(in that order), how would each of the first-fit, best-fit, and worst-fit algorithms place processes of 212kb, 417kb, 112 kb, and 426 kb (in that order). For this particular case, which algorithm makes the most efficient use of memory;
+
+| Memory Partitions | first-fit | best-fit | worst-fit |
+| ---- | ---- | ---- | ---- |
+| 100kb |  |  |  |
+| 500kb | 417kb | 417kb |  |
+| 200kb |  | 112kb |  |
+| 300kb | 112kb | 212kb |  |
+| 600kb | 212kb | 426kb |  |
+   
+1) Using a tabular form, differentiate between the following terms:
 i. **Deadlock Prevention vs. Deadlock Avoidance:**
 
 | Criteria                      | Deadlock Prevention                                      | Deadlock Avoidance                                      |

@@ -66,8 +66,8 @@ Condition for a deadlock to occur, if and only if the following four conditions 
 	3. **No Preemption**: If a process that is holding some resource and requested a resource and that request is not granted then the process must release that resource it is currently holding. 
 	4. **Circular Waiting**: Rule here is to ensure that circular waiting does not occur by imposing linear ordering of resources, and each process can only request in an increasing order of priority. The process must release previously held resources when new resource is requested. 
 
-2. **Deadlock Avoidance:** Can recover from deadlock if system enters the deadlock
-3. **Deadlock detection and recovery:** System can ignore the problem and prevent deadlock occurrence. Information about resource allocation to processes must be kept and known to the system. Information about outstanding resources that has not been allocated must also be kept. An algorithm is needed which detects when the system has entered a deadlock state. The algorithm then redirects the resources allocated so that the resources are in a safe state. 
+2. **Deadlock detection and recovery:** Can recover from deadlock if system enters the deadlock
+3. **Deadlock avoidance:** System can ignore the problem and prevent deadlock occurrence. Information about resource allocation to processes must be kept and known to the system. Information about outstanding resources that has not been allocated must also be kept. An algorithm is needed which detects when the system has entered a deadlock state. The algorithm then redirects the resources allocated so that the resources are in a safe state. 
 
 
 

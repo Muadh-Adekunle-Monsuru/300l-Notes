@@ -227,11 +227,24 @@ switch (grade) {
 1. **&ABD:** This is not a valid variable name in Java. Variable names cannot start with an ampersand.
 2. **a-num:** This is not a valid variable name in Java. Variable names cannot contain hyphens; use underscores instead.
 3. Suppose the initial values of x,y, and z are 15, 3, and 15 respectively, what is the output 
+```Java
 for(int j = x; j>= 0 ; j -=5){
 	System.out.println("j=" + j);
 }
+//Output
+j = 15
+j = 10
+j = 5
+j = 0
 
 do{
-++x;
+	++x;
 	Sytem.out.println("x="+x);
-}while(x<m);
+}while(x<z);
+
+//Output
+x = 16
+
+```
+
+

@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9dd7431302b86917",
+        "id": "549f3abc66586690",
         "type": "tabs",
         "children": [
           {
-            "id": "7418a372bf74c760",
+            "id": "87d411a247e68ac6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FUC 301/FUC 301 Past Question.md",
+                "file": "CPS 305/Synchronization Cont...md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "991a89ddc3bc6415",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Past Questions/cps 301 past question/2020-2021 Test.jpg"
-              }
-            }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "math.",
+                "query": "void",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5,
-    "collapsed": true
+    "width": 263.5
   },
   "right": {
     "id": "36d06e70a7634354",
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FUC 301/FUC 301 Past Question.md",
+                "file": "CPS 305/Synchronization Cont...md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FUC 301/FUC 301 Past Question.md",
+                "file": "CPS 305/Synchronization Cont...md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FUC 301/FUC 301 Past Question.md"
+                "file": "CPS 305/Synchronization Cont...md"
               }
             }
           }
@@ -166,54 +154,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7418a372bf74c760",
+  "active": "87d411a247e68ac6",
   "lastOpenFiles": [
+    "CPS 305/Operating System II.md",
+    "CPS 305/Logical And Physical Address.md",
+    "CPS 305/File System.md",
+    "CPS 305/Past Test Questions Solved.md",
+    "CPS 305/CPS 305 Past Question Answers.md",
+    "CPS 301/Learning Java.md",
+    "CPS 301/Programming Fundamentals.md",
+    "CPS 301/Arrays In Java.md",
+    "CPS 301/Swing Facility in Java.md",
+    "CPS 301/Structured Programming.md",
+    "CPS 301/CPS 301Past Question Answer.md",
+    "CPS 301/Assignments/Assignment 4.md",
+    "CPS 301/CPS301 2022-2023 Solved Question.md",
+    "Past Questions/cps 305 Past Question/2022-2023 p2.jpg",
+    "Past Questions/cps 305 Past Question/2021-2022 Test.jpg",
+    "CPS 307/CPS 307 2022-2023 Solved.md",
+    "CPS 307/Trees.md",
+    "CPS 307/Decimal Number System.md",
+    "CPS 307/Fundamentals of Data Structures.md",
+    "CPS 305/Documents/operating-systems-deitel-3rd-edition1pdf.pdf",
+    "CPS 305/Documents/OS_slides.pdf",
+    "CPS 305/Documents/Memory Management.pdf",
+    "CPS 305/Assignment 4.md",
+    "Past Questions/cps 305 Past Question/2022-2023.jpg",
+    "CPS 301/Assignments/Assignment 7.md",
+    "CPS 301/Assignments/Assignment 3.md",
+    "CPS 301/Assignments/Assignment 5.md",
+    "CPS 301/Assignments/Assignment 6.md",
+    "Past Questions/cps 305 Past Question/2015-2016.jpg",
+    "Past Questions/cps 305 Past Question/2018-2019.jpg",
+    "Past Questions/cps 305 Past Question/2019-2020.jpg",
+    "Past Questions/cps 305 Past Question/2020-2021.jpg",
+    "Past Questions/cps 305 Past Question/2020-2021 Test.jpg",
+    "CPS 307/Tutorials.md",
+    "Past Questions/cps 309past question/q5.jpg",
+    "Past Questions/cps 309past question/q4.jpg",
+    "FUC 301/FUC 301 Past Question.md",
     "Past Questions/FUC/New FUC 301 Past Question.pdf",
     "Past Questions/FUC/2024_02_02 8_27 AM Office Lens.pdf",
-    "FUC 301/FUC 301 Past Question.md",
     "Past Questions/FUC/Solved Past Question.pdf",
     "Past Questions/FUC/FUCPQ.pdf",
-    "CPS 301/CPS 301Past Question Answer.md",
-    "Past Questions/cps 301 past question/2020-2021 Test.jpg",
-    "CPS 301/2022-2023 Solved Question.md",
-    "CPS 301/Arrays In Java.md",
     "CPS 309/Documents/Chapter1.pdf",
-    "Past Questions/cps 301 past question/2022-2023 P2.jpg",
     "FUC 301/~WRL0004.tmp",
     "FUC 301/~WRD0003.tmp",
-    "FUC 301/~WRD0002.tmp",
     "CPS 301/Overloading Methods.md",
-    "CPS 301/Assignment 7.md",
-    "CPS 301/attachments/Pasted image 20240205064841.png",
-    "Past Questions/cps 301 past question/2022-2023.jpg",
-    "Past Questions/cps 305 Past Question/2021-2022 Test.jpg",
-    "CPS 305/CPS 305 Past Question Answers.md",
-    "CPS 305/Test Question Solved.md",
-    "Past Questions/cps 305 Past Question/2022-2023.jpg",
-    "Past Questions/cps 305 Past Question/2020-2021 Test.jpg",
-    "Past Questions/cps 305 Past Question/2020-2021.jpg",
-    "Past Questions/cps 305 Past Question/2019-2020.jpg",
-    "Past Questions/cps 305 Past Question/2018-2019.jpg",
-    "CPS 305/Documents/test question.pdf",
-    "CPS 301/Swing Facility in Java.md",
     "CPS 307/Graphs.md",
-    "CPS 307/Decimal Number System.md",
-    "CPS 307/Trees.md",
-    "FUC 301/FUC 301 NOTE.pdf",
-    "CPS 301/Control Flow Statement.md",
-    "FUC 301/~$QH BOOK 300 LEVEL 2022.docx",
-    "Past Questions/cps 301 past question/Untitled.md",
-    "CPS 307/2021-2022.md",
-    "CPS 307/2018-2019 Past Question.md",
-    "CPS 307/CPS 307 2022-2023 Solved.md",
-    "CPS 307/Fundamentals of Data Structures.md",
-    "CPS 307/2017-2018 Past Question.md",
-    "CPS 301/Programming Fundamentals.md",
-    "CPS 301/Learning Java.md",
-    "CPS 323/Queue Operation.md",
-    "GNS 203/GNS 203.md",
-    "CPS 301/Switch Case.md",
-    "CPS 301/Multiple Classes.md",
     "CPS 313/Diagram.canvas",
     "Untitled.canvas",
     "CPS 301/Canvas/Functions.canvas",

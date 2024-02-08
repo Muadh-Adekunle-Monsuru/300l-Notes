@@ -1,4 +1,4 @@
-1. What is the motivation behind modular organization of programs
+. What is the motivation behind modular organization of programs
 		The motivation behind modular organization of programs is to enhance maintainability, reusability, and scalability of software. Breaking down a complex system into smaller, manageable modules helps in better understanding and maintenance of the code. Each module is designed to perform a specific task, making it easier to test, debug, and update without affecting the entire program. This modularity also promotes code reuse, as modules can be used in different parts of the program or in entirely different projects.
 1. Discuss the two programming paradigms that you know and expatiate on the significance and drawbacks of both 
 	**Procedural Programming (POP)**:
