@@ -4,19 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "549f3abc66586690",
+        "id": "51339efdff4322ef",
         "type": "tabs",
         "children": [
           {
-            "id": "87d411a247e68ac6",
+            "id": "47a35b7d27d459c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPS 305/Synchronization Cont...md",
+                "file": "CPS 309/Assignment/Assignment 3.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "8298f3ddfce8f631",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "void",
+                "query": "excel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 261.50152587890625
   },
   "right": {
     "id": "36d06e70a7634354",
@@ -93,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPS 305/Synchronization Cont...md",
+                "file": "CPS 309/Assignment/Assignment 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPS 305/Synchronization Cont...md",
+                "file": "CPS 309/Assignment/Assignment 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPS 305/Synchronization Cont...md"
+                "file": "CPS 309/Assignment/Assignment 3.md"
               }
             }
           }
@@ -154,54 +162,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87d411a247e68ac6",
+  "active": "47a35b7d27d459c0",
   "lastOpenFiles": [
-    "CPS 305/Operating System II.md",
-    "CPS 305/Logical And Physical Address.md",
-    "CPS 305/File System.md",
-    "CPS 305/Past Test Questions Solved.md",
-    "CPS 305/CPS 305 Past Question Answers.md",
+    "CPS 309/Assignment/Assignment 2.md",
+    "CPS 309/Database Models.md",
+    "CPS 309/2023 Past Question.md",
+    "CPS 309/2022 Past Question Answers.md",
+    "CPS 309/2021 Test Solution.md",
+    "CPS 309/2021 Past.md",
+    "CPS 309/Assignment 6.md",
+    "CPS 309/Assignment/Assignment 5.md",
+    "CPS 309/Assignment/Assignment 4.md",
+    "CPS 309/Assignment/Assignment 3.md",
+    "CPS 309/Assignment/Assignment 1.md",
+    "CPS 309/CPS 309 Complete Note.md",
+    "CPS 309/Client Server.md",
+    "CPS 309/Creating Database in An Enterprise.md",
+    "CPS 309/Flaw of Many To Many.md",
+    "CPS 309/Introduction in SQL.md",
+    "CPS 309/Normalization.md",
+    "CPS 309/Architecture of a Database System.md",
+    "CPS 309/Intro to Database.md",
+    "CPS 309/Library Information System.md",
+    "Past Questions/cps 309past question/2018-2019.jpg",
+    "Past Questions/cps 309past question/CPS309 exams 2023.pdf",
+    "CPS 309/2023 Past Question 1.md",
+    "Past Questions/cps 309past question/2019-2020 p2.jpg",
+    "Past Questions/cps 309past question/2019-2020.jpg",
+    "Past Questions/Combined Past Question.pdf",
+    "Past Questions/cps 309past question/2017-2018.jpg",
+    "Past Questions/cps 309past question/2016-2017.jpg",
+    "Past Questions/cps 309past question/2015-2016.jpg",
+    "Past Questions/cps 309past question/2013-2014.jpg",
+    "Past Questions/cps 309past question/2020-2021.jpg",
+    "Past Questions/cps 309past question/2021-2022.jpg",
+    "Past Questions/cps 309past question/q3.jpg",
+    "CPS 309/Untitled 1.md",
     "CPS 301/Learning Java.md",
-    "CPS 301/Programming Fundamentals.md",
-    "CPS 301/Arrays In Java.md",
-    "CPS 301/Swing Facility in Java.md",
-    "CPS 301/Structured Programming.md",
-    "CPS 301/CPS 301Past Question Answer.md",
-    "CPS 301/Assignments/Assignment 4.md",
-    "CPS 301/CPS301 2022-2023 Solved Question.md",
-    "Past Questions/cps 305 Past Question/2022-2023 p2.jpg",
-    "Past Questions/cps 305 Past Question/2021-2022 Test.jpg",
-    "CPS 307/CPS 307 2022-2023 Solved.md",
-    "CPS 307/Trees.md",
-    "CPS 307/Decimal Number System.md",
-    "CPS 307/Fundamentals of Data Structures.md",
-    "CPS 305/Documents/operating-systems-deitel-3rd-edition1pdf.pdf",
-    "CPS 305/Documents/OS_slides.pdf",
+    "CPS 307/Searching & Sorting.md",
+    "CPS 323/CPS 323 Complete Notes.md",
+    "CPS 323/CPS323 Solved Past Question.md",
+    "CPS 323/attachments",
     "CPS 305/Documents/Memory Management.pdf",
-    "CPS 305/Assignment 4.md",
-    "Past Questions/cps 305 Past Question/2022-2023.jpg",
-    "CPS 301/Assignments/Assignment 7.md",
-    "CPS 301/Assignments/Assignment 3.md",
-    "CPS 301/Assignments/Assignment 5.md",
-    "CPS 301/Assignments/Assignment 6.md",
-    "Past Questions/cps 305 Past Question/2015-2016.jpg",
-    "Past Questions/cps 305 Past Question/2018-2019.jpg",
-    "Past Questions/cps 305 Past Question/2019-2020.jpg",
-    "Past Questions/cps 305 Past Question/2020-2021.jpg",
-    "Past Questions/cps 305 Past Question/2020-2021 Test.jpg",
-    "CPS 307/Tutorials.md",
-    "Past Questions/cps 309past question/q5.jpg",
-    "Past Questions/cps 309past question/q4.jpg",
-    "FUC 301/FUC 301 Past Question.md",
+    "CPS 305/Documents/OS_slides.pdf",
+    "CPS 305/Documents/operating-systems-deitel-3rd-edition1pdf.pdf",
     "Past Questions/FUC/New FUC 301 Past Question.pdf",
     "Past Questions/FUC/2024_02_02 8_27 AM Office Lens.pdf",
     "Past Questions/FUC/Solved Past Question.pdf",
     "Past Questions/FUC/FUCPQ.pdf",
-    "CPS 309/Documents/Chapter1.pdf",
-    "FUC 301/~WRL0004.tmp",
-    "FUC 301/~WRD0003.tmp",
-    "CPS 301/Overloading Methods.md",
-    "CPS 307/Graphs.md",
     "CPS 313/Diagram.canvas",
     "Untitled.canvas",
     "CPS 301/Canvas/Functions.canvas",

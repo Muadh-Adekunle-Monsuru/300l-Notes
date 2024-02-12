@@ -1,14 +1,8 @@
 ext2:
 The ext2 (extended file system 2) is one of the oldest and most widely used Linux file systems. It has been the default file system for most Linux distributions for many years. The ext2 file system does not have a journal, which means that file recovery can be more difficult after a system crash. However, it is a stable and reliable file system that is ideal for small to medium-sized partitions.
-ext3:
-The ext3 (extended file system 3) is an extension of the ext2 file system that adds journaling support. Journaling keeps track of changes to the file system, which helps to reduce the risk of data loss after a system crash. The ext3 file system is widely used and is a good choice for most Linux installations. It is stable, reliable, and has good performance.
-ext4:
-The ext4 (extended file system 4) is the successor to the ext3 file system and was designed to address some of the limitations of ext3. It supports larger file sizes, faster file system checks, and better performance on large disks. It also includes journal checksumming, which improves data integrity. The ext4 file system is the default file system used by many modern Linux distributions.
 XFS:
 The XFS(X File System) is a high-performance file system designed for large-scale storage systems. It supports file systems up to 16 exabytes in size, making it suitable for use in large data centers. The XFS file system is known for its scalability, performance, and reliability. It supports advanced features such as journaling, file-level encryption, and online defragmentation.
 Btrfs:
-The Btrfs (B-tree file system) is a modern file system designed for use on Linux systems. It supports features such as copy-on-write, snapshots, and subvolumes, which allow users to create separate file systems within a single partition. It also includes built-in support for RAID and compression. Btrfs is still under active development and is not yet as widely used as some of the other file systems.
 ZFS:
-The ZFS (Zettabyte File System) is a powerful and feature-rich file system that was originally developed for Solaris. It supports advanced features such as snapshots, data compression, deduplication, and built-in RAID. ZFS is known for its reliability and data integrity features, including checksumming and self-healing capabilities. It is not included in most Linux distributions by default due to licensing issues but can be installed separately.
 JFS:
 The JFS(Journaled File System) is a high-performance file system that was originally developed by IBM. It includes advanced features such as journaling, file-level compression, and online resizing. The JFS file system is known for its speed and reliability and is a good choice for high-performance computing systems.

@@ -49,7 +49,7 @@
 		  Mutual Exclusion is a synchronization concept that ensures only one thread can access a critical section of code or a shared resource at any given time. It prevents conflicts and data inconsistency caused by simultaneous access.
 	  3) Starvation 
 		  Starvation happens when a thread or process is unable to gain access to a resource it needs, despite being ready to execute. It can occur if the scheduling algorithm favors other processes, leading to unfairness.
-	  4) Deadly embrace 
+	  4) <mark style="background: #BBFABBA6;">Deadly embrace </mark>
 		  Deadly Embrace, also known as a deadlock, occurs when two or more processes are blocked, each holding a resource and waiting for another resource acquired by some other process. This results in a situation where none of the processes can proceed.
   
   2) Is a spooling system prone to deadlock? Briefly explain.  
