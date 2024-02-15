@@ -359,24 +359,102 @@ cat("Mean:", mean_x, "\n")
 
 
 ----
+## Question
 (a) Explain each line of codes below as it will be executed in R Statistical package
 > rm(list=ls())
 > getwd()
 >setwd(dir="C:/Users/Sholadehindel/Desktop")
 > n=1:100
 > y=lgamma(n+1)
-> x=
-(10 Marks)
+> $x=0.5*log(2*pi)+(n+0.5)*log(n)-n$
+>plot(x,y)
+>var(y)
+>sqrt(var(y))
+>q();
+
 (b) The following are sample observations on incoming solar radiation at a greenhouse:
-10.7 11.2 8.9
-12.2
-11.1 10.6 6.3 8.8
+11.1 10.6 6.3 8.8 10.7 11.2 8.9 12.2 
+
 Write the R codes to;
-(i) assigl the data to an object called soalr.radiation.
+(i) assign the data to an object called soalr.radiation.
 (ii) to call the object into R console for analysis
-(2Marks)
-(2 Marks)
 (iii)find the mean, standard deviation, and skewness of the radiation observations.
 (iv)PIot a histogram of the solar.radiation.
-(4Marks)
-(2Marks)
+
+---
+## Answer
+
+### (a) Explanation of the R Code:
+
+```R
+# Clear the workspace
+rm(list=ls())
+
+# Get the current working directory
+getwd()
+
+# Set the working directory to "C:/Users/Sholadehindel/Desktop"
+setwd(dir="C:/Users/Sholadehindel/Desktop")
+
+# Create a sequence of numbers from 1 to 100
+n = 1:100
+
+# Generate a vector 'y' of values using the log-gamma function
+y = lgamma(n + 1)
+
+# Assign a value to a variable '$x'
+$x = 0.5 * log(2 * pi) + (n + 0.5) * log(n) - n
+
+# Plot the vector 'x' against 'y'
+plot(x, y)
+
+# Calculate the variance of vector 'y'
+var(y)
+
+# Calculate the square root of the variance of 'y'
+sqrt(var(y))
+
+# Quit R
+q()
+```
+
+Explanation:
+- `rm(list=ls())`: Clears the workspace, removing all objects.
+- `getwd()`: Retrieves the current working directory.
+- `setwd(dir="C:/Users/Sholadehindel/Desktop")`: Sets the working directory to the specified path.
+- `n = 1:100`: Creates a sequence of numbers from 1 to 100.
+- `y = lgamma(n + 1)`: Generates a vector 'y' using the log-gamma function.
+- `$x = 0.5 * log(2 * pi) + (n + 0.5) * log(n) - n`: Incorrect syntax, should be `x = 0.5 * log(2 * pi) + (n + 0.5) * log(n) - n`.
+- `plot(x, y)`: Plots the vector 'x' against 'y'.
+- `var(y)`: Calculates the variance of vector 'y'.
+- `sqrt(var(y))`: Calculates the square root of the variance of 'y'.
+- `q()`: Quits R.
+
+### (b) R Codes for Solar Radiation Data:
+
+```R
+# (i) Assign the data to an object called solar.radiation
+solar.radiation <- c(11.1, 10.6, 6.3, 8.8, 10.7, 11.2, 8.9, 12.2)
+
+# (ii) Call the object into R console for analysis
+solar.radiation
+
+# (iii) Find the mean, standard deviation, and skewness
+mean_solar <- mean(solar.radiation)
+sd_solar <- sd(solar.radiation)
+skew_solar <- moments::skewness(solar.radiation)
+
+# Display the results
+cat("Mean:", mean_solar, "\n")
+cat("Standard Deviation:", sd_solar, "\n")
+cat("Skewness:", skew_solar, "\n")
+
+# (iv) Plot a histogram of solar.radiation
+hist(solar.radiation, main = "Solar Radiation Histogram", xlab = "Radiation")
+```
+
+Explanation:
+- `(i)`: Creates an object named `solar.radiation` with the given data.
+- `(ii)`: Displays the contents of `solar.radiation`.
+- `(iii)`: Calculates the mean, standard deviation, and skewness of `solar.radiation`.
+- `(iv)`: Plots a histogram of `solar.radiation` with a title and x-axis label.
