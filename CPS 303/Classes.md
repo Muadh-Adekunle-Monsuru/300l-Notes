@@ -1,4 +1,3 @@
-https://learn.microsoft.com/en-us/dotnet/visual-basic/programming-guide/language-features/objects-and-classes/
 
 The main difference between classes and modules is that classes can be instantiated as objects while standard modules cannot.
 

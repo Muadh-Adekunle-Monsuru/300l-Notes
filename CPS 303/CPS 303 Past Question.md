@@ -112,16 +112,16 @@ End Module
 
 
 4. In a tabular form, list 5 controls use in Visual Basic programming with their prefix and uses.
-	
-	| Control      | Prefix     | Uses                                                |
-	|--------------|------------|------------------------------------------------------|
-	| **Button**   | `btn`      | Represents a clickable button for user interaction.  |
-	| **TextBox**  | `txt`      | Provides a box for user text input or display.       |
-	| **Label**    | `lbl`      | Displays static text or labels for other controls.   |
-	| **ComboBox** | `cbo`      | Combines a text box with a drop-down list of options.|
-	| **DataGridView** | `dgv` | Displays and allows manipulation of tabular data.    |
 
-5. Write a console application in Visual Basic that print elements in two dimensional array whose elements are {(1, 2, 3) , (7, 8, 9)} by row.
+| Control      | Prefix     | Uses                                                |
+|--------------|------------|------------------------------------------------------|
+| **Button**   | `btn`      | Represents a clickable button for user interaction.  |
+| **TextBox**  | `txt`      | Provides a box for user text input or display.       |
+| **Label**    | `lbl`      | Displays static text or labels for other controls.   |
+| **ComboBox** | `cbo`      | Combines a text box with a drop-down list of options.|
+| **DataGridView** | `dgv` | Displays and allows manipulation of tabular data.    |
+
+1. Write a console application in Visual Basic that print elements in two dimensional array whose elements are {(1, 2, 3) , (7, 8, 9)} by row.
 ```vb
 Module Program
 	Sub Main(args As String())
@@ -143,7 +143,6 @@ End Module
 ```
 
 6. List the six (5) string manipulating methods in VB.Net and their syntax.
-	You can create string object using one of the following methods: 
 1. By assigning a string literal to a String variable 
 ```vb
 Dim hello As String = "Hello World"

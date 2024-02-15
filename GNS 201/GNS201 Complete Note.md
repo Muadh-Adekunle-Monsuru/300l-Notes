@@ -216,4 +216,8 @@ Important Components of any sentence in Arabic
 | بين | Between | ورأيت موسى بين الصفا والمروة | wara'ayt musaa bayn alsafa walmarwa | I saw Musa between Safa and Marwa |
 | خلف | Behind | رأيتك خلف المسجد | ra'aytuk khalf almasjid | I saw you behind the masjid |
 | أمام | In front of | رأيتك أمام المسجد | ra'aytuk 'amam almasjid | I saw you in front of the masjid |
+|  |  |  |  |  |
 
+
+
+*معاذ*

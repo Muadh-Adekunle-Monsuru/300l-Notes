@@ -85,12 +85,13 @@
    - CheckedListBox:Displays a list of items with a check box on the left side of each item
 1. **Prefixes and Functions for Controls:**
 
-   | Control    | Prefix    | Functions                              |
-   |------------|-----------|----------------------------------------|
-   | TextBox    | txt       | Input and display of text.             |
-   | Label      | lbl       | Displaying non-editable text.          |
-   | Button     | btn       | Triggering an action when clicked.     |
-   | CheckBox   | chk       | Representing binary choices.           |
+| Control    | Prefix    | Functions                              |
+|------------|-----------|----------------------------------------|
+| TextBox    | txt       | Input and display of text.             |
+| Label      | lbl       | Displaying non-editable text.          |
+| Button     | btn       | Triggering an action when clicked.     |
+| CheckBox   | chk       | Representing binary choices.           |
+
 
 10. **Difference between Do While...Loop and Do...Loop While:**
     - **Do While...Loop:**

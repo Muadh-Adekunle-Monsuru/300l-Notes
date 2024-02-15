@@ -4,27 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "51339efdff4322ef",
+        "id": "0bd1586c7642948a",
         "type": "tabs",
         "children": [
           {
-            "id": "47a35b7d27d459c0",
+            "id": "a7d8607c669abce0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPS 309/Assignment/Assignment 3.md",
+                "file": "Past Questions/cps 317 past question/Solved Past.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8298f3ddfce8f631",
+            "id": "ed338e2151d7d404",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CPS 317/R Assignment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fac48cafee9d29be",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Past Questions/cps 317 past question/2022-2023 p2.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a219999c9ce5cdfc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "630741ac7ebc56c9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Past Questions/Combined Past Question.pdf"
+              }
             }
           }
         ]
@@ -56,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "excel",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.50152587890625
+    "width": 261.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "36d06e70a7634354",
@@ -101,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPS 309/Assignment/Assignment 3.md",
+                "file": "Past Questions/cps 317 past question/Solved Past.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPS 309/Assignment/Assignment 3.md",
+                "file": "Past Questions/cps 317 past question/Solved Past.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPS 309/Assignment/Assignment 3.md"
+                "file": "Past Questions/cps 317 past question/Solved Past.md"
               }
             }
           }
@@ -162,46 +193,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "47a35b7d27d459c0",
+  "active": "a7d8607c669abce0",
   "lastOpenFiles": [
-    "CPS 309/Assignment/Assignment 2.md",
-    "CPS 309/Database Models.md",
-    "CPS 309/2023 Past Question.md",
-    "CPS 309/2022 Past Question Answers.md",
-    "CPS 309/2021 Test Solution.md",
-    "CPS 309/2021 Past.md",
-    "CPS 309/Assignment 6.md",
-    "CPS 309/Assignment/Assignment 5.md",
-    "CPS 309/Assignment/Assignment 4.md",
-    "CPS 309/Assignment/Assignment 3.md",
-    "CPS 309/Assignment/Assignment 1.md",
-    "CPS 309/CPS 309 Complete Note.md",
-    "CPS 309/Client Server.md",
-    "CPS 309/Creating Database in An Enterprise.md",
-    "CPS 309/Flaw of Many To Many.md",
-    "CPS 309/Introduction in SQL.md",
-    "CPS 309/Normalization.md",
-    "CPS 309/Architecture of a Database System.md",
-    "CPS 309/Intro to Database.md",
-    "CPS 309/Library Information System.md",
-    "Past Questions/cps 309past question/2018-2019.jpg",
-    "Past Questions/cps 309past question/CPS309 exams 2023.pdf",
-    "CPS 309/2023 Past Question 1.md",
-    "Past Questions/cps 309past question/2019-2020 p2.jpg",
-    "Past Questions/cps 309past question/2019-2020.jpg",
     "Past Questions/Combined Past Question.pdf",
-    "Past Questions/cps 309past question/2017-2018.jpg",
-    "Past Questions/cps 309past question/2016-2017.jpg",
-    "Past Questions/cps 309past question/2015-2016.jpg",
-    "Past Questions/cps 309past question/2013-2014.jpg",
-    "Past Questions/cps 309past question/2020-2021.jpg",
-    "Past Questions/cps 309past question/2021-2022.jpg",
-    "Past Questions/cps 309past question/q3.jpg",
-    "CPS 309/Untitled 1.md",
-    "CPS 301/Learning Java.md",
-    "CPS 307/Searching & Sorting.md",
-    "CPS 323/CPS 323 Complete Notes.md",
-    "CPS 323/CPS323 Solved Past Question.md",
+    "Past Questions/cps 317 past question/Solved Past.md",
+    "Past Questions/cps 317 past question/attachments/Pasted image 20240215174415.png",
+    "CPS 317/R Assignment.md",
+    "CPS 317/Untitled 1.md",
+    "CPS 317/Untitled 2.md",
+    "CPS 317/Untitled.md",
+    "CPS 317/R.md",
+    "CPS 317/Nominal VS Ordinal VS Scale.md",
+    "CPS 317/Comparison Assignment.md",
+    "CPS 317/Matrix in R.md",
+    "CPS 317/Facts from the data.md",
+    "Past Questions/cps 317 past question/2022-2023 p2.jpg",
+    "Past Questions/cps 317 past question/2021-2022.jpg",
+    "Past Questions/cps 317 past question/2022-2023.jpg",
+    "Past Questions/cps 317 past question/attachments/Pasted image 20240215142127.png",
+    "Past Questions/cps 317 past question/attachments/Pasted image 20240215141912.png",
+    "Past Questions/cps 317 past question/Past Questions.md",
+    "Past Questions/cps 317 past question/attachments/Pasted image 20240215130144.png",
+    "Past Questions/cps 317 past question/attachments/Pasted image 20240215130132.png",
+    "Past Questions/cps 317 past question/attachments/Pasted image 20240215130119.png",
+    "Past Questions/cps 317 past question/attachments",
+    "CPS 303/Classes.md",
+    "CPS 303/CPS 303 Note.md",
+    "CPS 303/Assignment/CPS303 Assignment 3.md",
+    "CPS 303/Assignment/CPS303 Assignment 2.md",
+    "CPS 303/Assignment/CPS303 Assignment 5.md",
+    "CPS 303/Assignment/CPS303 Assignment 4.md",
+    "CPS 303/VB error handling.md",
+    "CPS 303/CPS 303 Past Question.md",
+    "CPS 303/Compiler Directives.md",
+    "CPS 303/2021-2022 Test Answer.md",
+    "CPS 303/2020-2021 Past Question Solved.md",
+    "CPS 303/Array.md",
+    "Past Questions/cps 303 past question/2020-2021.jpg",
+    "CPS 303/Descending.md",
+    "CPS 303/Errors and Exception Handling.md",
+    "Past Questions/cps 309past question/CPS309 exams 2023.pdf",
     "CPS 323/attachments",
     "CPS 305/Documents/Memory Management.pdf",
     "CPS 305/Documents/OS_slides.pdf",
@@ -209,7 +240,6 @@
     "Past Questions/FUC/New FUC 301 Past Question.pdf",
     "Past Questions/FUC/2024_02_02 8_27 AM Office Lens.pdf",
     "Past Questions/FUC/Solved Past Question.pdf",
-    "Past Questions/FUC/FUCPQ.pdf",
     "CPS 313/Diagram.canvas",
     "Untitled.canvas",
     "CPS 301/Canvas/Functions.canvas",
