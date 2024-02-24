@@ -4,56 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "0bd1586c7642948a",
+        "id": "7157f3027eb27ac0",
         "type": "tabs",
         "children": [
           {
-            "id": "a7d8607c669abce0",
+            "id": "693803e99e0f369c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Past Questions/cps 317 past question/Solved Past.md",
+                "file": "CPS 301/Assignments/Assignment 6.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "ed338e2151d7d404",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPS 317/Comparison Assignment.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fac48cafee9d29be",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Past Questions/cps 317 past question/2022-2023 p2.jpg"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "a219999c9ce5cdfc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "630741ac7ebc56c9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Past Questions/Combined Past Question.pdf"
               }
             }
           }
@@ -86,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "CASE tools",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.50152587890625,
-    "collapsed": true
+    "width": 338.5110321044922
   },
   "right": {
     "id": "36d06e70a7634354",
@@ -132,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Past Questions/cps 317 past question/Solved Past.md",
+                "file": "CPS 301/Assignments/Assignment 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Past Questions/cps 317 past question/Solved Past.md",
+                "file": "CPS 301/Assignments/Assignment 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Past Questions/cps 317 past question/Solved Past.md"
+                "file": "CPS 301/Assignments/Assignment 6.md"
               }
             }
           }
@@ -193,54 +154,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a7d8607c669abce0",
+  "active": "693803e99e0f369c",
   "lastOpenFiles": [
-    "CPS 317/Comparison Assignment.md",
-    "CPS 317/Nominal VS Ordinal VS Scale.md",
-    "CPS 317/R Lessons.md",
-    "CPS 317/R Assignment.md",
-    "Past Questions/cps 317 past question/Solved Past.md",
-    "Past Questions/Combined Past Question.pdf",
-    "Past Questions/cps 317 past question/attachments/Pasted image 20240215174415.png",
-    "CPS 317/Untitled 1.md",
-    "CPS 317/Untitled 2.md",
-    "CPS 317/Untitled.md",
-    "CPS 317/Matrix in R.md",
-    "CPS 317/Facts from the data.md",
-    "Past Questions/cps 317 past question/2022-2023 p2.jpg",
-    "Past Questions/cps 317 past question/2021-2022.jpg",
-    "Past Questions/cps 317 past question/2022-2023.jpg",
-    "Past Questions/cps 317 past question/attachments/Pasted image 20240215142127.png",
-    "Past Questions/cps 317 past question/attachments/Pasted image 20240215141912.png",
-    "Past Questions/cps 317 past question/Past Questions.md",
-    "Past Questions/cps 317 past question/attachments/Pasted image 20240215130144.png",
-    "Past Questions/cps 317 past question/attachments/Pasted image 20240215130132.png",
-    "Past Questions/cps 317 past question/attachments/Pasted image 20240215130119.png",
-    "Past Questions/cps 317 past question/attachments",
-    "CPS 303/Classes.md",
-    "CPS 303/CPS 303 Note.md",
-    "CPS 303/Assignment/CPS303 Assignment 3.md",
-    "CPS 303/Assignment/CPS303 Assignment 2.md",
-    "CPS 303/Assignment/CPS303 Assignment 5.md",
-    "CPS 303/Assignment/CPS303 Assignment 4.md",
-    "CPS 303/VB error handling.md",
+    "CPS 301/Assignments/Assignment 7.md",
+    "CPS 301/Assignments/Assignment 6.md",
+    "CPS 301/Assignments/Assignment 5.md",
+    "CPS 301/Assignments/Assignment 3.md",
+    "CPS 301/Assignments/Assignment 4.md",
+    "CPS 301/Assignments/Assignment 2.md",
+    "CPS 301/Assignments/Assignment 1.md",
+    "GNS 201/ca2.pdf",
+    "CPS 301/Assignments/Assignment Code",
+    "CPS 301/Assignments/New folder",
+    "GNS 201/ca.pdf",
+    "GNS 201/GNS201 Complete Note.md",
+    "GNS 201/ca4.pdf",
+    "GNS 201/ca3.pdf",
+    "GNS 203/ISS 203 Islamic Ethics.pdf",
+    "CPS 313/Documents/Graphical Drawings of Systems.md",
+    "CPS 313/CPS 313 Past Question Repeated Question.md",
+    "CPS 313/Documents/i.md",
+    "CPS 313/System Analysis.md",
+    "CPS 313/UML.md",
+    "CPS 313/Generated Questions.md",
+    "CPS 313/Information Systems.md",
+    "CPS 313/Documents/Untitled 1.md",
+    "CPS 313/Documents/chap02.pdf",
+    "CPS 313/Documents/gantt and pert.pdf",
+    "CPS 313/Documents/ch01.pdf",
+    "CPS 313/Documents/Untitled.md",
+    "CPS 313/Documents/attachments/Pasted image 20240216232955.png",
+    "CPS 313/Documents/attachments/Pasted image 20240216232847.png",
+    "CPS 313/Documents/attachments/Pasted image 20240216232815.png",
+    "CPS 313/Documents/attachments/Pasted image 20240216232500.png",
+    "CPS 313/Documents/attachments/Pasted image 20240216232356.png",
+    "CPS 313/Documents/attachments/Pasted image 20240216232328.png",
+    "CPS 313/Documents/attachments/Pasted image 20240216232108.png",
+    "CPS 313/Documents/attachments/Pasted image 20240216232047.png",
+    "CPS 313/Documents/attachments/Pasted image 20240216231934.png",
+    "CPS 313/Documents/attachments/Pasted image 20240216231917.png",
+    "ENT 301/ENT 301 Assignment 2.md",
+    "ENT 301/ENT 301 Assignment 1.md",
     "CPS 303/CPS 303 Past Question.md",
-    "CPS 303/Compiler Directives.md",
-    "CPS 303/2021-2022 Test Answer.md",
-    "CPS 303/2020-2021 Past Question Solved.md",
-    "CPS 303/Array.md",
-    "Past Questions/cps 303 past question/2020-2021.jpg",
-    "CPS 303/Descending.md",
-    "CPS 303/Errors and Exception Handling.md",
-    "Past Questions/cps 309past question/CPS309 exams 2023.pdf",
-    "CPS 323/attachments",
-    "CPS 305/Documents/Memory Management.pdf",
-    "CPS 305/Documents/OS_slides.pdf",
-    "CPS 305/Documents/operating-systems-deitel-3rd-edition1pdf.pdf",
-    "Past Questions/FUC/New FUC 301 Past Question.pdf",
-    "Past Questions/FUC/2024_02_02 8_27 AM Office Lens.pdf",
-    "Past Questions/FUC/Solved Past Question.pdf",
+    "CPS 309/2022 Past Question Answers.md",
+    "CPS 309/2021 Test Solution.md",
     "CPS 313/Diagram.canvas",
+    "CPS 317/R Assignment.md",
+    "CPS 317/Linear Reggression.md",
+    "CPS 317/Nominal VS Ordinal VS Scale.md",
+    "Past Questions/cps 317 past question/Solved Past.md",
     "Untitled.canvas",
     "CPS 301/Canvas/Functions.canvas",
     "CPS 301/Canvas/POP Functions.canvas"

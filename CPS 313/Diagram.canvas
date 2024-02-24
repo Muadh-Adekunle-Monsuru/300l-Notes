@@ -1,11 +1,11 @@
 {
 	"nodes":[
-		{"id":"b6d76e94de6f2aef","x":-125,"y":-30,"width":145,"height":90,"type":"text","text":"1\nSchedule Courses"},
-		{"id":"46abd1a6577a4810","type":"text","text":"Offered courses","x":-197,"y":100,"width":145,"height":60},
-		{"id":"70ce4327861306d0","x":80,"y":100,"width":125,"height":90,"type":"text","text":"2\nEnroll \nStudents\n"},
+		{"id":"70ce4327861306d0","type":"text","text":"2\nEnroll \nStudents\n","x":80,"y":100,"width":125,"height":90},
 		{"id":"59eb5668267db828","type":"text","text":"Procedures \nClass Case","x":-240,"y":300,"width":145,"height":75},
-		{"id":"0baf8bc902c104e5","type":"text","text":"Students","x":-52,"y":300,"width":145,"height":50},
-		{"id":"8363be4c2b6589a1","type":"text","text":"Course\nEnrollment","x":-95,"y":190,"width":145,"height":75}
+		{"id":"8363be4c2b6589a1","type":"text","text":"Course\nEnrollment","x":-440,"y":263,"width":145,"height":75},
+		{"id":"0baf8bc902c104e5","type":"text","text":"Students","x":8,"y":338,"width":145,"height":50},
+		{"id":"46abd1a6577a4810","type":"text","text":"Offered courses","x":-340,"y":40,"width":145,"height":60},
+		{"id":"b6d76e94de6f2aef","type":"text","text":"1\nSchedule Courses","x":-137,"y":-120,"width":145,"height":90}
 	],
 	"edges":[
 		{"id":"a7ec20f6c0bbde70","fromNode":"0baf8bc902c104e5","fromSide":"top","toNode":"70ce4327861306d0","toSide":"bottom"},
